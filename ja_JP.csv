@@ -1,1 +1,1297 @@
-"Website Restrictions",ウェブサイト上の制限
+Design translated value,デザインの翻訳値
+translation to the same value,同値変換
+%s - %s,%s - %s
+Translation for some value for Magento_Catalog,Magento_Catalogの値の翻訳
+Translation for another value for Magento_Catalog,Magento_Catalogの別の値への翻訳
+Text translation that was last loaded,最後に読み込まれたテキスト翻訳
+%s,%s
+Translated value for Magento_Store module,Magento_Storeモジュールの翻訳された値
+Text translation that was last loaded,最後に読み込まれたテキスト翻訳
+Theme phrase is translated,テーマのフレーズを訳すと
+Magento_Catalog module phrase is overridden by theme translation,Magento_Catalogモジュールのフレーズは、テーマの翻訳によって上書きされます。
+Magento_Store module phrase is overridden by theme translation,Magento_Store モジュールのフレーズはテーマの翻訳によってオーバーライドされます。
+No marginal white space please,余白なしでお願いします。
+"Please select a website for this product in ""Product in Websites"".",ウェブサイトの中の商品」で、この商品のウェブサイトを選択してください。
+Authorization was successful,認可は成功しました
+An error occurred during the callback request from the Adobe service: %error,Adobe サービスからのコールバック要求中にエラーが発生しました。
+An error occurred during get user data. Contact support.,ユーザーデータの取得中にエラーが発生しました。サポートに連絡してください。
+The response is empty.,応答は空です。
+"Login failed. Please check if <a href=""%1"">the Secret Key</a> is set correctly and try again.","ログインに失敗しました。<a href=""%1"">秘密鍵</a>が正しく設定されているか確認し、再度お試しください。"
+An error occurred during logout operation.,ログアウト操作中にエラーが発生しました。
+An error occurred during user profile save: %error,ユーザプロファイルの保存中にエラーが発生しました: %error
+User profile with id %id not found.,id %id が見つからないユーザ・プロファイル。
+User profile with user id %id not found.,ユーザ ID %id を持つユーザ・プロファイルが見つかりませんでした。
+Could not save user profile.,ユーザ・プロファイルを保存できませんでした。
+The user profile wasn't found.,ユーザ・プロファイルが見つかりませんでした。
+Adobe IMS,Adobe IMS
+Logout,ログアウト
+Get User Profile,ユーザープロファイルの取得
+button_label,ボタンラベル
+Connection Successful!,接続成功!
+Connection Failed!,接続に失敗しました
+An error occurred during test Adobe Stock API connection,テスト中にエラーが発生しました。
+Configure an Adobe Stock account on the %io_link site to retrieve a Private key (Client secret).,io_link サイトで Adobe Stock アカウントを構成して、秘密鍵 (クライアント・シークレット) を取得します。
+Redirect URI: %redirect_uri,リダイレクト URI: %redirect_uri
+Pattern: %pattern,パターン: %pattern
+Adobe Stock Integration,アドビストックとの統合
+Enabled Adobe Stock,Adobe Stockを有効にしました。
+API Key (Client ID),APIキー（クライアントID
+Client Secret,クライアントシークレット
+"Configure an Adobe Stock account on <a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a> to get the API Key (Client ID) and Client Secret. You will not be able to use the integration without both the API Key and Client Secret.","<a href=""https://console.adobe.io"" target=""_blank"">adobe.io</a>でAdobe Stockアカウントを設定し、APIキー（クライアントID）とクライアントシークレットを取得します。APIキーとクライアントシークレットの両方がないと、統合を利用することはできません。"
+An error occurred during get asset list: %error,アセット・リストの取得中にエラーが発生しました。エラー
+Adobe Stock asset with id %id does not exist.,id %id を持つ Adobe Stock 資産は存在しません。
+Requested image doesn't exists,要求された画像が存在しません。
+"Failed to authenticate to Adobe Stock API. <br> Please correct the API credentials in <a href=""%1"">Configuration → System → Adobe Stock Integration.</a>","Adobe Stock APIへの認証に失敗しました。<a href=""%1"">設定→システム→Adobe Stock Integration.</a>でAPI認証情報を修正してください。"
+Cannot retrieve assets from Adobe Stock.,Adobe Stock から資産を取得できません。
+Could not delete Adobe Stock asset with id %id: %error,id %id を持つ Adobe Stock 資産を削除できませんでした: %error。
+An error occurred during adobe stock asset save: %error,adobe ストック・アセットの保存中にエラーが発生しました: %error
+Could not delete Adobe Stock asset category with id %id: %error,id %id で Adobe Stock 資産カテゴリを削除できませんでした: %error。
+"Adobe Stock asset category with id ""%1"" does not exist.","id ""%1"" の Adobe Stock 資産カテゴリは存在しません。"
+Could not delete Adobe Stock asset creator with id %id: %error,id %id を持つ Adobe Stock 資産作成者を削除できませんでした: %error
+"Adobe Stock asset creator with id ""%1"" does not exist.","id ""%1"" を持つ Adobe Stock 資産作成者が存在しません。"
+Adobe Stock,Adobe Stock
+Get,得る
+Cannot retrieve the field %1. It's not available in Adobe Stock SDK,フィールド %1 を取得できません。Adobe Stock SDK では使用できません。
+Files ids can not be empty.,ファイルのIDを空にすることはできません。
+An error occurred during retrieve files information.,ファイル情報の取得中にエラーが発生しました。
+Could not retrieve files information.,ファイル情報を取得できませんでした。
+Adobe API Key is invalid!,Adobe APIキーが無効です。
+Adobe API login has expired!,Adobe APIのログイン期限が切れました。
+. ': %error_message',. ': %error_message'
+Create attributes process failed: %error_message,属性の作成プロセスに失敗しました: %error_message
+Get related images list failed: %error,関連画像リストの取得に失敗しました: %error
+An error occurred during related images serialization: %error,関連する画像のシリアライズ中にエラーが発生しました。
+Failed to delete the image: %error,画像の削除に失敗しました: %error
+Image with the same file name already exits.,同じファイル名の画像は既に終了しています。
+An error occurred on attempt to retrieve image licensing information.,画像のライセンス情報を取得しようとしてエラーが発生しました。
+Retrieving license information for images failed.,画像のライセンス情報の取得に失敗しました。
+The image was licensed and saved successfully.,画像は正常にライセンスされ、保存されました。
+An error occurred on attempt to license and save the image.,画像のライセンス取得と保存を試みようとするとエラーが発生しました。
+An error occurred on attempt to retrieve user quota.,ユーザークォータを取得しようとするとエラーが発生しました。
+You have successfully downloaded the licensed image.,ライセンスされたイメージのダウンロードに成功しました。
+An error occurred on attempt to save image.,画像を保存しようとするとエラーが発生しました。
+You have successfully downloaded the image.,画像のダウンロードに成功しました。
+An error occurred on attempt to save the image.,画像を保存しようとするとエラーが発生しました。
+Get related images finished successfully,関連画像の取得が正常に終了しました。
+An error occurred on attempt to fetch related images.,関連する画像を取得しようとしてエラーが発生しました。
+Search Adobe Stock,Adobe Stockを検索
+Requested image doesn't exists.,要求された画像が存在しません。
+Localized error,ローカライズされたエラー
+Adobe API Key is invalid!,Adobe APIキーが無効です。
+Adobe API login has expired!,Adobe APIのログイン期限が切れました
+Photo,写真
+Illustration,イラストレーション
+Yes,はい
+Licensed,ライセンス
+Unlicensed,無免許
+Horizontal,水平方向
+Vertical,垂直方向
+Panoramic,パノラマ
+Standard,標準
+Premium,プレミアム
+Sort by,並び替え
+Save Preview,プレビューの保存
+"License ""","ライセンス """
+License Adobe Stock Images?,ライセンス Adobe Stock Images?
+Buy Credits,クレジットを購入する
+Your admin role does not have permissions to license an image,あなたの管理者の役割は、画像のライセンスを取得する権限を持っていません。
+License,ライセンス
+License and Save,ライセンスと保存
+The image cannot be located,画像の位置がわからない
+We cannot find this image in the media gallery.,この画像はメディアギャラリーでは見つかりません。
+Adobe Stock,アドビストック
+Couldn't log you in,ログインできませんでした
+"Please name the file using only letters, numbers, underscores and dashes",ファイルの名前は、文字、数字、アンダースコア、ダッシュのみを使用してください。
+Save Preview Image,プレビュー画像を保存
+License images,ライセンス画像
+Subcategory,サブカテゴリ
+Orientation,オリエンテーション
+Color,カラー
+Safe search,安全な検索
+Isolated Only,分離されたのみ
+Isolated Assets,分離資産
+Serie Id,セリエID
+Model Id,モデルID
+Overlay,オーバーレイ
+Thumbnail Image,サムネイル画像
+Image Preview,画像プレビュー
+Most Recent,最新のもの
+Popularity,人気
+Undiscovered,未発見
+License Status,ライセンス状況
+ID,身分証明書
+No,いいえ
+SKU: ,SKU. 
+button_label,ボタンラベル
+ID,身分証明書
+Yes,はい
+No,いいえ
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",申し訳ありませんが、Magento Analyticsへの登録リクエストの処理にエラーが発生しました。後ほどもう一度お試しください。
+Error occurred during postponement notification,延期の通知中にエラーが発生しました
+Please select an industry.,業種を選択してください。
+"Command %1"" was not found.""","コマンド %1"" が見つかりませんでした。"
+Retry Synchronization,同期の再試行
+View details,詳細を見る
+An error occurred while subscription process.,サブスクリプション処理中にエラーが発生しました。
+API,API
+This service provides a dynamic suite of reports with rich insights about your business.,このサービスは、お客様のビジネスに関する豊富な洞察力を備えたダイナミックなレポートを提供します。
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,                レポートは、管理パネルの外にあるパーソナライズされたダッシュボード上で、次のようにクリックすることで安全にアクセスできます。
+"                ""Go to Advanced Reporting"" link. </br> For more information, see our","                ""詳細レポートへ移動"" リンクをクリックしてください。</br> 詳細については"
+"                <a href=""https://magento.com/legal/terms/privacy"">terms and conditions</a>.","                <a href=""https://magento.com/legal/terms/privacy"">利用規約</a>。"
+Magento Business Intelligence provides you with a simple and clear path to,Magentoのビジネスインテリジェンスは、次のようなシンプルで明確なパスを提供します。
+"                    becoming more data driven.</br> Learn more about <a target=""_blank""","                    </br> <a target=""_blank"" の詳細については、<a href = ""/stock/stock_detail.html?"
+"                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a> tier.","                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">BI Essentials</a>のティア。"
+Analytics Subscription,アナリティクスのサブスクリプション
+powered by Magento Business Intelligence,Magentoのビジネスインテリジェンスを搭載
+Are you sure you want to opt out?,本当にオプトアウトしますか？
+Opt out,オプトアウト
+"<p>Advanced Reporting in included,",<p>付属のアドバンスドレポーティング。
+"                    free of charge, in your Magento software. When you opt out, we collect no product, order, and",                    を無料でご利用いただけます。あなたがオプトアウトすると、私たちは、製品、注文、および
+                    customer data to generate our dynamic reports.</p><p>To opt in later: You can always turn on Advanced,                    </p><p>後でオプトインするには。いつでもアドバンスドをオンにすることができます。
+                    Reporting in you Admin Panel.</p>,                    あなたの管理者パネルで報告します。
+ID,身分証明書
+Yes,はい
+No,いいえ
+Return to,戻る
+Magento,Magento
+ver. %1,ver. %1
+WK,ＷＫ
+JavaScript/CSS,JavaScript/CSS
+"<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk.","<strong class=""colorRed"">警告！</strong> この機能を有効にすることは、セキュリティ上のリスクがあるため、本番環境では推奨されません。"
+ in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.)., サードパーティのサービス（例：PayPalなど）でストアコードのないURLを指定した場合、システムが正常に動作しない場合があります。
+ in some cases system may not work properly if URLs without Store Codes are specified in the third-party services (e.g. PayPal etc.)., サードパーティのサービス（例：PayPalなど）でストアコードのないURLが指定されている場合、システムが正常に動作しない場合があります。
+Auto-redirect to Base URL,ベースURLへのオートリダイレクト
+Use URL parameter to enable template path hints for Storefront,URLパラメータを使用して、Storefrontのテンプレートパスヒントを有効にする
+Add the following parameter to the URL to show template hints ?templatehints=[parameter_value],テンプレートヒントを表示するためのURLに以下のパラメータを追加します。
+FTP,エフティーピー
+ID,身分証明書
+Cart Price Rule Related,カート価格ルール関連
+Catalog Price Rule Related,カタログ価格ルール関連
+Dynamic Block Block Template,ダイナミックブロックブロックテンプレート
+Dynamic Block with ID: %s doesn't exist,ID を持つダイナミック・ブロック: %s は存在しません。
+Dynamic Block Disabled,ダイナミックブロック無効
+Dynamic block cannot be displayed,ダイナミックブロックが表示できない
+ID,身分証明書
+%1 x %2,%1 x %2
+ID,身分証明書
+CAPTCHA,キャプチャ
+ID,身分証明書
+No,いいえ
+Yes,はい
+AM,AM
+PM,PM
+You moved the category.,カテゴリーを移動しました。
+Are you sure you want to remove this item from your Compare Products list?,商品比較リストからこの項目を削除してもよろしいですか？
+Are you sure you want to remove all items from your Compare Products list?,商品比較リストからすべてのアイテムを削除してもよろしいですか？
+frontend_label,フロントエンドのラベル
+%1 - %2,%1 - %2
+Percentage value must be a number between 0 and 100.,パーセンテージ値は、0～100の間の数値でなければなりません。
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",要求されたストアが見つかりません。行 ID。SKU = %SKU、ストア ID: %storeId。
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",無効な属性 Cost = %cost。行 ID。SKU = %SKU、ストア ID: %storeId。
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",要求された製品は存在しません。行 ID。行 ID: SKU = %SKU、ストア ID: %storeId、価格は From. priceFrom、PriceTo: %priceTo。
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",要求されたストアが見つかりません。行 ID。SKU = %SKU、ストア ID: %storeId、価格: %priceFrom、価格To: %priceTo。priceFrom、PriceTo: %priceTo。
+"Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",無効な属性 %label = %priceTo。行 ID。SKU = %SKU、ストア ID: %storeId、価格は %priceFrom、価格は %priceTo。priceFrom、PriceTo: %priceTo。
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",無効な属性 Price = %price。行 ID。SKU = %SKU、ストア ID: %storeId、価格の始点: %priceFrom、価格の終点: %priceTo。priceFrom、Price To: %priceTo。
+Could not save Tier Prices,階層価格を保存できませんでした。
+Could not replace Tier Prices,ティア価格を置き換えることができませんでした。
+Could not delete Tier Prices,ティア価格の削除ができませんでした。
+"Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",無効な属性 SKU = %SKU。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",無効な属性 Price = %price。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"Invalid attribute Price Type = %priceType. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",無効な属性 Price Type = %priceType。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"Invalid attribute Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",無効な属性 Quantity = %qty。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"Invalid attribute Website ID = %websiteId. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",無効な属性 Web サイト ID = %websiteId。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"We found a duplicate website, tier price, customer group and quantity: Customer Group = %customerGroup, Website ID = %websiteId, Quantity = %qty. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",Web サイト、ティア価格、顧客グループ、数量が重複していることがわかりました。顧客グループ = %customerGroup、Web サイト ID = %websiteId、数量 = %qty。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+"No such entity with Customer Group = %customerGroup. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",顧客グループ = %customerGroup を持つエンティティはありません。行 ID。SKU = %SKU、Web サイト ID: %websiteId、顧客グループ: %customerGroup、数量: %qty。
+Database connection error,データベース接続エラー
+Database deadlock found when trying to get lock,ロックを取得しようとしたときにデータベースのデッドロックが発生
+Database lock wait timeout exceeded,データベースロックの待ち時間がタイムアウトを超えました。
+Could not get extension attributes,拡張子の属性を取得できませんでした。
+fl,ぺったんこ
+Lock wait timeout,ロック待ちタイムアウト
+123,123
+Customer Group Price,顧客グループ価格
+1%,1%
+"If your Magento installation has multiple websites, you can edit the scope to use the product on specific sites.",あなたのMagentoのインストールが複数のウェブサイトを持っている場合は、特定のサイトで製品を使用するためにスコープを編集することができます。
+Please select a node.,ノードを選択してください。
+"An attribute group named ""/name/"" already exists.",/name/という名前の属性グループが既に存在しています。
+%1 <span>x</span> %2 <span>px.</span>,1 <span>x</span> %2 <span>px.</span
+{size},サイズ
+{width}^{height} px,{幅}^{高さ}px
+OK,OK
+"This value does not follow the specified format (for example, 200X300).",この値は、指定された形式（例えば、200x300）には従いません。
+Media content will be inserted into the editor as a static URL. Media content is not updated if the system configuration base URL changes.,メディアコンテンツは、静的なURLとしてエディタに挿入されます。システム構成のベースURLが変更された場合、メディアコンテンツは更新されません。
+Add to Wishlist,欲しい物リストに追加
+Display Mode,表示モード
+Available Product Listing Sort By,利用可能な製品リスト 並び替え
+Default Product Listing Sort By,デフォルトの製品リスト ソート順
+Skip to the end of the images gallery,画像ギャラリーの最後までスキップ
+Skip to the beginning of the images gallery,画像ギャラリーの先頭へスキップ
+Start typing to find products,製品を探すために入力を開始します。
+Product with ID: (%1) doesn't exist,ID を持つ製品。(%1) が存在しません。
+Category with ID: (%1) doesn't exist,ID を持つカテゴリ。(%1) が存在しません。
+"You added product %1 to the <a href=""%2"">comparison list</a>.","<a href=""%2"">比較リスト</a>に製品 %1 が追加されました。"
+Edit Product Design,製品デザインの編集
+Edit Category Design,カテゴリデザインの編集
+A total of %1 record(s) haven't been deleted. Please see server logs for more details.,合計で %1 レコードが削除されていません。詳細については、サーバ・ログを参照してください。
+Attribute Set Information,属性セット情報
+"Failed to retrieve product links for ""%1""","1"" の製品リンクを取得できませんでした。"
+Hrs,時間
+Mins,分
+ID,身分証明書
+No,いいえ
+Allow Browsing Category,閲覧を許可する カテゴリ
+ID,身分証明書
+Yes,はい
+No,いいえ
+Catalog Price Rules,カタログ価格のルール
+Catalog Price Rule,カタログ価格のルール
+ID,身分証明書
+Yes,はい
+No,いいえ
+200,200
+100,100
+50,50
+30,30
+20,20
+Yes,はい
+No,いいえ
+%1 - %2,%1 - %2
+This value must be compatible with the corresponding setting in the configured search engine. Be aware: a low query length limit may cause the performance impact.,この値は、設定された検索エンジンの対応する設定と互換性がある必要があります。注意: クエリ長の制限値が低いと、パフォーマンスに影響を与える可能性があります。
+This value must be compatible with the corresponding setting in the configured search engine.,この値は、構成された検索エンジンの対応する設定と互換性がある必要があります。
+Categories,カテゴリー
+product,せいひん
+category,範疇
+200,200
+100,100
+50,50
+30,30
+20,20
+ID,身分証明書
+"Generate ""category/product"" URL Rewrites",カテゴリ/商品」のURLリライトを生成する
+"URL key ""%1"" matches a reserved endpoint name (%2). Use another URL key.","URL キー ""%1"" は予約済みのエンドポイント名 (%2) と一致します。別の URL キーを使用してください。"
+"Invalid URL key. The ""%1"" URL key can not be used to generate Latin URL key. Please use Latin letters and numbers to avoid generating URL key issues.","無効な URL キーです。URL キー ""%1"" を使用して、ラテン文字の URL キーを生成することはできません。URL キーの問題を生成しないように、ラテン文字と数字を使用してください。"
+"Invalid URL key. The ""%1"" category name can not be used to generate Latin URL key. Please add URL key or change category name using Latin letters and numbers to avoid generating URL key issues.","無効な URL キーです。1"" カテゴリ名 ""%1"" を使用して、ラテン語の URL キーを生成できません。URLキーを追加するか、ラテン文字と数字を使用してカテゴリ名を変更して、URLキーの問題が発生しないようにしてください。"
+"<strong style=""color:red"">Warning!</strong> Turning this option off will result in permanent removal of category/product URL rewrites without an ability to restore them.","<strong style=""color:red"">警告！</strong> このオプションをオフにすると、カテゴリ/商品のURL書き換えが復元できずに永久に削除されます。"
+Catalog Url Rewrite Staging,カタログURL書き換えステージング
+Catalog Products List,カタログ製品一覧
+Payment Page,お支払いページ
+View and Edit Cart,カートの表示と編集
+Number of Items to Display Pager,ページャーの表示項目数
+Mini Cart,ミニカート
+Display Mini Cart,ミニカートを表示
+HTML,エッチエムティーエル
+ID,身分証明書
+ID,身分証明書
+CMS,ＣＭＳ
+"Please rename the folder using only Latin letters, numbers, underscores and dashes.",フォルダの名前をラテン文字、数字、アンダースコア、ダッシュのみで変更してください。
+LocalizedException,ローカライズされた例外
+RuntimeException,ランタイム例外
+Edit Page Design,ページデザインの編集
+CMS Pages,CMSページ
+CMS Blocks,CMSブロック
+block,塞ぐ
+page,ページ
+200,200
+100,100
+50,50
+30,30
+20,20
+ID,身分証明書
+"We can't save this option because Magento is not installed. To lock this value, enter the command again using the --%1 option.",Magentoがインストールされていないので、このオプションを保存することはできません。この値をロックするには、--%1オプションを使って再度コマンドを入力します。
+"The value you set has already been locked. To change the value, use the --%1 option.",設定した値はすでにロックされています。値を変更するには --%1 オプションを使用します。
+1%,1%
+"Configuration for path: ""%1"" doesn't exist","パスの構成。""1"" の構成が存在しません。"
+No,いいえ
+HTTPS (SSL),ＨＴＴＰＳ（ＳＳＬ
+Yes (302 Found),はい (302 件見つかりました)
+Yes (301 Moved Permanently),はい (301は永久に移動しました)
+Yes,はい
+"%1: Instance of %2 is expected, got %3 instead",1: %2 のインスタンスが期待されていますが、代わりに %3 を取得しました。
+Filesystem is not writable.,ファイルシステムは書き込み可能ではありません。
+error message,エラーメッセージ
+some_label,幾つかのラベル
+some_comment,一言
+"Taiwan, Province of China",たいわん
+Select values from each attribute to include in this product. Each unique combination of values creates a unique product SKU.,この製品に含める各属性の値を選択します。それぞれの値のユニークな組み合わせは、ユニークな製品SKUを作成します。
+{size},サイズ
+{width}^{height} px,幅}^{高さ}px
+Choose this option to delete and replace extension data for all past configurations.,このオプションを選択すると、過去のすべての構成の拡張子データを削除して置き換えることができます。
+"When you remove or add an attribute, we automatically update all configurations and you will need to recreate current configurations manually.",属性を削除または追加すると、すべての構成が自動的に更新されるため、現在の構成を手動で再作成する必要があります。
+Buy %1 for %2 each and,1 を %2 で購入して
+save,貯める
+ID,身分証明書
+ID,身分証明書
+Cookies are disabled in your browser.,お使いのブラウザではクッキーが無効になっています。
+Enter the Cookie Lifetime in seconds.,クッキーの有効期限を秒単位で入力してください。
+Enter a valid cookie path. e.g. /,有効なクッキーのパスを入力してください。
+"Enter a valid domain name. e.g. ""subdomain.yourdomain.com"", "".yourdomain.com""","有効なドメイン名を入力してください。例：""subdomain.yourdomain.com"", "".yourdomain.com"""
+"When Cookie Restriction Mode is enabled, visitors to your store are notified that cookies are required for full-featured operations.",クッキー制限モードが有効になっている場合、ストアへの訪問者には、フル機能の操作にクッキーが必要であることが通知されます。
+Invalid callback: Not_Existed_Class::execute can't be called,無効なコールバックです。Not_Existed_Class::execute を呼び出すことができません。
+Test exception,テスト例外
+No,いいえ
+Yes,はい
+Yes/No,はい/いいえ
+URL,ＵＲＬ
+ID,身分証明書
+No,いいえ
+Yes,はい
+"No such entity with %fieldName = %fieldValue, %field2Name = %field2Value",fieldName = %fieldValue、%field2Name = %field2Value のエンティティはありません。
+NoSuchEntityException,NoSuchEntityException
+InputException.,InputExceptionを使用しています。
+InputException,インプットException
+frontend_label,フロントエンドラベル
+region is a required field.,region は必須項目です。
+regionId is a required field.,regionId は必須項目です。
+Fax,ファクス
+"%name,",名前が表示されます。
+"                        This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />",                        <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> *1. <br /><br /> <br /><br />
+"                        Email template chosen based on theme fallback when ""Default"" option is selected.",                        メールテンプレートは、「デフォルト」オプションが選択されている場合、テーマのフォールバックに基づいて選択されます。
+"                        This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />",                        このメールは、アカウント確認後、デフォルトのウェルカムメールの代わりに送信されます。<br /><br /> <br /><br
+"                        Email template chosen based on theme fallback when ""Default"" option is selected.","                        Default ""オプションが選択されている場合、テーマのフォールバックに基づいて選択されたメールテンプレート。"
+                        Semicolon (;) separated values.<br/>Leave empty for open text field.,                        セミコロン(;)で区切られた値。
+"Only 'b', 'br', 'em', 'i', 'li', 'ol', 'p', 'strong', 'sub', 'sup', 'ul' tags are allowed",b'、'br'、'em'、'i'、'li'、'ol'、'p'、'strong'、'sub'、'sup'、'ul'タグのみ許可されています。
+"If your Magento installation has multiple websites, you can edit the scope to associate the customer with a specific site.",Magento のインストール先に複数のウェブサイトがある場合は、スコープを編集して特定のサイトに顧客を関連付けることができます。
+Associate to Website,ウェブサイトに関連付ける
+The Date of Birth should not be greater than today.,生年月日は今日より大きくしてはいけません。
+The store view is not in the associated website.,ストアビューが関連するウェブサイトにない。
+The Store View selected for sending Welcome email from is not related to the customer's associated website.,ウェルカムメールを送信するために選択されたストアビューは、顧客の関連するウェブサイトに関連していません。
+No,いいえ
+By admin: %1.,By admin: %1.
+"%name,",名前が表示されます。
+Customer Address Attributes,顧客アドレスの属性
+No,いいえ
+Yes,はい
+Length Only,長さのみ
+A fieldset with the same code already exists.,同じコードのフィールドセットが既に存在します。
+Fax,ファックス
+ID,身分証明書
+%1 does not implement %2,1 は %2 を実装していません。
+File app/etc/%1 can't be read. Please check if it exists and has read permissions.,ファイル app/etc/%1 を読み込むことができません。存在し、読み取り権限があるかどうかを確認してください。
+There are no sensitive configurations to fill,埋めるためのセンシティブな設定はありません。
+Value can't be empty,値を空にすることはできません
+A configuration with this path does not exist or is not sensitive,このパスを持つ設定は存在しないか、または敏感ではありません。
+some message,一言
+Client side compilation doesn't work in production mode,クライアント側のコンパイルが本番モードで動作しない
+Log to File,ファイルへのログ
+Modifying this configuration has no effect in production mode.,この設定を変更しても、本番モードでは何の影響もありません。
+Inches,インチ
+cm,センチ
+DHL,ディー・エイチ・エル
+Whether to use Documents or NonDocuments service for non domestic shipments. (Shipments within the EU are classed as domestic),国内輸送以外の貨物でDocumentsサービスを利用するか、NonDocumentsサービスを利用するかを選択します。(EU域内の貨物は国内貨物に分類されます)
+"                        Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").",                        基準通貨は、すべてのオンライン決済取引で使用されます。基軸通貨のスコープは、カタログ価格スコープ（「カタログ」 > 「価格」 > 「カタログ価格スコープ」）によって定義されます。
+Fixer.io,Fixer.io
+"The ""%1"""" is not allowed as base currency for your subscription plan.""","サブスクリプション プランの基準通貨として「%1」が許可されていません。"""
+No API Key was specified.,API キーが指定されていませんでした。
+Yes,はい
+No,いいえ
+URL,ＵＲＬ
+U,U
+Link URL's domain is not in list of downloadable_domains in env.php.,env.phpのdownloadable_domainsのリストにリンクURLのドメインがありません。
+Sample URL's domain is not in list of downloadable_domains in env.php.,サンプルURLのドメインがenv.phpのdownloadable_domainsのリストにありません。
+Yes,はい
+No,いいえ
+URL,ＵＲＬ
+Yes/No,はい/いいえ
+"Admin store attribute option label ""%1"" is already exists.","管理者ストア属性オプション・ラベル ""%1"" が既に存在します。"
+Minimum Terms to Match,一致する最低条件
+1%,1%
+<pre> %1 </pre>,<pre> %1 </pre>。
+Load Default Template,デフォルトテンプレートの読み込み
+ID,身分証明書
+No,いいえ
+Yes,はい
+Hub ID,ハブID
+"Can't convert a shipping cost from ""%1-%2"" for FedEx carrier.","FedEx 運送会社の送料を ""%1-%2"" から変換できません。"
+Yes,はい
+No,いいえ
+%1 [%2],%1 [%2]
+"%name,",名前が表示されます。
+ID,身分証明書
+Yes,はい
+No,いいえ
+By admin: %1.,管理者によって: %1。
+This won't take long . . .,これは長くはかかりません .
+"%name,",名前を入力してください。
+%store_name,ストア名
+OK,宜しい
+ID,身分証明書
+No,いいえ
+Yes,はい
+%1 email(s) were sent.,1 つの電子メールが送信されました。
+1%,1%
+Fax,ファックス
+This won't take long . . .,長くはかからないだろう・・・
+"%name,",名前が表示されています。
+1%,1%
+ID,身分証明書
+The gift wrapping ID is incorrect. Verify the ID and try again.,ギフトラッピングのIDが間違っています。IDを確認してから再度お試しください。
+Requested gift wrapping does not exist.,要求されたギフトラッピングは存在しません。
+Google AdWords,グーグルアドワーズ
+Google API,グーグルエーピーアイ
+Google Analytics Enhanced Ecommerce Settings,Googleアナリティクスの強化されたEコマースの設定
+Yes,はい
+No,いいえ
+ID,身分証明書
+ID,身分証明書
+Fixed Price: From,定価です。から
+Validation Strategy,バリデーション戦略
+"For Type ""Local Server"" use relative path to &lt;Magento root directory&gt;/var/import/images, e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/var/import/images/product_images</i> folder.","<br><br>例えば、<i>product_images</i>, <i>import_images/batch1</i>.<br><br> <i>product_images</i>の場合、ファイルは<i>&lt;Magentoのルートディレクトリ&gt;/var/import/images</i>フォルダに配置されます。"
+ID,ID
+New product data is added to existing product data entries in the database. All fields except SKU can be updated.,データベース内の既存の商品データエントリに新しい商品データが追加されます。SKU以外のすべてのフィールドを更新することができます。
+All existing product data is replaced with the imported new data. <b>Exercise caution when replacing data. All existing product data will be completely cleared and all references in the system will be lost.</b>,既存の商品データはすべて、インポートされた新しいデータに置き換えられます。<b>データを置き換える際には注意が必要です。既存のすべての製品データは完全にクリアされ、システム内のすべての参照が失われます。
+Any entities in the import data that match existing entities in the database are deleted from the database.,データベース内の既存のエンティティと一致するインポートデータ内のエンティティは、データベースから削除されます。
+"Message is added to queue, wait to get your file soon. Make sure your cron job is running to export the file",メッセージがキューに追加され、すぐにファイルを取得するのを待ちます。ファイルをエクスポートするためにcronジョブが実行されていることを確認してください。
+Invalid response,無効な応答
+File %1 deleted,ファイル %1 が削除されました。
+Please provide valid export file name,有効なエクスポートファイル名を入力してください
+%1 is not a valid file,1 は有効なファイルではありません。
+Invalidate index,無効なインデックス
+We couldn't invalidate indexer(s) because of an error.,エラーが発生したので、インデクサを無効にできませんでした。
+%1 indexer(s) were invalidated.,1 個のインデクサが無効になりました。
+Are you sure you want to invalidate the selected index(es)?,選択したインデックスを無効にしてもよろしいですか?
+API,API
+Integration not secure,統合は安全ではありません
+OAuth,ＯＡＵＴＳ
+"Source with code ""%value"" does not exist.","コード ""%value"" を持つソースは存在しません。"
+Could not load Sources for Stock,ストックのソースをロードできませんでした。
+Validation Failed,バリデーション失敗
+Validation Error: Select different sources for origin and destination.,バリデーション・エラーです。送信元と送信先で異なるソースを選択してください。
+Could not save Source,ソースを保存できませんでした。
+%field can not be empty.,field を空にすることはできません。
+%field can not contain whitespaces.,field には空白を含めることはできません。
+Input data is empty,入力データは空です。
+Could not save Source Item,ソース項目を保存できませんでした。
+Could not delete Source Items,ソースアイテムを削除できませんでした。
+%field should be numeric.,%field は数値でなければなりません。
+%field should a known status.,%field は既知の状態でなければなりません。
+"There is no stock with ""%fieldValue"" for ""%fieldName"". Verify and try again.","fieldName"" の ""%fieldValue"" を持つ在庫はありません。確認してから再度試してください。"
+Could not delete Stock,ストックを削除できませんでした。
+"Stock with id ""%value"" does not exist.","ID ""%value"" のストックは存在しません。"
+Could not save Stock,ストックを保存できませんでした
+Could not delete StockSourceLinks,StockSourceLinksを削除できませんでした。
+Could not save StockSourceLinks,StockSourceLinksを保存できませんでした。
+%field should be greater then 0.,%field は 0 より大きくなければなりません。
+Edit Source,ソースの編集
+Edit Source: %name,編集ソース: %name
+"Source with source code ""%value"" does not exist.","ソース・コード ""%value"" を持つソースは存在しません。"
+Sources,ソース
+Manage Sources,ソースの管理
+[ID: %value] The Source does not exist.,[ID: %value] ソースは存在しません。
+[ID: %value] %message,[ID: %value] %message
+Please correct the sent data.,送信データの修正をお願いします。
+New Source,新しいソース
+The Source has been saved.,ソースは保存されています。
+The Source does not exist.,ソースは存在しません。
+Could not save Source.,ソースを保存できませんでした。
+The Stock has been deleted.,ストックが削除されました。
+Edit Stock,ストックの編集
+Edit Stock: %name,在庫を編集する: %name
+"Stock with id ""%value"" does not exist.","ID ""%value"" のストックは存在しません。"
+[ID: %value] The Stock does not exist.,ID: %value] 在庫は存在しません。
+[ID: %1] ,[ID: %1] 
+You deleted %1 Stock(s).,あなたは %1 在庫を削除しました。
+New Stock,新しい在庫
+The Stock has been saved.,ストックは保存されました。
+The Stock does not exist.,ストックは存在しません。
+Could not save Stock.,ストックを保存できませんでした。
+Assigned Sources:,割り当てられたソースです。
+Are you sure you want to delete this stock?,このストックを削除してもよろしいですか？
+Stocks,ストック
+Source Information,ソース情報
+Is Enabled,有効化されている
+Latitude,緯度
+Longitude,経度
+Contact Info,連絡先
+Fax,ファックス
+Address Data,アドレスデータ
+Postcode,郵便番号
+Add New Source,新しいソースの追加
+Stock Information,株式情報
+Assign Sources,ソースの割り当て
+Assigned Sources,割り当てられたソース
+Add New Stock,新規在庫の追加
+ID,身分証明書
+Assigned Sources,割り当てられたソース
+Source item Validator must implement SourceItemValidatorInterface.,ソース項目バリデータは SourceItemValidatorInterface を実装しなければなりません。
+Source Validator must implement SourceValidatorInterface.,ソースのバリデータはソースValidatorInterfaceを実装しなければなりません。
+Validator must implement StockSourceLinkValidatorInterface.,バリデータは StockSourceLinkValidatorInterface を実装する必要があります。
+Stock Validator must implement StockValidatorInterface.,ストック バリデータは、ストックValidatorInterface を実装する必要があります。
+Sources,ソース
+Edit Sources,ソースの編集
+Stocks,株式
+Edit Stocks,株式の編集
+Delete Stocks,株の削除
+Source to Stock Assigning,ソースからストックへの割り当て
+Validation Failed,バリデーション失敗
+Following products with requested skus were not found: %1,要求されたスクスを持つ以下の製品は見つかりませんでした: %1
+Following products with requested ids were not found: %1,要求された ID を持つ以下の製品が見つかりませんでした: %1
+Source %sourceCode does not exist,ソース %sourceCode が存在しません。
+Origin source %sourceCode does not exist,原点ソース %sourceCode が存在しません。
+Destination source %sourceCode does not exist,宛先ソース %sourceCode が存在しません。
+Cannot transfer a source on itself,自分自身でソースを転送できない
+Default source can not be disabled.,デフォルトソースを無効にすることはできません。
+Can not save link related to Default Source or Default Stock,デフォルトソースまたはデフォルトストックに関連するリンクを保存できません。
+Website code is empty,ウェブサイトのコードは空です
+Default Stock could not be deleted.,デフォルトストックを削除できませんでした。
+Can not delete link related to Default Source or Default Stock,デフォルトソースまたはデフォルトストックに関連するリンクを削除できませんでした。
+Could not create products collection.,商品コレクションを作成できませんでした。
+Selected products are not assigned to any source.,選択した製品がどのソースにも割り当てられていません。
+Bulk Inventory Transfer,一括在庫転送
+Bulk operation was successful: %count inventory transfers.,一括処理が正常に行われました: %count インベントリ転送。
+Your request was successfully queued for asynchronous execution,リクエストは非同期実行のために正常にキューに入れられました。
+Something went wrong during the operation.,作戦中に何か問題が発生した。
+Bulk source assignment,バルクソースの割り当て
+Bulk operation was successful: %count assignments.,一括操作が成功しました: %count 割り当て。
+Bulk source unassignment,一括ソースの割り当て解除
+Bulk operation was successful: %count unassignments.,一括処理は正常に実行されました: %count 未割り当て。
+Wrong Product to Source relation parameters given.,間違った Product to Source リレーション・パラメータが指定されました。
+<strong>NOTE</strong>: Assign sources is disabled for default stock,<strong>NOTE</strong>。ソースの割り当ては既定の在庫では無効です。
+Disabled for default stock,デフォルトのストックでは無効
+Quantity per Source,ソースごとの数量
+Products will be added to new sources with 0 quantity.,商品は数量0で新規ソースに追加されます。
+Bulk operation,一括操作
+"Select the origin and destination sources to transfer product inventory quantities and additional settings. This transfers all existing quantities, setting a 0 quantity on the origin source. You have an option to unassign the origin source from the products you selected.",製品インベントリの数量と追加設定を転送するために、送信元と送信先のソースを選択します。これは、既存のすべての数量を転送し、原点ソースに0の数量を設定します。選択した製品から送信元の指定を解除するオプションがあります。
+You selected <strong>%count</strong> products for this bulk operation.,このバルク操作では、<strong>%count</strong>製品を選択しました。
+Transfer Inventory,在庫の転送
+Transfer from the origin source,原点からの転送
+to the destination source,を宛先ソースに送信します。
+Unassign the origin source from selected products after transfer.,転送後、選択した製品からの原産地の割り当てを解除します。
+Select one or more sources,1つ以上の原産地を選択
+Products quantity will be permanently removed from selected sources.,製品の数量は、選択したソースから永久に削除されます。
+Quantity per Source:,ソースごとの数量。
+Admin bulk operations,管理者のバルク操作
+Run asynchronously,非同期での実行
+Asynchronous batch size,非同期バッチサイズ
+The Default Source must be enabled. A default source is required for single source merchants and product migration.,デフォルトソースを有効にする必要があります。シングルソースのマーチャントや製品の移行には、デフォルトのソースが必要です。
+Sources,ソース
+Assign Sources,ソースの割り当て
+Assigned Sources,割り当てられたソース
+Source Code,ソースコード
+Source Status,ソースの状態
+Source Item Status,ソース アイテム ステータス
+Mass source assignment,マスソースの割り当て
+Are you sure you want to assign selected items to inventory sources?,選択したアイテムをインベントリソースに割り当てますか？
+Assign Inventory Source,インベントリソースの割り当て
+Unassign Inventory Source,棚卸資産ソースのアンアサイン
+Are you sure you want to unassign one or more sources from the selected items?,選択した項目から1つ以上のソースの割り当てを解除しますか？
+Transfer Inventory To Source,インベントリをソースに転送
+Transfer all inventory quantities and additional settings from one source to another for products you selected. Do you want to continue?,選択した製品のすべての在庫量と追加設定を1つのソースから別のソースに転送します。続けますか？
+Source code: ,ソースコードです。
+Source Validator must implement BulkInventoryTransferValidatorInterface.,ソース・バリデータは、BulkInventoryTransferValidatorInterfaceを実装する必要があります。
+Source Validator must implement AssignValidatorInterface.,ソース バリデータは AssignValidatorInterface を実装しなければなりません。
+Source Validator must implement MassUnassignValidatorInterface.,ソース バリデータは MassUnassignValidatorInterface を実装しなければなりません。
+Quantity Per Source,ソースあたりの数量
+{size},サイズ
+{width}^{height} px,幅}^{高さ}px
+Quantity per source,ソースごとの数量
+Show more...,もっと見る...
+Assign Sources,ソースの割り当て
+Source,ソース
+Source Status,ソースの状態
+The requested sku is not assigned to given stock.,要求された sku が指定された在庫に割り当てられていません。
+No destination address was provided in the request,リクエストには宛先アドレスが記載されていませんでした
+Google API key is not defined,Google APIキーが定義されていない
+Unable to connect google API for distance matrix,距離行列のための google API に接続できない
+Unable to get distance between %1 and %2,1 と %2 の間の距離を取得できません。
+Unable to connect google API for geocoding,ジオコーディングのための google API を接続できない
+Unable to geocode address %1,アドレス %1 をジオコードできません。
+Cannot download country,国をダウンロードできない
+Undefined country code,未定義の国コード
+Unknown geoname for %1,1 の不明なジオネーム。
+Distance Priority,距離の優先順位
+Algorithm which provides Source Selections based on shipping address distance from the source,発送元からの配送先住所の距離に基づいて発送元を選択するアルゴリズム
+Driving,運転
+Walking,ウォーキング
+Bicycling,サイクリング
+Distance,距離
+Time to destination,目的地までの時間
+Distance Provider for Distance Based SSA,距離ベースのSSAのための距離プロバイダー
+Provider,プロバイダ
+Google Distance Provider,グーグル距離プロバイダ
+Google API key,Google APIキー
+Computation mode,計算モード
+No such distance provider: %1,そのような距離のプロバイダはありません。%1
+No such latitude and longitude from address provider: %1,アドレス・プロバイダからのそのような緯度および経度はありません。%1
+Quantity per Source,ソースごとの数量
+Quantity Per Source,ソースあたりの数量
+Show more...,もっと見る...
+"Filter handler must be instance of ""%interface""","フィルタ・ハンドラは ""%interface"" のインスタンスでなければなりません。"
+"No filter processor for ""%type"" given.","指定された ""%type"" のフィルタ・プロセッサがありません。"
+"Given column name ""%columnName"" is not present in collection.","指定された列名 ""%columnName"" はコレクションに存在しません。"
+"There is no backend type specified for column ""%columnName"".","列 ""%columnName"" に指定されたバックエンド・タイプはありません。"
+Source Import Commands must implement %interface.,ソース・インポート・コマンドは %interface を実装する必要があります。
+"There is no command registered for behavior ""%behavior"".","ビヘイビア ""%behavior"" に登録されているコマンドはありません。"
+"Missing required column ""%column""","必須列 ""%column"" がありません。"
+"Source code ""%code"" does not exists","ソース・コード ""%code"" が存在しません。"
+Row Validator must implement %interface.,行バリデータは %interface を実装する必要があります。
+"Can not find Pickup Location with code %1 for %2 Sales Channel ""%3"".","2 販売チャネル ""%3"" のコード %1 を持つピックアップ場所が見つかりません。"
+The Default Source can not be used for In-Store Pickup Delivery.,既定のソースは、店舗内ピックアップ配信に使用できません。
+Frontend Description,フロントエンドの説明
+Pickup Location Name visible for the customer on checkout.,ピックアップ場所の名前は、チェックアウト時にお客様に表示されます。
+Pickup Location,ピックアップ場所
+Frontend Name,フロントエンド名
+The Default Source can not be used for In-Store Pickup delivery.,デフォルトのソースは、インストアピックアップの配信には使用できません。
+Pick in Store,店頭でのピック
+PickupLocation type not defined in schema.,PickupLocation 型がスキーマで定義されていません。
+Region or city or postcode must be specified for the filter by distance.,距離によるフィルタには、地域、都市、郵便番号を指定する必要があります。
+current_page value must be greater than 0.,current_page の値は 0 より大きくする必要があります。
+page_size value must be greater than 0.,page_size の値は 0 より大きくなければなりません。
+In-Store Pickup is not available with multiple address checkout.,店頭受取は、複数のアドレスのチェックアウトでは利用できません。
+Pickup Location Code is required for In-Store Pickup Delivery Method.,店頭集荷の配送方法には、集荷場所コードが必要です。
+Pickup Location Address does not match Shipping Address for In-Store Pickup Quote.,店頭集荷見積書の配送先住所と集荷場所の住所が一致しません。
+Quote does not have Pickup Location assigned.,見積書には、集荷場所が割り当てられていません。
+The order is not ready for pickup,ご注文はお受け取りの準備ができていません
+The customer has been notified and shipment created.,お客様への通知と発送物の作成が完了しました。
+We can't notify the customer right now.,今はお客様への通知はできません。
+Notify Order is Ready for Pickup,注文が集荷可能な状態になったことを通知する
+No Pickup Locations available for Sales Channel %1.,販売チャネル %1 で使用できるピックアップ場所がありません。
+Can not resolve Sales Channel for Website with id %1.,ID %1 を持つ Web サイトの販売チャネルを解決できません。
+Delivery Methods,配送方法
+In-Store Pickup Carrier Rate Request Validator must implement %1.,インストア・ピックアップ・キャリア・レート要求バリデータは %1 を実装する必要があります。
+Table %table already exits,テーブル %table は既に終了しています。
+Could not receive Stock Item data,銘柄データを受信できませんでした。
+Inventory index (MSI),在庫指数（MSI
+Could not delete SourceItems Configuration.,SourceItems 構成を削除できませんでした。
+Wrong input data,間違った入力データ
+Could not load Source Item Configuration.,ソース アイテム構成をロードできませんでした。
+Input data is empty,入力データが空です
+Could not save Source Item Configuration,ソース項目の設定を保存できませんでした。
+%1 has reached a quantity of %2 in source %3(Source Code: %4).,1 がソース %3 (ソース・コード: %4) の %2 の量に達しました。
+Wrong Product to Source relation parameters given.,間違った製品とソースのリレーションシップ・パラメータが指定されました。
+Source Code,ソース・コード
+Notify Quantity,数量を通知する
+Notify Quantity Use Default,数量を通知する デフォルトの使用
+Notify Qty,数量を通知する
+Wrong value %value for alias,エイリアスの値が間違っています。
+Dimension have to be instance of Dimension class.,DimensionはDimensionクラスのインスタンスでなければなりません。
+Input data is empty,入力データが空
+Cannot update Reservation %reservation,予約を更新できません。
+Could not append Reservation,予約を追加できませんでした。
+Validation error,バリデーションエラー
+%field is expected to be a number.,%field は数値であることが期待されます。
+%field can not be empty.,%field を空にすることはできません。
+%field can not be null.,%field を NULL にすることはできません。
+Can't check requested quantity for products without Source Items support.,ソースアイテムに対応していない商品について、要求された数量を確認できない。
+No linked stock found,リンクされている在庫が見つかりません
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.",要求された数ほどの数量を持っていませんが、残りの %1 をバックオーダーします。
+"Parameter ""object"" must be present.","パラメータ ""object ""を指定する必要があります。"
+"Parameter ""sort_order"" must be present for unrequired conditions.","必須条件ではない場合は、パラメータ ""sort_order ""が存在している必要があります。"
+Condition have to implement IsProductSalableInterface.,条件はIsProductSalableInterfaceを実装している必要があります。
+Backorders are disabled,バックオーダーは無効です。
+The fewest you may purchase is %1,あなたが購入することができる最小の数は、%1
+The requested qty exceeds the maximum qty allowed in shopping cart,要求された数量がショッピングカートで許可されている最大数量を超えている
+You cannot use decimal quantity for this product.,10進数は使用できません。
+"Parameter ""sort_order"" must be present for urequired conditions.","必須条件には必ず ""sort_order ""パラメータが存在している必要があります。"
+Condition have to implement IsProductSalableForRequestedQtyInterface.,条件はIsProductSalableForRequestedQtyInterfaceを実装している必要があります。
+The requested sku is not assigned to given stock.,指定された在庫に指定された数量が割り当てられていない
+The requested sku is not assigned to given stock,指定された在庫に指定された商品が指定されていない
+Manage stock is enabled,在庫管理が可能に
+Condition must implement %1,条件は %1 を実装する必要があります。
+%field can not be empty.,%field を空にすることはできません。
+"The website with code ""%code"" does not exist.","コード ""%code"" を持つ Web サイトは存在しません。"
+$scopeId is required,scopeId が必要です。
+$websiteId parameter is required,websiteId パラメータは必須です。
+Could not load Sales Channels for Stock,在庫の販売チャネルをロードできませんでした。
+Stock has at least one sale channel and could not be deleted.,在庫には少なくとも1つの販売チャネルがあり、削除することはできませんでした。
+Could not replace Sales Channels for Stock,在庫の販売チャネルを置き換えることができませんでした
+Wrong condition.,状態違い。
+There are no source items with the in stock status,在庫状況のあるソースアイテムはありません。
+All unassigned sales channels will be assigned to the Default Stock,割り当てられていないすべての販売チャネルは、デフォルトの在庫に割り当てられます。
+No manage stock,在庫管理をしない
+Sales Channels,販売チャネル
+Product Salable Quantity,製品販売可能数量
+Salable Quantity,販売可能数量
+Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty),在庫のために購入可能な在庫を集計したもの。量は、割り当てられたソースの数量から在庫切れのしきい値（またはMinQty）を差し引いたものを集計します。
+%1 doesn't implement GetSourceDeductedOrderItemsInterface,1 は GetSourceDeductedOrderItemsInterface を実装していません。
+Sales Stock,販売在庫
+%field must be list of SourceCarrierLinkInterface.,field は SourceCarrierLinkInterface のリストでなければなりません。
+"You can't configure ""%field"" because you have chosen Global Shipping configuration.","グローバル配送構成を選択しているため、""%field"" は構成できません。"
+"Carrier with code: ""%carrier"" don't exists.","コードを持つキャリア。""%carrier"" を持つキャリアは存在しません。"
+Source Selection,ソースの選択
+Qty of %1 should be less or equal to %2,1 の数量は %2 以下でなければなりません。
+You should select one or more items to ship.,発送するアイテムを1つ以上選択する必要があります。
+Source Selection Algorithm,ソース選択アルゴリズム
+Source:,ソースです。
+Proceed to Shipment,出荷に進む
+Select a Source to Ship from,出荷元を選択してください
+Source,ソース
+Qty To Ship,出荷する数量
+Available Sources,利用可能なソース
+Qty Available,利用可能な数量
+Qty To Deduct,控除する数量
+Source item not found by source code: %1 and sku: %2.,ソース・アイテムがソース・コードで見つかりません。1 および sku: %2。
+There is no such Source Selection Algorithm implemented: %1,このようなソース選択アルゴリズムは実装されていません。
+%1 doesn't implement SourceSelectionInterface,1 は SourceSelectionInterface を実装していません。
+Source Priority,ソースの優先順位
+Algorithm which provides Source Selections based on predefined priority of Source,ソースの事前定義された優先度に基づいてソース選択を提供するアルゴリズム
+ID,身分証明書
+No,いいえ
+1,1
+Close Session,クローズドセッション
+You are connected as <strong>%1</strong> on %2,あなたは %2 で <strong>%1</strong> として接続されています。
+Enhanced Media Gallery,拡張メディアギャラリー
+Directory,ディレクトリ
+Uploaded Date,アップロード日
+Modification Date,変更日
+Overlay,オーバーレイ
+Thumbnail Image,サムネイル画像
+"Path ""%value%"" may not include parent directory traversal (""../"", "".."").","パス ""%value%"" には、親ディレクトリ探索 (""../"", ""...."") が含まれていない場合があります。"
+"<strong class=""colorRed"">Warning!</strong> Enabling MAP by default will hide all product prices on Storefront.","<strong class=""colorRed"">警告！</strong> デフォルトでMAPを有効にすると、Storefront上ですべての商品価格が非表示になります。"
+InvalidArgumentException,無効引数例外
+"Quote address for failed order ID %1"" not found.""",失敗した注文 ID %1 の引用符アドレスが見つかりませんでした。
+"The New Relic integration requires the newrelic-php5 agent, which is not installed. More ",New Relic の統合には newrelic-php5 エージェントが必要ですが、これはインストールされていません。詳細はこちら 
+"                        information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","                        エージェントのインストールに関する情報は、<a target=""_blank"" href=""%1"">こちら</a>にあります。"
+ID,身分証明書
+This email address is already subscribed.,このメールアドレスはすでに登録されています。
+Are you sure you want to delete the selected subscriber(s)?,選択した購読者を削除してもよろしいですか？
+No,いいえ
+Are You Sure You Want to Turn Off Page Builder?,本当にページビルダーをオフにしますか？
+Product data may be lost,製品データが失われる可能性があります
+Changing the Input Type may result in product data loss. Proceed with caution.,入力タイプを変更すると、製品データが失われる可能性があります。注意して作業を進めてください。
+"Entity with id ""%1"" does not exist.","id ""%1"" を持つエンティティが存在しません。"
+block_id is missing.,block_id がありません。
+Block with id %1 does not exist.,"id ""%1"" のブロックは存在しません。"
+product_id is missing.,product_id が存在しません。
+Product with id %1 does not exist.,ID %1 の製品は存在しません。
+Content type can not be migrated with out parent.,コンテンツ・タイプは、親がいない場合は移行できません。
+Page Name,ページ名
+Page with ID: %s doesn't exist,ID を持つページ: %s は存在しません。
+ID: %s,ID: %s
+This will change your Admin and storefront by:,これにより、Admin と storefront が変更されます。
+Removing PageBuilder's advanced content tools,PageBuilder の高度なコンテンツツールの削除
+from their assigned text fields and adding a basic text editor as replacement.,割り当てられたテキストフィールドを削除し、代替として基本的なテキストエディタを追加します。
+Potentially creating display errors on your storefront,店頭での表示エラーが発生する可能性があります。
+", due to content reformatting. Also, some content may no longer be editable from within the Admin.",コンテンツの再フォーマットのため。また、一部のコンテンツは管理者から編集できなくなっています。
+Search:,検索から編集できなくなったものもあります。
+Add Button,ボタンを追加
+Empty Column,空欄
+Edit Heading Text,見出しテキストの編集
+Drag content types or columns here,コンテンツの種類や列をここにドラッグ
+Margin,マージン
+Padding,パディング
+Allowed file types,許可されているファイルの種類
+Drag image here,画像をここにドラッグ
+Select from Gallery,ギャラリーから選ぶ
+Upload New Image,新しい画像のアップロード
+Template Manager,テンプレート管理者
+Please hold! we're just retrieving your content...,お待ちください！あなたのコンテンツを取得しているところです...
+Edit with Page Builder,ページビルダーで編集する
+Do not show this again,二度と表示しないでください。
+"Drop files here, or click to upload",ここにファイルをドロップするか、クリックしてアップロードしてください。
+Turn Off,オフにする
+Change Input Type,入力タイプの変更
+Page Builder,ページビルダー
+Left,左
+Right,吁
+Poster,ポスター
+Collage Left,コラージュ左
+Collage Center,コラージュセンター
+Collage Right,コラージュ右
+Full Height,フルハイト
+Top Aligned,トップアラインド
+Centered,センタリング
+Bottom Aligned,底面整列
+Full Width Image,全幅画像
+Advanced Content Tools,高度なコンテンツツール
+Enable Page Builder,ページビルダーを有効にする
+"Includes advanced tools to design page layouts, add Magento content (Product and Category data, CMS content and Blocks), and format text.<br /><br />For Product Attributes — Page Builder can be selected as the “input type” to design layouts and create content.",
+Appearance,外観
+Open on Load?,負荷で開いていますか？
+Minimum Height,最小高さ
+px,ピーエックス
+Background,背景
+Background Color,背景色
+No Color,色なし
+Background Image,背景画像
+Background Mobile Image,背景画像
+Background Position,背景位置
+Background Size,背景サイズ
+Cover,表紙
+Contain,含有
+Background Repeat,背景リピート
+Background Attachment,背景の添付ファイル
+Message Text,メッセージテキスト
+Show Button,ボタンを表示
+On Hover,ホバー
+Never Show,ネバーショー
+Button Type,ボタンの種類
+Primary,プライマリ
+Secondary,二次
+Show Overlay,オーバーレイを表示
+Overlay Color,オーバーレイカラー
+hex color,ろっかしょく
+Overlay Transparency,オーバーレイ透明度
+%,%
+Alignment,アライメント
+Border,ボーダー
+Dotted,ドット
+Dashed,ダッシュ
+Solid,ソリッド
+Double,二重
+Groove,グルーブ
+Ridge,稜線
+Inset,インセット
+Outset,アウトセット
+Border Color,ボーダーカラー
+Border Width,ボーダー幅
+Border Radius,ボーダー半径
+CSS Classes,CSSクラス
+Space separated list of classes.,スペースで区切られたクラスのリスト。
+Margins and Padding,マージンとパディング
+Button Item,ボタン項目
+Button Link,ボタンリンク
+Buttons,ボタン
+Divider,ディバイダ
+Line Color,ラインカラー
+hex code,六角コード
+Example: #FF5733,例 #FF5733
+Line Thickness,線の太さ
+Line Width,線幅
+px,ピーエックス
+Heading,ヘッディング
+Heading Type,見出しの種類
+Heading Text,見出しテキスト
+"Enter HTML, CSS or JavaScript code here",ここにHTML、CSSまたはJavaScriptのコードを入力してください。
+HTML Code,HTMLコード
+Mobile Image,モバイル画像
+Image Caption,イメージキャプション
+Alternative Text,代替テキスト
+Title Attribute,タイトル属性
+Map,地図
+You can move the pin by clicking or dragging it where you want. To alter the zoom please use the controls.,ピンをクリックしたり、ドラッグしたりすることで移動することができます。ズームを変更するには、コントロールを使用してください。
+Location Name,場所の名前
+Coordinates,コーディネート
+Latitude,緯度
+Longitude,経度
+Show Controls,コントロールを表示
+Placeholder,プレースホルダ
+Defaults to 5.,デフォルトは 5 です。
+Row,行
+Parallax Background,視差の背景
+Enable Parallax Background,視差の背景を有効にする
+Parallax Speed,視差速度
+                        <p>Parallax Speed controls how the background will behave when page is scrolled.</p>,                        <p>視差速度は、ページがスクロールされたときに背景がどのように動作するかを制御します。
+                        <p>Negative values will make the background scroll in the reverse direction.</p>,                        <p>負の値を設定すると、背景が逆方向にスクロールします。
+"                        <p>Values from 0 to 1 will cause the scroll to be slower than the scroll speed of the window, values from 1 to 2 will be faster.</p>",                        <p>0 から 1 の値はウィンドウのスクロール速度よりもスクロールが遅くなり、1 から 2 の値は速くなります。
+                        <p>0 - Fixes the background to the window (e.g. no scrolling).</p>,                        <p>0 - ウィンドウの背景を修正します (例: スクロールしない)。
+                        <p>1 - Background will scroll at the same speed as the window.</p>,                        <p>1 - 背景はウィンドウと同じ速度でスクロールします。
+Enter fractional number from -1.0 to 2.0.,1.0～2.0までの端数を入力してください。
+Slide,スライド
+Slide Name,スライド名
+Link URL,リンクURL
+Slider,スライダー
+Autoplay,自動再生
+Autoplay Speed,自動再生速度
+ms,エムエス
+Delay in milliseconds between each slide,各スライド間の遅延時間（ミリ秒
+Fade,フェード
+Infinite Loop,無限ループ
+Show Arrows,矢印を表示
+Show Dots,ドットを表示
+Tab,タブ
+Tab Name,タブ名
+Tabs,タブ
+Default Active Tab,デフォルトのアクティブタブ
+Tab Navigation Alignment,タブナビゲーションの位置合わせ
+Edit Text,テキストの編集
+Video,ビデオ
+Video URL,動画URL
+Supports YouTube & Vimeo.,YouTubeとVimeoに対応しています。
+Button,ボタン
+Column,コラム
+Column Group,コラムグループ
+Media,メディア
+Interactive,インタラクティブ
+Magento,マジェント
+ID: %1,ID: %1
+Page Name,ページ名
+No Color,色なし
+Edit Button Text,ボタンテキストの編集
+Add Button,ボタンの追加
+Column,コラム
+There is no free space within the column group to perform this action.,このアクションを実行する列グループ内に空き領域がありません。
+Unable to duplicate column,列の複製ができません
+Are you sure you want to remove this item? The data within this item is not recoverable once removed.,このアイテムを削除してもよろしいですか？このアイテムのデータは一度削除すると復元できません。
+Confirm Item Removal,アイテムの削除を確認する
+Slide ,スライド 
+Edit slide text,スライドテキストの編集
+Drop here,ここに落として
+Upload New Image,新しい画像のアップロード
+Find items,アイテムを探す
+Nothing found,何も見つかりませんでした。
+Full Screen,フルスクリーン
+Clear Search,クリア検索
+An error has occurred while initiating the content area.,コンテンツエリアの開始時にエラーが発生しました。
+Advanced CMS Error,高度な CMS エラー
+Please hold! we're just retrieving your content...,お待ちください！コンテンツを取得しているところです...
+You are not able to remove the final row from the content.,コンテンツから最終行を削除することができません。
+Unable to Remove,削除できません
+Previous Page,前のページ
+Next Page,次のページ
+Empty Products,空の製品
+Please enter a valid video URL.,有効な動画URLを入力してください。
+The currently selected block does not exist.,現在選択されているブロックは存在しません。
+Block with ID: %s doesn't exist,ID が付いているブロック: %s は存在しません。
+Block disabled,ブロック無効
+An unknown error occurred. Please try again.,未知のエラーが発生しました。もう一度お試しください。
+Empty Block,空のブロック
+Grid Size,グリッドサイズ
+Grid size determines the maximum number of columns available.,グリッドサイズは、利用可能な最大列数を決定します。
+Select a value between 2 and,2と
+Vertical Alignment,垂直アライメント
+Vertical alignment controls how the child blocks of this container will be positioned. Set minimum height in order to use vertical alignment.,垂直方向の配置は、このコンテナの子ブロックがどのように配置されるかを制御します。垂直方向の配置を使用するためには、最小の高さを設定してください。
+Page -- Full Width,ページ -- 全幅
+Category -- Full Width,カテゴリー -- 全幅
+Product -- Full Width,製品 -- 全幅
+Full width appearance will work only with supported layouts.,全幅表示は、サポートされているレイアウトでのみ機能します。
+Full bleed appearance will work only with supported layouts.,フルブリード表示は、サポートされているレイアウトでのみ機能します。
+Full Width,全幅
+Full Bleed,フルブリード
+Contained,含まれている
+Media,メディア
+Add Content,コンテンツの追加
+No products were found matching your condition,条件に一致する製品は見つかりませんでした
+"You must provide a valid <a href=%s"">Google Maps API key</a> to use a map.""","マップを使用するには、有効な <a href=""%s"">Google Maps API キー</a> を提供する必要があります。"""
+OK,OKをクリックしてください。
+Adding link in both content and outer element is not allowed,コンテンツと外部要素の両方にリンクを追加することはできません
+We are unable to support links within the content field whilst having a link set on the content type. Please remove the content type link if you'd like to set a link within the content. We will automatically remove the links within the content field.,コンテンツタイプにリンクを設定している間は、コンテンツフィールド内のリンクには対応しておりません。コンテンツ内にリンクを設定したい場合は、コンテンツタイプのリンクを削除してください。コンテンツフィールド内のリンクは自動的に削除されます。
+Nested links are not allowed,入れ子になっているリンクは許可されていません。
+Close Full Screen,フルスクリーンを閉じる
+Open in Full Screen,フルスクリーンで開く
+Insert Image...,画像の挿入...
+Oldest products first,古い製品が先
+Price: high to low,価格：高いものから低いものまで
+Price: low to high,価格：低価格から高価格まで
+SKU: ascending,SKU: 昇順
+SKU: descending,SKU: 降順
+Stock: low stock first,在庫：低在庫ファースト
+Stock: high stock first,在庫：高在庫第一
+Comma separated product SKUs.,カンマで区切られた製品SKU
+of %1 total,1 合計の
+%1 disabled,1 無効化された
+%1 not visible,1 見えません
+%1 out of stock,1 在庫切れ
+Template was successfully saved.,テンプレートが正常に保存されました。
+Apply %1?,1を適用しますか?
+Are you sure you want to apply this template? Applying the template will remove all existing content within Page Builder.,このテンプレートを適用してもよろしいですか？テンプレートを適用すると、ページ ビルダ内の既存のコンテンツがすべて削除されます。
+Delete %1?,1 を削除しますか?
+Are you sure you want to permanently delete template %1?,テンプレート %1 を永久に削除してもよろしいですか?
+There is no content able to be saved within Page Builder.,ページ・ビルダー内に保存できるコンテンツはありません。
+Save Content as Template,コンテンツをテンプレートとして保存する
+Grace period,恩寵期間
+"Specify grace period in seconds for config file generation. If field is empty default value 300 will be saved. This grace period will be used to serve cached content when the server is healthy. If the server is not healthy, cached content will be served for 3 days before failing.",コンフィグファイル生成の猶予期間を秒単位で指定します。フィールドが空の場合、デフォルト値 300 が保存されます。この猶予期間は、サーバが健全な場合にキャッシュされたコンテンツを提供するために使用されます。サーバーが健全でない場合は、キャッシュされたコンテンツは失敗する前に 3 日間提供されます。
+Public content cache lifetime in seconds. If field is empty default value 86400 will be saved. ,パブリック コンテンツ キャッシュの有効期間を秒単位で指定します。フィールドが空の場合はデフォルト値 86400 が保存されます。
+Yes,はい
+No,いいえ
+"                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>","                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？"
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,                                <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+"                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.",                                PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,                                PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,                                PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+"                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","                                またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+Payflow Pro,ペイフロー・プロ
+ID,身分証明書
+button_label,ボタンラベル
+sandbox_button_label,サンドボックスボタンのラベル
+PayPal response hasn't required fields.,PayPalの応答は、必須項目がありません。
+I'm sorry - but we were not able to process your payment. Please try another payment method or contact us so we can assist you.,申し訳ありませんが、お支払いを処理することができませんでした。別のお支払い方法をお試しいただくか、お問い合わせください。
+I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.,申し訳ありませんが、お取引を完了することができませんでした。お手数ですが、お問い合わせください。
+Yes,はい
+No,いいえ
+CNPJ,シーエヌピージェイ
+CPF,シーピーエフ
+"IPN ""%1""","IPN ""%1"""
+"                        <a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","                        <a href=""http://www.magentocommerce.com/paypal"">PayPal経由でのお支払いの受付を開始します。"
+                    See PayPal Feature Support details and list of supported regions,                    PayPal機能サポートの詳細とサポート地域のリストを参照してください。
+"                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">こちら</a>。"
+PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,PayPal Express Checkoutを使用すると、顧客にPayPal Creditを通じて資金調達へのアクセス権を与えることができます。
+"                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.",                        顧客が支払うためのより多くの時間を持っているにもかかわらず、あなたは、前払いで支払われます。事前に統合された支払いボタンにより、顧客はPayPal Credit&#174;で迅速に支払うことができます。
+"                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細はこちら</a>。"
+"                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>","                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？"
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,                        <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+"                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.",                        PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,                        PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,                        PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+"                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","                        またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細はこちら</a>。"
+                        Merchants need to apply to PayPal for enabling billing agreements feature. Do not enable this option until PayPal confirms that billing agreements are enabled for your merchant account.,                        マーチャントは、課金契約機能を有効にするためにPayPalに申請する必要があります。PayPalが課金契約があなたの加盟店アカウントで有効になっていることを確認するまで、このオプションを有効にしないでください。
+                            Will appear as a payment option only for customers who have at least one active billing agreement.,                            少なくとも1つのアクティブな課金契約を持っている顧客のための支払いオプションとして表示されます。
+"                            Allowable values: ""paypal"", ""primary"" (default), your_custom_value (a custom payment page style from your merchant account profile).","                            使用可能な値。""paypal""、""primary""（デフォルト）、your_custom_value（マーチャントアカウントのプロフィールにあるカスタムの支払いページスタイル）。"
+"                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","                            チェックアウトページの左上にある画像。最大サイズは750×90ピクセルです。<strong class=""colorRed"">https</strong>を強く推奨します。"
+                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,                            チェックアウトページのヘッダーの背景色。大文字小文字を区別しない6文字のHTML16進数カラーコード（ASCII）。
+                            The background color for the checkout page around the header and payment form.,                            チェックアウトページのヘッダーと決済フォーム周辺の背景色。
+"                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>","                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?"
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,                                            <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+"                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.",                                            PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,                                            PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,                                            PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+"                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","                                            またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+"                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>","                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？"
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,                            <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+"                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.",                            PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,                            PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,                            PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+"                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","                            またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細はこちら</a>。"
+"                    Supporting of American Express cards require additional agreement. Learn more at <a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>.","                    アメリカン・エキスプレス・カードのサポートには追加契約が必要です。詳細は<a href=""http://www.paypal.com/amexupdate"">http://www.paypal.com/amexupdate</a>をご覧ください。"
+"                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>","                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？"
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing,                                <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+"                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.",                                PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.,                                PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,                                PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+"                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","                                またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細はこちら</a>。"
+PayPal Express Checkout Payflow Edition lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.,PayPal Express Checkout Payflow Editionを使用すると、顧客にPayPal Creditを通じて資金調達へのアクセス権を与えることができます。
+"                            You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.",                            顧客には支払いまでの時間があるにもかかわらず、前払いで支払いを受けることができます。事前に統合された支払いボタンにより、顧客はPayPal Credit&#174;で迅速に支払いを行うことができます。
+"                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","                            <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細はこちら</a>。"
+Customize Smart Buttons,スマートボタンのカスタマイズ
+Checkout Page,チェックアウトページ
+"The installment feature is available only in these locales: en_MX, es_MX, en_BR, pt_BR.","分割払い機能は、en_MX, es_MX, en_BR, pt_BRのロケールでのみご利用いただけます。"
+Pay,お支払い
+Buy Now,今すぐ購入
+PayPal,ペイパル
+Installment,インストールメント
+Mexico Installment Period,メキシコ割賦期間
+Brazil Installment Period,ブラジル割賦期間
+Vertical,垂直方向
+Horizontal,水平方向
+Responsive,レスポンシブ
+Shape,形状
+Pill,丸薬
+Rectangle,長方形
+Color,カラー
+Gold,金
+Blue,青色
+Silver,シルバー
+Black,ブラック
+Product Pages,製品ページ
+Cart Page,カートページ
+Mini Cart,ミニカート
+Features,特徴
+"PayPal will automatically display each enabled funding option to eligible buyers. For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is offered and the currency offered by the merchant is USD.",PayPalは、対象となるバイヤーに有効な各資金調達オプションを自動的に表示します。たとえば、PayPalクレジットは、PayPalクレジットが提供されている国のバイヤーにのみ表示され、加盟店が提供する通貨は米ドルです。
+PayPal Credit,PayPalクレジット
+PayPal Guest Checkout Credit Card Icons,PayPalのゲストチェックアウトのクレジットカードのアイコン
+Elektronisches Lastschriftverfahren - German ELV,電子的なラストシフトの法則 - ドイツ語のELV
+Please enter at least 0 and at most 65535,少なくとも0と最大65535を入力してください。
+Order is suspended as an account verification transaction is suspected to be fraudulent.,アカウント確認の取引が不正の疑いがあるため、注文が停止されています。
+Payment can't be accepted since transaction was rejected by merchant.,トランザクションがマーチャントによって拒否されたため、支払いを受け入れることができません。
+Persist Wish List,パースイスト ウィッシュリスト
+Default Product Price,デフォルトの製品価格
+                        Defines the default product price,                        デフォルトの製品価格を定義します。
+"%name,",名前が表示されます。
+Url,ウルル
+{size},サイズ
+{width}^{height} px,幅}^{高さ}px
+The cart doesn't contain the item,カートにはアイテムが含まれていません
+Validated Country Code,有効な国コード
+Validated Vat Number,有効なVAT番号
+Next >,次のページへ > > ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ≫ ≪次のページへ
+< Back,< 前へ戻る
+"Sorry, we had a problem loading our “What’s new” content.",申し訳ありませんが、「新着情報」の読み込みに問題がありました。
+<![CDATA[,<!
+    <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>,    <p>次回、Magento Admin.</p>にサインインしたときに再度表示してみます。
+"    <p>To learn more about new features, see our latest Release Notes in",    <p>新機能の詳細については、最新のリリースノートを参照してください。
+"    <a href=""https://devdocs.magento.com/magento-release-information.html""","    <a href=""https://devdocs.magento.com/magento-release-information.html"""
+"    target=""_blank"">DevDocs' Release Information</a>.","    target=""_blank"">DevDocsのリリース情報</a>。"
+    </p>]]>,    </p>]]>
+ID,身分証明書
+No,いいえ
+Yes,はい
+LocalizedException,地域化された例外
+"%name,",名前が表示されます。
+Yes,はい
+No,いいえ
+ID,身分証明書
+ID,身分証明書
+%1 %2,%1 %2
+star,星
+stars,星
+You don’t have permission to perform this operation. Selected reviews must be in Pending Status only.,この操作を実行する権限がありません。選択したレビューは保留状態になっている必要があります。
+You don’t have permission to perform this operation. The selected review must be in Pending Status.,この操作を実行する権限がありません。選択されたレビューは保留状態になっている必要があります。
+ID,身分証明書
+%1 = %2,%1 = %2
+"%name,",名前が表示されます。
+ID,身分証明書
+Are you sure you want to delete these points?,これらのポイントを削除してもよろしいでしょうか？
+OK,宜しい
+RMA,ＲＭＡ
+No,いいえ
+Yes,はい
+ID,身分証明書
+#,#
+This won't take long . . .,長くはかからないだろう・・・
+"%name,",名前が表示されています。
+The label cannot be created for '%1' because the product does not exist in the system.,製品がシステムに存在しないので、'%1' のラベルを作成できません。
+TRUE,TRUE
+FALSE,FALSE
+This won't take long . . .,これは長くはかかりません .
+ID,身分証明書
+Yes,はい
+No,いいえ
+1%,1%
+"%name,",名前が表示されます。
+"%customer_name,",顧客名。
+Accept or Deny Payment,支払いの承認または拒否
+Allow Zero GrandTotal for Creditmemo,クレディメモのためにゼロのGrandTotalを許可する
+Allow Zero GrandTotal,ゼロを許容する グランドトータル
+Email is required field for Admin order creation,管理者の注文の作成のための電子メールは必須フィールドです
+If set YES Email field will be required during Admin order creation for new Customer.,設定がYESの場合、電子メールフィールドは、新しい顧客のための管理者の注文作成中に必要になります。
+Could not save the shipment tracking,出荷の追跡を保存することができませんでした
+Please enter a coupon code!,クーポンコードを入力してください
+Reorder is not available.,再注文はできません。
+ID,身分証明書
+No,いいえ
+Yes,はい
+ID,身分証明書
+                    If you select and save the rule you will be able to generate multiple coupon codes.,                    ルールを選択して保存すると、複数のクーポンコードを生成することができます。
+                    Usage limit enforced for logged in customers only.,                    利用制限はログインしている顧客のみに適用されます。
+Cart Price Rules,カート価格のルール
+Cart Price Rule,カートの価格ルール
+An error occurred during processing; coupon with id %1 expiration date wasn't updated. The error message was: %2,処理中にエラーが発生しました。ID %1 有効期限のクーポンが更新されませんでした。エラー・メッセージは次のとおりです。
+ID,身分証明書
+The cart price rule will be removed from the update and all scheduled changes will be lost.,カートの価格ルールはアップデートで削除され、予定されていた変更はすべて失われます。
+200,200
+100,100
+50,50
+30,30
+20,20
+Yes,はい
+No,いいえ
+FTP Host[:Port],FTP ホスト[:ポート]
+ASCII,アスキー
+No,いいえ
+Yes,はい
+ID,身分証明書
+%1 must be later than the current date.,%1 は、現在の日付よりも後でなければなりません。
+User Expiration,ユーザの有効期限
+At least one contact information is required.,最低1つの連絡先が必要です。
+Contact Information: Email validation failed. Please enter in correct format.,連絡先情報です。電子メールの検証に失敗しました。正しい形式で入力してください。
+Contact Information: Contact Page URL should be in correct format and must start with HTTPS.,連絡先情報を入力してください。お問い合わせページのURLは正しい形式で、HTTPSで始まる必要があります。
+Other Information: Encryption URL should be in correct format and must start with HTTPS.,その他の情報。暗号化URLは正しい形式で、HTTPSで始まる必要があります。
+Other Information: Acknowledgements URL should be in correct format and must start with HTTPS.,その他の情報: その他の情報。謝辞のURLは正しい形式で、HTTPSで始まる必要があります。
+Other Information: Hiring URL should be in correct format and must start with HTTPS.,その他の情報: 採用URLは正しい形式で入力してください。採用URLは正しい形式で、HTTPSで始まる必要があります。
+Other Information: Policy URL should be in correct format and must start with HTTPS.,その他の情報： ポリシーの URL は正しい形式で、HTTPS で開始する必要があります。ポリシーのURLは正しい形式で、HTTPSで始まる必要があります。
+Securitytxt,セキュリティtxt
+Security.txt,セキュリティ.txt
+Contact Page,お問い合わせページ
+Example: https://example.com/security-contact.html,例：https://example.com/security-contact.html
+Other Information,その他の情報
+Encryption,暗号化
+Example: https://example.com/pgp-key.txt,例: https://example.com/pgp-key.txt
+Acknowledgements,謝辞
+Example: https://example.com/hall-of-fame.html,例：https://example.com/hall-of-fame.html
+Preferred-Languages,希望言語
+"Example: en, es, hi, de, fr","例： en, es, hi, de, fr"
+Hiring,採用情報
+Example: https://example.com/jobs.html,例：https://example.com/jobs.html
+Policy,方針
+Signature,署名
+Read instructions on how to generate signature,署名を生成する方法についての説明を読む
+"%name,",名前が表示されます。
+"We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=_blank"">CAPTCHA solution</a> alongside enabling """"Email to a Friend"""" to ensure abuse of this feature does not occur.""","この機能が悪用されないようにするために、<a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=_blank"">CAPTCHAソリューション</a>を""""友達にメール ""と一緒に有効にすることを強くお勧めします。"
+cm,センチ
+ID,身分証明書
+Store Url Options,ストアURLオプション
+Future Update in this time range already exists. ,この時間範囲にある未来の更新プログラムはすでに存在します。
+                            Select a different range to add a new Future Update.,                            別の範囲を選択して、新しいFuture Updateを追加します。
+entity_type,エンティティタイプ
+1%,1%
+"&copy; Magento Commerce Inc., %1",コピー; Magento Commerce Inc.
+OS X,オーエスエックス
+Yes,はい
+No,いいえ
+ID,身分証明書
+Id,いでん
+More,もっと見る
+ID,身分証明書
+"By Priority, Then by ID",優先順位で、次にIDで
+"By Priority, Then Random",優先順位で、次にランダム
+Weighted Random,加重ランダム
+Import/Export Tax Rates,輸出入税率
+Please select a file to import!,インポートするファイルを選択してください
+1%,1%
+welcome,歓迎
+thumbnail,サムネイル
+This is a demo store. No orders will be fulfilled.,こちらはデモショップです。ご注文はお受けしておりません。
+WK,ＷＫ
+"%name,",名前が表示されます。
+Admin 2 columns with left bar,管理者 2列（左バー付き
+ID,身分証明書
+Display Report Bugs Link,レポートのバグリンクを表示
+Yes,はい
+No,いいえ
+On,乗ったままで
+Off,オフ
+${ $.visible } out of ${ $.total } visible,${ $.visible } out of ${ $.total } visible
+No marginal white space please,余白なしでお願いします。
+"Attribute code ""%1"" is invalid. Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","属性コード ""%1"" は無効です。このフィールドでは、文字 (a-z または A-Z)、数字 (0-9)、またはアンダースコア (_) のみを使用し、最初の文字は文字にしてください。"
+OK,OK
+"If enabled, can be used by functional tests for extended reporting",有効にすると、拡張レポートのための機能テストで使用することができます。
+Use this key to retrieve collected js errors,収集したjsのエラーを取得するには、このキーを使用します。
+settings/label,設定/ラベル
+settings/confirm/title,設定/確認/タイトル
+settings/confirm/message,設定/確認/メッセージ
+settings/callback/provider,設定/コールバック/プロバイダ
+settings/callback/target,設定/コールバック/ターゲット
+settings/newViewLabel,設定/newViewLabel
+settings/title,設定/タイトル
+settings/description,設定/記述
+settings/addButtonLabel,設定/addButtonLabel
+                        formElements/*[name(.)=../../@formElement]/settings/description,                        formElements/*[name(.)=.../.../@formElement]/settings/description
+                        formElements/*[name(.)=../../@formElement]/settings/caption,                        formElements/*[name(.)=.../.../@formElement]/settings/caption
+                        formElements/*[name(.)=../../@formElement]/settings/title,                        formElements/*[name(.)=.../.../@formElement]/settings/title
+settings/placeholder,設定/プレースホルダ
+settings/caption,設定/キャプション
+settings/subTitle,設定/サブタイトル
+settings/visible,設定/目に見える
+settings/showLabel,設定/showLabel
+settings/breakLine,設定/改行
+settings/required,設定/必須
+settings/size,設定/サイズ
+settings/notice,設定/通知
+settings/tooltip/description,設定/ツールチップ/説明
+settings/addBefore,設定/addBefore
+settings/addAfter,設定/追加後
+was not uploaded,がアップロードされませんでした
+The file upload field is disabled.,ファイルのアップロードフィールドは無効になっています。
+PAK,パク
+UPS,無停電電源装置
+"When applicable, taxes (sales tax, VAT etc.) are included in the rate",適用される場合、税金（消費税、付加価値税等）は料金に含まれています。
+UPS API endpoint URL's must use ups.com,UPS API エンドポイント URL は ups.com を使用する必要があります。
+ID,身分証明書
+For Category,カテゴリの場合
+For Product,製品の場合
+Create URL Rewrite,URLリライトの作成
+No,いいえ
+"%name,",名前が表示されます。
+We will disable this feature if the value is empty. ,値が空の場合はこの機能を無効にします。
+ID,ID
+Yes,はい
+No,いいえ
+USPS,ユーエスピーエス
+No,いいえ
+Yes,はい
+1%,1%
+CMS,ＣＭＳ
+No,いいえ
+Yes,はい
+Yes,はい
+No,いいえ
+On,乗ったままで
+Off,オフ
+Wait loading...,読み込みを待ちます...
+"This feature applies only to CMS, Catalog and Store APIs. Please consult your developers for details on potential security risks.",この機能は、CMS、カタログ、ストアAPIのみに適用されます。潜在的なセキュリティリスクの詳細については、開発者にご相談ください。
+200 OK,200 OK
+FPT,エフピーティー
+label_value,ラベル値
+frontend_label,フロントエンドラベル
+CMS,ＣＭＳ
+1%,1%
+Inserting a widget does not create a widget instance.,ウィジェットを挿入しても、ウィジェットのインスタンスは作成されません。
+Are you sure you want to delete the selected widget(s)?,選択したウィジェットを削除しますか？
+error-message,エラーメッセージ
+LocalizedException,地域化された例外
+Product Exception.,製品の例外。
+10 by default. Max - 10000,デフォルトでは10。最大 - 10000
+255 by default. Max - 10000,デフォルトでは 255 です。最大 - 10000
+Show in Sidebar,サイドバーに表示
+"%name,",名前が表示されます。
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone"">%store_phone</a>"
+"%customer_name,",顧客名。
