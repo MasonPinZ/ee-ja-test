@@ -3,4 +3,5 @@
     <code>ja_JP</code>
     <vendor>mason-test</vendor>
     <package>ja_JP</package>
+    <use vendor="CommunityEngineering" package="ja_JP"/>
 </language>
