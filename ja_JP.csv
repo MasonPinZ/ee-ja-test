@@ -1870,3 +1870,2260 @@ Authy,自家製
 "<![CDATA[The number of requisition lists should be equal or more than 2.]]>",<！[CDATA[鎮課リストの数が2以上であること]]>
 "<![CDATA[Enabling the shared catalog feature enables the category permissions for all stores. Disabling the shared catalog feature does not disable custom prices (tier prices) for companies.]]>",<！[CDATA[共有カタログ機能を有効にすると全店舗のカテゴリ権限が有効になります。共有カタログ機能を無効にしても企業のカスタム価格（階層価格）は無効になりません]]>
 "<![CDATA[To select No, please <a href=""%1"">create</a> the Public Catalog first.]]>","<![CDATA[いいえを選択するには、<a href=""%1"">まず公開カタログを作成してください</a>]]>"
+"click here to display the categories",ここをクリックするとカテゴリが表示されます
+"No logs are currently available.",現在ログはありません。
+--,--
+"Module version",モジュールのバージョン
+"Address country handler %1 must be of type %2","アドレス国ハンドラ %1 はタイプ %2 である必要があります。"
+"Amazon could not process your request.",アマゾンではリクエストを処理できませんでした。
+"No Simulation",シミュレーションなし
+"Authorization soft decline",オーソライズソフトの下落
+"Authorization hard decline",オーソライズハードの衰退
+"Authorization timed out",認可のタイムアウト
+"Unable to import Amazon keys. Please verify your JSON format and values.",Amazonキーをインポートできません。JSON形式と値を確認してください。
+"If you're experiencing consistent errors with transferring keys, click <a href=""%1"" target=""_blank"">Manual Transfer Instructions</a> to learn more.","鍵の転送で一貫したエラーが発生している場合は、<a href=""%1"" target=""_blank"">手動転送手順</a>をクリックして詳細を確認してください。"
+"Login and Pay with Amazon is now enabled.",ログインしてAmazonで支払う機能が有効になりました。
+Immediate,すぐに
+Automatic,自動
+"Light Gray",ライトグレー
+"Dark Gray",ダークグレー
+"Extra Large",特大
+"Login with Amazon / Amazon Pay","Amazonでログイン / Amazon Pay"
+"Login / Pay",ログイン/有料
+"Amazon Pay Logo","Amazon Payのロゴ"
+"Charge on Shipment",出荷時の料金
+"Charge on Order",注文時のチャージ
+"Euro Region",ユーロ地域
+"United Kingdom",イギリス
+"United States",合衆国
+Japan,にほん
+"Data Polling via Cron Job",Cronジョブによるデータポーリング
+"Instant Payment Notifications",即時支払い通知
+"An unsupported currency is currently selected. Please review our configuration guide.",現在、サポートされていない通貨が選択されています。設定ガイドをご確認ください。
+"You will be registering for a %1 account based on the base currency of your shop (%2).","お店の基本通貨(%2)に基づいて %1 アカウントを登録することになります。"
+"Get started with account registration",アカウント登録を開始する
+"I've already setup Amazon Pay, I want to edit my settings","Amazon Payの設定を済ませたので、設定を編集したい"
+"""In order to enable automatic account configuration using Amazon's secure key "" . 'exchange, please turn on secure admin pages in General > Web > Use secure URLs in Admin.'","""Amazonのセキュアキーを利用した自動アカウント設定を有効にするには "" . 'exchange, General > Web > Use secure URLs in Adminでセキュアな管理ページをオンにしてください。"
+"Updating your config with new keys, please wait...",新しい鍵で設定を更新する場合は、お待ちください...
+"Paste JSON credentials here",ここにJSONの資格情報を貼り付けます
+"Save Credentials",資格情報の保存
+"Back to register or connect an account",アカウントの登録・接続に戻る
+"Amazon Pay",アマゾンペイ
+"Your transaction with Amazon Pay is currently being validated. Please be aware that we will inform you shortly as needed.","Amazon Payでのお取引は現在確認中です。必要に応じて近日中にお知らせいたしますので、ご了承ください。"
+"Amazon Pay was unable to authenticate the payment instrument.  Please try again, or use a different payment method.","Amazon Payでは、お支払い方法を認証できませんでした。 再度お試しいただくか、別のお支払い方法をご利用ください。"
+"The SCA challenge was not completed successfully.  Please try again, or use a different payment method.","SCAチャレンジは正常に完了しませんでした。 再度お試しいただくか、別のお支払い方法をご利用ください。"
+"Failed to retrieve quote from checkoutSession",チェックアウトからの見積書の取得に失敗しました。
+"IPN not enabled.",IPNが有効になっていません。
+"Something went wrong during Gateway request.",ゲートウェイのリクエスト中に何か問題が発生した。
+"VoidClient - Unable to Close/Cancel order - bad status response.","VoidClient - 注文を閉じる/キャンセルできない - ステータスが悪い。"
+"The refund amount or the Amazon Order ID is incorrect.","返金額または Amazon 注文 ID が間違っています。"
+"Amazon Pay refund successful.","Amazon Pay の返金に成功しました。"
+"Unable to cancel the order or the Amazon Order ID is incorrect.","注文をキャンセルできないか、Amazon 注文 ID が不正です。"
+"Successfully cancelled Amazon Pay.","Amazon Payのキャンセルに成功しました。"
+"No constraints detected.",制約は検出されませんでした。
+"The currency selected is not supported by Amazon Pay.","選択した通貨がAmazon Payでサポートされていません。"
+"Unable to confirm order reference.",注文参照を確認できません。
+"AmazonPaymentAdapter: Unable to capture pending information for capture.",AmazonPaymentAdapterです。キャプチャのために保留中の情報をキャプチャできません。
+"AmazonPaymentAdapter: Bad status - no capture details available.","AmazonPaymentAdapter。ステータスが悪い - キャプチャの詳細が利用できません。"
+"There has been a problem with the selected payment method on your Amazon account. Please choose another one.",お客様のAmazonアカウントで選択した支払い方法に問題がありました。別の方法を選択してください。
+"the country for your address is not allowed for this store",このストアでは、ご住所の国が許可されていません。
+"Your address may be updated in your Amazon account.",ご住所はAmazonアカウントで更新される場合があります。
+"Your session has expired, please reload the page and try again.",セッションの有効期限が切れていますので、ページをリロードしてからもう一度お試しください。
+"The currency selected is not supported by Amazon Pay","選択された通貨はAmazon Payではサポートされていません。"
+"Capture declined",キャプチャの減少
+"Capture declined for Order #%1",オーダー#%1のキャプチャが減少
+"Captured amount of %1 online","オンラインでのキャプチャ量 %1"
+"Authorized amount of %1 online",オンラインでの承認された%1の量
+"Declined amount of %1 online","オンラインでの減少量 %1"
+"Could not find the ""multiline_count"" config of the ""street"" Customer address attribute.","""STREET ""顧客アドレス属性の ""MULTILINE_COUNT ""設定が見つかりませんでした。"
+"Are you an Amazon customer? Pay now with address and payment details stored in your Amazon account.",あなたはAmazonのお客様ですか？Amazonアカウントに保存されている住所と支払い情報を使って、今すぐ支払いましょう。
+"Checkout now",今すぐチェックアウト
+"If you created this account using Amazon Pay, you might not know your site password.","Amazon Payで作成したアカウントの場合、サイトのパスワードがわからない可能性があります。"
+"In order to reset your password, please <a href=""%1"">Sign Out</a> and click on “Forgot Your Password?” from the Sign In page","パスワードを再設定するには、<a href=""%1"">サインアウト</a>の後、サインインページから「パスワードをお忘れの方はこちら」をクリックしてください。"
+"Error processing Amazon Login",エラー処理のAmazonログイン
+"Action is not available",アクションは利用できません
+"the email address for your Amazon account is invalid",Amazonアカウントのメールアドレスが無効です
+"Could not save Amazon customer link: %1","Amazon カスタマー・リンクを保存できませんでした。%1"
+"Welcome back!",おかえりなさい
+"A shop account for this email address already exists. Please enter your shop accounts password to log in without leaving the shop.",このメールアドレスのショップアカウントは既に存在しています。ショップアカウントのパスワードを入力して、ショップを離れずにログインしてください。
+"Continue as Guest",ゲストとして続ける
+"Login with Amazon",Amazonでログイン
+"With Amazon Pay and Login with Amazon, you can easily sign-in and use the shipping and payment information stored in your Amazon account to place an order on this shop. ","Amazon Payでログインすると、Amazonアカウントに保存されている配送情報や決済情報を使って、当店でのご注文に簡単にサインインしてご利用いただけます。"
+"Securely login into our website using your existing Amazon details.",既存のAmazonの詳細情報を使用して、安全に当店のウェブサイトにログインしてください。
+"You will be redirected shortly...",まもなくリダイレクトされます...
+"If you are not redirected automatically, try refreshing the page, or return to your cart and use another payment method.",自動的にリダイレクトされない場合は、ページをリフレッシュするか、カートに戻って別のお支払い方法をご利用ください。
+"Quotes Report",名言レポート
+Done.,完了しました。
+"""Error refreshing chat API token. Message: "" .","""チャットAPIトークンの更新にエラーが発生しました。メッセージ。"" ."
+"Error fetching customer or scope data for Chat","チャットの顧客またはスコープ データの取得にエラーが発生しました。"
+"There was a problem creating your chat account",チャットアカウントの作成に問題がありました
+Disconnect,切断
+Connect,接続
+"Run Contact Sync",コンタクトの同期を実行する
+"Run Importer Sync",インポーターの同期実行
+"dotmailer Configuration",ドットメーラーの設定
+"v. %1","v. %1"
+"%1 h","%1 h"
+"No limit",制限なし
+Locked.,ロックされている
+"Not Locked.",ロックされていません。
+"Log Viewer",ログビューア
+"Edit Rule %1","編集ルール %1"
+"Exclusion Rule Conditions",除外ルールの条件
+"Conditions Combination Match","コンディション コンビネーション マッチ"
+"dotdigital Coupon URL Builder","dotdigital クーポンURLビルダー"
+"Expires After (days)",期限切れ(日)
+"Allow Resend",再送を許可する
+"This allows a previously generated coupon code to be resent to the same customer. If set to no, a new coupon will be generated.",これにより、以前に生成されたクーポンコードを同じ顧客に再送信することができます。noに設定すると、新しいクーポンが生成されます。
+"Cancel Send If Used",使用されている場合は送信をキャンセル
+"Enable this to ensure the send will be cancelled if the coupon has been used. If set to no, the latest generated coupon will be displayed.",これを有効にすると、クーポンが使用された場合に送信がキャンセルされます。noに設定すると、最新のクーポンが表示されます。
+"PLEASE SET A PASSCODE",パスコードを設定してください
+"Coupon Codes URL",クーポンコードURL
+"Exclusion Rule",除外規定
+"Auto-map data fields",オートマップデータフィールド
+"Auto-mapping data fields",データフィールドの自動マッピング
+"There was a problem mapping data fields. Please check the connector log.",データフィールドのマッピングに問題がありました。コネクタログを確認してください。
+"Data fields have been mapped.",データフィールドがマッピングされました。
+"Add Dotdigital API credentials and enable the connector","Dotdigital APIの資格情報を追加し、コネクタを有効にします。"
+"API username",APIユーザ名
+"API password",APIパスワード
+"Automap data fields",オートマップのデータフィールド
+"Enable syncs",同期を有効にする
+"Remove IP restriction",IP制限の解除
+"Enable email capture",電子メールのキャプチャを有効にする
+"You must specify your API username and password",APIのユーザー名とパスワードを指定する必要があります。
+"Saving your API credentials","API クレデンシャルの保存"
+"'There was a problem connecting to the API: ' .","'API への接続に問題がありました。"
+"Enabled syncs",同期を有効にする
+"Removed IP restriction",IP制限を解除
+"Enabled email capture",電子メールのキャプチャを有効にする
+"Dotdigital connector has been enabled",ドットデジタルコネクタが有効になりました
+"Starting data import",データインポートの開始
+"Run syncs to populate email_ tables before importing to Engagement Cloud","Engagement Cloudにインポートする前に、同期を実行してEメール_テーブルを入力します。"
+"The name of the sync to run",実行する同期の名前
+"Specify a date/time (parsable by \DateTime) to run a sync from (if supported)",同期を実行する日時を指定します。
+"Requested sync was not recognised",要求された同期が認識されませんでした
+"Started running sync",同期実行開始
+"Complete in",で完了します。
+"Please select an Engagement Cloud sync to run","実行するEngagement Cloud同期を選択してください。"
+"Please select a sync",同期を選択してください
+Abandoned,放棄された
+"Abandoned Cart Report",放置されたカートのレポート
+Automation,オートメーション
+"Automation Report",自動化レポート
+Campaign,キャンペーン
+"Campaign ",キャンペーン
+"Campaign Report",キャンペーンレポート
+"Catalog ",カタログ
+"Catalog Report",カタログレポート
+"Contacts ",連絡先
+"Contact Report",連絡先レポート
+"Cron Tasks","Cron タスク"
+"Dashboard ",ダッシュボード
+"dotdigital Engagement Cloud Dashboard","ドットデジタル エンゲージメント クラウド ダッシュボード"
+"Please select cron.",cronを選択してください。
+"Please limit Data Field Name to 20 characters.",データフィールド名は20文字以内にしてください。
+"Data field successfully created.",データフィールドの作成に成功しました。
+"Import Report",レポートのインポート
+Importer,輸入業者
+"Please select importer.",輸入業者を選択してください。
+"Total of %1 record(s) were reset.","合計 %1 レコードがリセットされました。"
+"Log Viewer ",ログビューア
+"dotdigital Log Viewer",ドットデジタルログビューア
+"Order Report",オーダーレポート
+"Review Report",レビューレポート
+"An error occurred while deleting the rule. Please review the log and try again.",ルール削除中にエラーが発生しました。ログを確認してから再度お試しください。
+"Unable to find a rule to delete.",削除するルールが見つかりませんでした。
+Rules,ルール
+"Rules ",ルール
+"Exclusion Rules",除外規定
+"Rule already exist for website ' . . '. You can only have one rule per website.",ルールはすでにウェブサイトのために存在しています。1つのウェブサイトにつき1つのルールしか持つことができません。
+"The rule has been saved.",ルールは保存されています。
+"Engagement Cloud",エンゲージメントクラウド
+Wishlists,ウィッシュリスト
+"Wishlist Report",欲しい物リストレポート
+"An error occurred while saving your subscription preferences.",サブスクリプションの設定を保存中にエラーが発生しました。
+"Your subscription preferences have been saved.",サブスクリプションの設定が保存されました。
+"We have saved your subscription.",サブスクリプションが保存されました。
+"A confirmation request has been sent.",確認要求が送信されました。
+"We have removed your newsletter subscription.",ニュースレターの購読を削除しました。
+"We have updated your subscription.",購読を更新しました。
+"Dotdigital smtp host region is not defined","Dotdigital smtp ホスト領域が定義されていません。"
+"Not Imported",輸入されていない
+Importing,インポート
+Imported,輸入された
+"is empty",虚しい
+"equal to or greater than",以上
+"equal to or less than",並みかそれ以下
+"Abandoned Cart Exclusion Rule",放置されたカートの排除ルール
+"Review Email Exclusion Rule",メール除外ルールの見直し
+"Dotmailer connector API endpoint cannot be empty.",DotmailerコネクタAPIのエンドポイントを空にすることはできません。
+"The endpoint ' . . ' is not permitted.","エンドポイント ' ."
+"---- Default Option ----","---- デフォルトオプション ----"
+"-- Disabled --","無効化されている -- 無効化されている --"
+" Hour"," 時間"
+" Hours"," 時間"
+"15 Minutes",15分
+"30 Minutes",30分
+"20 Minutes",20分
+"25 Minutes",25分
+"40 Minutes",40分
+"50 Minutes",50分
+"60 Minutes",60分
+String,ひもじ
+"Unable to find coupon attribute with ID ""%1""","ID ""%1"" でクーポン属性が見つかりません。"
+"'Rule validation error: attribute attribute must be of type ' .","'ルール検証エラー: 属性属性は ' 型でなければなりません。"
+"Not available",使用できません。
+"CSV file does not exist in email or archive folder.",メールまたはアーカイブフォルダにCSVファイルが存在しません。
+"API Credentials Valid.","API 資格情報は有効です。"
+"Authorization has been denied for this request.",このリクエストの認証は拒否されました。
+"Please select a host.",ホストを選択してください。
+"Generated by dotdigital",dotdigitalによって生成されました。
+"Expires At",期限切れ
+"API valid",エーピーアイゆうこう
+"Cron last execution",クロン最終実行
+"Dynamic content passcode",動的コンテンツパスコード
+"Abandoned cart limit time",放置されたカートの制限時間
+Auth,認証
+"Last failed auth",最後に失敗した認証
+"PHP Version",PHPのバージョン
+"PHP max execution time",PHPの最大実行時間
+"Mode ",モード
+"Magento Version ",Magentoのバージョン
+"Connector Version ",コネクタバージョン
+"Select Log File:",ログファイルを選択します。
+"Marketing Automation Log",マーケティングオートメーションログ
+"Magento System Log",Magentoのシステムログ
+"Magento Exception Log",Magentoの例外ログ
+"Magento Debug Log",Magentoのデバッグログ
+Reload,リロード
+"Websites View:",ウェブサイトを見る。
+"Click here for status",ステータスはこちら
+"PRODUCT STYLING PREVIEW",製品スタイリングプレビュー
+"COUPON STYLING PREVIEW","COUPON STYLING PREVIEW"
+DOT-XXX-XXX-XXX,ＤＯＴ-ＸＸＸＸＸＸ-ＸＸＸＸＸ-ＸＸＸＸ
+"Take Me To My Basket",テイク・ミー・トゥ・マイ・バスケット
+Preferences,設定
+Subscriptions,サブスクリプション
+"Leave a review",レビューを残す
+"View Now",今すぐ見る
+"Feefo Feedback",Feefoフィードバック
+"See what our customers say about us",お客様の声を見る
+"Merchant Portal",マーチャントポータル
+Reference,参考
+Reservation,予約
+"Invoice ID (#%1)","請求書ID (#%1)"
+"'Invalid Api Version: ' .","'Invalid Api Version: ' ."
+"Invalid API version selected!","Invalid API Version selected!"
+"%1 class doesn't implement \Klarna\Core\Api\BuilderInterface","%1 クラスは、実装していません。"
+"%1 class doesn't implement \Klarna\Core\Api\OrderLineInterface","♪1 class doesn't implement"
+"Requested order doesn't exist",依頼された注文が存在しない
+"Order with id ""%1"" does not exist.","ID ""%1"" を持つ注文は存在しません。"
+"Order with Reservation ID ""%1"" does not exist.","予約 ID ""%1"" を持つ注文は存在しません。"
+"Order with session_id ""%1"" does not exist.","session_id ""%1"" を持つ注文は存在しません。"
+Playground,遊び場
+Production,生産
+"Warning store address has not been set under Store Information.","警告 ストア情報の下にストアアドレスが設定されていません。"
+"Click here to go to <a href=""%1"">General Configuration</a> and change your settings.","ここをクリックして、<a href=""%1"">一般的な設定</a>に移動し、設定を変更してください。"
+"Warning debug mode should only be enabled when test mode is active","警告 デバッグモードは、テストモードがアクティブな場合にのみ有効にしてください。"
+"Click here to go to <a href=""%1"">Klarna Configuration</a> and change your settings.","ここをクリックして、<a href=""%1"">Klarna 設定</a> に移動し、設定を変更してください。"
+"Warning the following countries are configured to require a region","警告 次の国はリージョンを必要とするように設定されています。"
+"Click Here",ここをクリック
+link,つなぎ目
+"Click on this %1 to visit the Klarna Merchant Onboarding Page and request credentials.","この %1 をクリックして、Klarna Merchant Onboarding ページにアクセスし、資格情報を要求します。"
+"Unable to release authorization for the token %1","トークン %1 の認証を解除できません。"
+"Unable to authorize payment for this order.",この注文の支払いを承認できません。
+"Klarna API Credentials are required","Klarna API認証情報が必要です"
+"Missing required attribute(s) on %1: ""%2"".","%1: ""%2"" に必須の属性 (複数可) がありません。"
+"Order line totals do not total order_amount - %1 != %2","注文行の合計が order_amount - %1 != %2 の合計ではありません。"
+"Klarna Payments is not enabled",Klarnaペイメントが有効になっていません。
+"Please check credentials",信任状を確認してください
+"Unable to initialize Klarna payments session",Klarnaの支払いセッションを初期化できない
+"Credit Promotion - Standard","クレジットプロモーション - スタンダード"
+"Credit Promotion - Small","クレジットプロモーション - 小"
+"Credit Promotion - Badge","クレジットプロモーション - バッジ"
+"Sidebar Promotion - Auto-Size","サイドバープロモーション - オートサイズ"
+"Top Strip Promotion - Standard","トップストリッププロモーション - スタンダード"
+"Homepage Promotion - Tall","ホームページプロモーション - トール"
+"Homepage Promotion - Box","ホームページプロモーション - ボックス"
+"Homepage Promotion - Wide","ホームページプロモーション - ワイド"
+"Klarna order not found",クラーナの注文が見つかりませんでした
+"Magento order not found",Magentoの注文が見つかりません
+"Suspected Fraud: DO NOT SHIP. If already shipped,
+                    please attempt to stop the carrier from delivering.","詐欺の疑いがあります。発送しないでください。すでに発送済みの場合。
+                    配送業者を止めようとしてください"
+"Order processed by Klarna.",注文はクラーナで処理されました。
+"Notification doesn't appear to be from Klarna",通知はクラーナからのものではないようです。
+"%1 Klarna %2 api error messages: %3","1 Klarna %2 api エラー・メッセージ: %3"
+"Unable to cancel payment for this order.",この注文の支払いをキャンセルすることができません。
+"Order cancellation failed, please try again.",注文のキャンセルに失敗しました。
+"Unable to capture payment for this order.",この注文の支払いをキャプチャすることができません。
+"Payment capture failed, please try again.",お支払いの取り込みに失敗しました。
+"Payment capture not allowed.",お支払いの取り込みは許可されていません。
+"Unable to refund payment for this order.",この注文の支払いを返金することができません。
+"Payment refund failed, please try again.",お支払いの払い戻しに失敗しました。
+"%1 class doesn't implement \Klarna\Ordermanagement\Api\ApiInterface",1クラスは、実装していません。
+"The RPC (Remote Procedure Call) failed. The connection timed out after %time_out. Please try again later.","RPC (リモート・プロシージャ・コール) に失敗しました。接続は %time_out の後にタイムアウトしました。後でもう一度試してください。"
+"Message has been rejected: %message","メッセージが拒否されました: %message"
+"The ""%1"" strategy code is unknown. Verify the code and try again.","""%1"" 戦略コードが不明です。コードを検証してから、もう一度試してください。"
+"The row couldn't be updated because a foreign key constraint failed. Verify the constraint and try again.",外部キー制約が失敗したので、行を更新できませんでした。制約を検証してから、もう一度試してください。
+"The ""%1"" field name is unknown. Verify the field name and try again.","""%1"" フィールド名が不明です。フィールド名を検証してから、もう一度試してください。"
+"Consumer '%consumer' is not declared.","消費者 '%consumer' は宣言されていません。"
+"Property 'message_id' not found in properties.","プロパティ 'message_id' がプロパティに見つかりません。"
+"The ""%1"" message code was already processed.","""%1"" メッセージ・コードは既に処理されました。"
+"Publisher '%publisher' is not declared.","パブリッシャ '%publisher' は宣言されていません。"
+"Exception successfully thrown",例外が正常にスローされました。
+"The ""%exchange"" exchange is not declared for the ""%connection"" connection. Verify and try again.","接続 ""%connection"" に対して ""%exchange"" exchange が宣言されていません。確認してから再度試してください。"
+"The field array failed to pass. The array must have a matching condition array.",フィールド配列を通過できませんでした。配列には一致する条件配列が必要です。
+"The array of fields failed to pass. The array must include at one field.","フィールドの配列は通過できませんでした。配列には 1 つ以上のフィールドが含まれている必要があります。"
+"Invalid combination mode: %1","無効な組み合わせモード: %1"
+"Undefined filter group ""%1"" passed in.","未定義のフィルタ・グループ ""%1"" が渡されました。"
+"Custom processor must implement ""%1"".","カスタム・プロセッサは ""%1"" を実装する必要があります。"
+"Custom processor for field ""%1"" is absent.","フィールド ""%1"" のカスタム・プロセッサが存在しません。"
+"Sort order field %1 contains restricted symbols","並べ替え順序フィールド %1 には制限された記号が含まれています。"
+"The ""%1"" scope can't include a scope code. Try again without entering a scope code.","""%1"" スコープにスコープ・コードを含めることはできません。スコープ・コードを入力せずに再試行してください。"
+"A scope is missing. Enter a scope and try again.",スコープがありません。スコープを入力して、もう一度試してください。
+"The ""%1"" value doesn't exist. Enter another value and try again.","""%1"" 値が存在しません。別の値を入力して、もう一度試してください。"
+"A scope code is missing. Enter a code and try again.",スコープ・コードがありません。コードを入力して、もう一度試してください。
+"The scope code can include only lowercase letters (a-z), numbers (0-9) and underscores (_). Also, the first character must be a letter.","スコープ・コードには、小文字 (a-z)、数字 (0-9)、およびアンダースコア (_) のみを含めることができます。また、最初の文字は文字でなければなりません。"
+"Key collision '%1' is already defined.","キー衝突 '%1' は既に定義されています。"
+"Invalid configuration file: '%1'",無効な構成ファイルです。'%1'
+"The ""%1"" deployment config file isn't writable.","""%1"" 配置構成ファイルは書き込み可能ではありません。"
+"The format is not supported",形式はサポートされていません。
+"Wrong format handler type",誤ったフォーマットハンドラのタイプ
+"There has been an error with import",インポートでエラーが発生しました。
+"Invalid request received",無効なリクエストを受信しました。
+"The header provider is invalid. Verify and try again.",ヘッダープロバイダが無効です。確認してからもう一度試してください。
+"Area code ""%1"" does not exist","エリア・コード ""%1"" が存在しません。"
+"Instance is not set yet.",インスタンスはまだ設定されていません。
+"The following patterns didn't return any result:\n%1",以下のパターンは、結果が出ませんでした。
+"You don't have permissions to write to the ""%1"" file.","""%1"" ファイルへの書き込み権限がありません。"
+"You don't have the permissions to open the ""%1"" file for writing access.","書き込みアクセスのために ""%1"" ファイルを開く権限がありません。"
+"You don't have permissions to read the ""%1"" file.","""%1"" ファイルを読み込む権限がありません。"
+"The ""%1"" file failed to open.","""%1"" ファイルを開くことに失敗しました。"
+"The data failed to write to ""%1"".","データは ""%1"" への書き込みに失敗しました。"
+"You need write permissions for: %1","データを ""%1"" に書き込むのに失敗しました。%1"
+"The rollback can't be executed because not all files are writable.",すべてのファイルが書き込み可能ではないため、ロールバックを実行できません。
+"Some error has occurred.",何らかのエラーが発生しました。
+"Cannot acquire a lock.",ロックを取得できません。
+"The ""%serviceMethod"" service method must match the ""%pattern"" pattern.","サービス・メソッド ""%serviceMethod"" は ""%pattern"" パターンと一致している必要があります。"
+"More than one node matching the query: %1, Xml is: %2","クエリに一致するノードが複数あります。1、Xml は %2 です。"
+"Processed schema file: %1",処理されたスキーマ・ファイル。%1
+"Command line user does not have read and write permissions on ' . . ' directory. Please address this issue before using Magento command line.","コマンドラインユーザは ' . . ' ディレクトリの読み書き権限を持っていません。Magento のコマンドラインを使用する前に、この問題に対処してください。"
+"A [y]es or [n]o selection needs to be made. Select and try again.","y]es または [n]o を選択する必要があります。選択してからもう一度試してみてください。"
+"The root element can't be empty or use numbers. Change the element and try again.",ルート要素を空にしたり、数字を使用したりすることはできません。要素を変更してから再度お試しください。
+"An error occurred. Use non-numeric array root keys and try again.",エラーが発生しました。数値以外の配列のルートキーを使用して、もう一度試してみてください。
+"An associative key can't be the same as its parent associative key. Verify and try again.",連想キーが親の連想キーと同じになることはありません。確認してからもう一度試してみてください。
+"Associative and numeric keys can't be mixed at one level. Verify and try again.",連想キーと数値キーを1つのレベルで混在させることはできません。確認してからもう一度試してみてください。
+"The list of tasks is empty. Add tasks and try again.",タスクのリストが空です。タスクを追加してもう一度試してみてください。
+"The command shouldn't be empty. Enter and try again.",コマンドが空ではないはずです。入力して再試行してください。
+"Error during saving of crontab: %1","crontab の保存中にエラーが発生しました。%1"
+"Your operating system is not supported to work with this command",お使いのオペレーティング・システムは、このコマンドを実行するためにサポートされていません。
+"'Compilation from source: LESS file is empty: ' .","'ソースからのコンパイル。'ソースからのコンパイル: LESSファイルが空です: ' ."
+"Multiple queries can't be executed. Run a single query and try again.",複数のクエリを実行できません。1つのクエリを実行して、もう一度試してみてください。
+"The select object must have the correct ""FROM"" part. Verify and try again.","SELECTオブジェクトには、正しい ""FROM ""部分が必要です。確認してから再度実行してください。"
+"The ""db object"" isn't set in config. Set the ""db object"" and try again.","dbオブジェクト ""が設定されていません。dbオブジェクト」を設定して、もう一度試してみてください。"
+"The node information is empty. Enter the information and try again.",ノード情報が空です。情報を入力して再度試してみてください。
+"The encryption key can't be empty. Enter the key and try again.",暗号化キーを空にすることはできません。キーを入力して再試行してください。
+"""%2"" is an invalid format of ""%1"" group. Verify the format and try again.","""%2 ""は""%1 ""グループの無効な形式です。フォーマットを確認して、もう一度試してください。"
+"The ""%1"" is not in the nested set of ""%2"", causing the parent-child relation to break. Verify and try again.","""%1"" が ""%2"" の入れ子になっているセットにないため、親子関係が壊れています。検証して、もう一度試してください。"
+"The ""%1"" format of children is invalid. Verify and try again.","子の ""%1"" フォーマットは無効です。検証してから再度試してください。"
+"The ""%1"" doesn't have ""%2"" as parent, causing the parent-child relation to break. Verify and try again.","""%1"" に ""%2"" が親として含まれていないので、親子関係が壊れています。検証してから再度試してください。"
+"An element with a ""%1"" ID already exists.","""%1"" ID を持つ要素は既に存在します。"
+"An element with a ""%1"" ID is already defined.","""%1"" ID を持つ要素は既に定義されています。"
+"The ""%1"" was incorrectly set as a child to itself. Resolve the issue and try again.","""%1"" がそれ自身の子として誤って設定されました。問題を解決してから、もう一度試してください。"
+"The ""%3"" cannot be set as child to ""%1"" because ""%1"" is a parent of ""%2"" recursively. Resolve the issue and try again.","""%1"" が再帰的に ""%2"" の親なので、""%3"" を ""%1"" の子として設定できません。問題を解決してから、もう一度試してください。"
+"The ""%1"" is not a child of ""%2"". Resolve the issue and try again.","""%1"" は ""%2"" の子ではありません。問題を解決してからもう一度試してください。"
+"The element ""%1"" can't have a parent because ""%2"" is already the parent of ""%1"".","""%2"" は既に ""%1"" の親なので、要素 ""%1"" に親を持つことはできません。"
+"The element ""%1"" is already a child of ""%2"".","要素 ""%1"" は既に ""%2"" の子です。"
+"The element ""%1"" can't have a child because ""%1"" already has a child with alias ""%2"".","要素 ""%1"" にはエイリアス ""%2"" を持つ子が既に存在するので、要素 ""%1"" に子を持つことはできません。"
+"Encryption key must be 32 character string without any white space.","暗号化キーは空白を含まない 32 文字の文字列でなければなりません。"
+"One or more input exceptions have occurred while processing bulk.","一括処理中に 1 つ以上の入力例外が発生しました。"
+"Invalid parameter given. A valid $fileId[tmp_name] is expected.","無効なパラメータが指定されました。有効な $fileId[tmp_name] が必要です。"
+"Path ""%1"" cannot be used with directory ""%2""","パス ""%1"" をディレクトリ ""%2"" と一緒に使用することはできません。"
+"The path ""%1"" is not writable.","パス ""%1"" は書き込み可能ではありません。"
+"An error occurred during ""%1"" execution.","""%1"" の実行中にエラーが発生しました。"
+"The contents from the ""%1"" file can't be read. %2","""%1"" ファイルの内容は読み取れません。%2"
+"A symlink for ""%1"" can't be created and placed to ""%2"". %3","""%1"" のシンボリック・リンクを作成して ""%2"" に配置できません。%3"
+"The ""%1"" file can't be deleted. %2","""%1"" ファイルは削除できません。%2"
+"The permissions can't be changed for the ""%1"" path. %2.","""%1"" パスのパーミッションは変更できません。%2."
+"The ""%1"" file or directory can't be touched. %2","""%1"" ファイルまたはディレクトリはタッチできません。%2"
+"The specified ""%1"" file couldn't be written. %2","指定された ""%1"" ファイルを書き込めませんでした。%2"
+"The ""%1"" CSV handle is incorrect. Verify the handle and try again.","""%1"" CSV ハンドルが正しくありません。ハンドルを確認してから、もう一度試してください。"
+"An error occurred during ""%1"" fileSeek execution.","""%1"" fileSeek 実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileClose execution.","""%1"" fileClose 実行中にエラーが発生しました。"
+"An error occurred during ""%1"" filePutCsv execution.","""%1"" filePutCsv 実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileFlush execution.","""%1"" fileFlush 実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileLock execution.","""%1"" fileLock 実行中にエラーが発生しました。"
+"An error occurred during ""%1"" fileUnlock execution.","""%1"" fileUnlock 実行中にエラーが発生しました。"
+"The download URL is incorrect. Verify and try again.","ダウンロード URL が正しくありません。確認してから再試行してください。"
+"Stream get line failed %1",ストリーム取得行に失敗しました。
+"Unable to list current working directory.",現在の作業ディレクトリをリストアップできません。
+"Unable to list current working directory. Access forbidden.",現在の作業ディレクトリをリストアップできません。アクセスは禁止されています。
+"The specified host is empty. Set the host and try again.",指定したホストが空です。ホストを設定して再試行してください。
+"The FTP connection couldn't be established because of an invalid host or port.",ホストまたはポートが無効なため、FTP接続を確立できませんでした。
+"The username or password is invalid. Verify both and try again.",ユーザ名またはパスワードが無効です。両方を確認してから再度試してください。
+"The path is invalid. Verify and try again.",パスが無効です。確認の上、再度お試しください。
+"The file transfer mode is invalid. Verify and try again.",ファイル転送モードが無効です。検証してからもう一度試してください。
+"Enum type ""%1"" not defined","列挙型 ""%1"" が定義されていません。"
+"%1 operator not supported","%1 演算子はサポートされていません。"
+"Can't support nested operators",入れ子になった演算子をサポートできない
+"Nesting ""OR"" node type not supported","ネスティング ""OR ""ノード型はサポートされていません。"
+"Sub nesting of %1 is not supported","%1 のサブ入れ子はサポートされていません。"
+"No mapping to Webonyx type is declared for '%1' config element type.","%1' config 要素タイプの '%1' に対して Webonyx タイプへのマッピングが宣言されていません。"
+"Unsupported image format. File: %1","サポートされていない画像形式です。ファイル: %1"
+"Unable to create watermark.",透かしを作成できません。
+"Required PHP extension 'Imagick' was not loaded.","必要な PHP 拡張モジュール 'Imagick' がロードされませんでした。"
+"Circular dependency references from '%indexerId' to '%relatedIndexerId'.","indexerId' から '%relatedIndexerId' への循環型依存関係参照。"
+"Dependency declaration '%relatedIndexerId' in '%indexerId' to the non-existing indexer.","indexerId' 内の依存性宣言 '%relatedIndexerId' は、存在しないインデクサへの依存性宣言 '%relatedIndexerId' です。"
+"%1 indexer does not exist.","1 つのインデクサは存在しません。"
+"Memory size allocated for the temporary table is more than 20% of innodb_buffer_pool_size. Please update innodb_buffer_pool_size or decrease batch size value (which decreases memory usages for the temporary table). Current batch size: %1; Allocated memory size: %2 bytes; InnoDB buffer pool size: %3 bytes.","一時テーブルに割り当てられたメモリ・サイズが innodb_buffer_pool_size の 20% を超えています。innodb_buffer_pool_size を更新するか、バッチ・サイズの値を減らしてください (これにより一時テーブルのメモリ使用量が減少します)。現在のバッチ・サイズ: %1、割り当てられたメモリ・サイズ: %2 バイト、InnoDB バッファ・プール・サイズ: %3 バイト。"
+"The path needs to be a non-empty string.",パスは空でない文字列である必要があります。
+"Cannot create the directory for locks: %1",ロック用のディレクトリを作成できません。
+"Cannot verify that the lock exists.",ロックが存在することを確認できません。
+"The host needs to be a non-empty string.",ホストは空でない文字列である必要があります。
+"Failed creating the path %1","パス %1 の作成に失敗しました。"
+"Failed creating lock %1","ロック %1 の作成に失敗しました。"
+"Zookeeper connection timed out!","Zookeeper 接続がタイムアウトしました。"
+"Unknown locks provider: %1",不明なロック・プロバイダです。%1
+"php extension Zookeeper is not installed.","php 拡張モジュール Zookeeper がインストールされていない。"
+"Unknown template type",不明なテンプレートの種類
+"Invalid range given.",無効な範囲が指定されました。
+"The configuration for the ""%1"" type is incorrect. Verify the type and configuration and try again.","""%1"" タイプの構成が正しくありません。タイプと構成を確認してから、もう一度試してください。"
+"The connection is invalid. Verify the connection and try again.",接続が無効です。接続を検証してから、もう一度試してください。
+"The query is invalid. Verify the query and try again.",クエリは無効です。クエリを検証してから、再度試してください。
+"The write connection to the database isn't available. Please try again later.",データベースへの書き込み接続が利用できません。後でもう一度試してください。
+"Table status for %1 is incorrect. Can`t fetch version id.","%1 のテーブル・ステータスが正しくありません。バージョン ID をフェッチできません。"
+"View's identifier is not set",ビューの識別子が設定されていません。
+"The signature is invalid. Verify and try again.",署名が無効です。検証してからもう一度試してください。
+"The ""%1"" Oauth version isn't supported.","""%1"" Oauth バージョンはサポートされていません。"
+"Type Error occurred when creating object: %type","オブジェクトの作成時に型エラーが発生しました: %type"
+"The ""%value"" value's type is invalid. The ""%type"" type was expected. Verify and try again.","value"" 値の型が無効です。type"" の型は期待されていました。検証してから再度試してください。"
+"The request query and filters aren't set. Verify the query and filters and try again.",要求クエリとフィルタが設定されていません。クエリとフィルタを検証して、もう一度試してください。
+"A cycle was found. The ""%1"" query is already used in the request hierarchy.","サイクルが見つかりました。要求階層で ""%1"" クエリが既に使用されています。"
+"A cycle was found. The ""%1"" filter is already used in the request hierarchy.","サイクルが見つかりました。要求階層で ""%1"" フィルタが既に使用されています。"
+"The bucket type is invalid. Verify and try again.",バケット・タイプが無効です。検証してから再度試してください。
+"The database storage table doesn't exist. Verify the table and try again.",データベース・ストレージ・テーブルが存在しません。テーブルを検証してから、もう一度試してください。
+"The ""%1"" session value is invalid. Verify and try again.","""%1"" セッション値は無効です。検証してからもう一度試してください。"
+"The rollback file is invalid. Verify the file and try again.",ロールバック・ファイルが無効です。ファイルを検証してから、もう一度試してください。
+"The rollback file doesn't exist. Verify the file and try again.",ロールバック・ファイルは存在しません。ファイルを検証してからもう一度試してください。
+"Can`t read foreign keys from current database",現在のデータベースから外部キーを読み込めません
+"Cannot find columns for internal index",内部インデックスの列が見つからない
+"Column %1 does not exist for index/constraint %2 in table %3.","列 %1 がテーブル %3 のインデックス/制約 %2 に存在しません。"
+"Patch %1 should implement DataPatchInterface","パッチ %1 は DataPatchInterface を実装する必要があります。"
+"Unable to apply data patch %1 for module %2. Original exception message: %3","データ・パッチ %1 をモジュール %2 に適用できません。元の例外メッセージです。%3"
+"Unable to apply patch %1 for module %2. Original exception message: %3","モジュール %2 にパッチ %1 を適用できません。元の例外メッセージです。%3"
+"The exec function is disabled.","exec 機能は無効になっています。"
+"The cookie with ""%name"" cookieName couldn't be deleted.","cookieName が ""%name"" のクッキーは削除できませんでした。"
+"The cookie with ""%name"" cookieName couldn't be sent. Please try again later.","cookieName が ""%name"" のクッキーを送信できませんでした。後でもう一度試してください。"
+"The format type is invalid. Verify the format type and try again.",フォーマットの種類が無効です。フォーマット・タイプを確認してから、もう一度試してください。
+"The DateTime object timezone needs to be the same as the ""%1"" timezone in config.","DateTime オブジェクトのタイムゾーンは、構成の ""%1"" タイムゾーンと同じにする必要があります。"
+"Could not append time to DateTime","DateTime に時間を追加できませんでした。"
+"The transition year isn't included in the system date range. Verify the year date range and try again.",移行年がシステムの日付範囲に含まれていません。年の日付範囲を確認してから、もう一度試してください。
+"The ""%1"" block threw an exception, and it can't be rendered.","""%1"" ブロックが例外をスローしました。"
+"The ""componentType"" configuration parameter is required for the ""%1"" component.","""%1"" コンポーネントには ""componentType"" 構成パラメータが必要です。"
+"An error occurred with the UI component. Each component needs context. Verify and try again.","UI コンポーネントでエラーが発生しました。各コンポーネントにはコンテキストが必要です。確認してから、もう一度試してください。"
+"Theme layout update file '%1' is not valid.\n%2","テーマ・レイアウト更新ファイル '%1' は有効ではありません。"
+"Please correct the XSD data and try again. %value%",XSDデータを修正して再度お試しください。値
+"This class needs to inherit from a class ""Template"". Verify the class and try again.",このクラスは「Template」というクラスを継承する必要があります。クラスを確認して、もう一度試してみてください。
+"Processed schema file is not valid.",処理されたスキーマファイルが無効です。
+"Please correct the XSD data and try again.",XSDデータを修正して再度お試しください。
+"An empty custom attribute is specified. Enter the attribute and try again.",空のカスタム属性が指定されています。属性を入力して再度お試しください。
+"A custom attribute is specified with a missing attribute code. Verify the code and try again.",カスタム属性が指定されていますが、属性コードが欠落しています。コードを確認して再度お試しください。
+"The ""' . . '"" attribute code doesn't have a value set. Enter the value and try again.","'' . . '""の属性コードに値が設定されていません。値を入力して再度試してください。"
+"At least one Company entity is required to create Negotiable Quote",交渉可能な見積書を作成するには、少なくとも1つの会社のエンティティが必要です。
+"Not enough Quotes to be converted into Negotiable Quotes",交渉可能な名言に変換されるほどの名言ではない
+"The consumer isn't authorized to access %1.","消費者は %1 にアクセスする権限がありません。"
+"""%1"" is not a valid mock response type for country ""%2"".","""%1"" は国 ""%2"" に対して有効なモック応答タイプではありません。"
+"%1 is not a valid destination country.","1 は有効な宛先国ではありません。"
+"Directory separator ""\" is prohibited in fixture declaration.","ディレクトリ・セパレータ ""\" はフィクスチャ宣言で禁止されています。"
+"Collection size after clearing the products: %size",製品をクリアした後のコレクション・サイズ。サイズ
+"Input type ""wrong_input_type"" not found in the input types list.","入力タイプ ""wrong_input_type"" が入力タイプリストに見つかりません。"
+"An attribute set named 'Default' already exists.","Default' という名前の属性セットが既に存在しています。"
+"Fixture type is not specified for resolver",フィクスチャ・タイプがリゾルバに指定されていません
+"Can't find registered Module with name %1 .","名前 %1 で登録されたモジュールが見つかりません。"
+"Fixture resolver should not have test before test run",フィクスチャリゾルバがテスト実行前にテストをしてはいけない
+"Modifier %s does not exists","修飾子 %s が存在しません。"
+"No such entity with id = %entityId","id = %entityId でそのようなエンティティはありません。"
+"Attribute group with same code already exist. Please rename &quot;attribute-group-name&quot; group",同じコードの属性グループが既に存在します。属性グループの名前を変更してください。
+"{{store url=""%1""}}","{{store url=""%1""}}}。"
+"<p>line1</p>\nline2",<p>line1</p>line2
+"The ""Name"" attribute value is empty. Set the attribute and try again.",名前」属性の値が空です。属性を設定して、もう一度やってみてください。
+"Missed values for option required fields\nInvalid option type","Missed values for option required fieldsオプション必須フィールドの値が不足しています。"
+"Invalid option value",無効なオプション値
+"Missed values for option required fields",オプションの必須フィールドの値が間違っている
+stock_status,かぶしきステータス
+"A total of 3 record(s) were updated.",合計3つのレコードが更新されました。
+"No such entity with addressId = 1","addressId = 1 のエンティティはありません。"
+"Not found",見つかりませんでした。
+"Session Exception",セッション例外
+"New product data is added to the existing product data for the existing entries in the database. All fields except sku can be updated.",データベース内の既存のエントリーに対して、既存の商品データに新しい商品データが追加されます。sku以外のすべてのフィールドを更新することができます。
+"The existing product data is replaced with new data. <b>Exercise caution when replacing data because the existing product data will be completely cleared and all references in the system will be lost.</b>",既存の商品データを新しいデータに置き換えます。<b>既存の製品データは完全にクリアされ、システム内のすべての参照が失われるため、データを置き換える際には注意が必要です。
+"Any entities in the import data that already exist in the database are deleted from the database.",データベースに既に存在するインポートデータ内のエンティティは、データベースから削除されます。
+"Response message from PayPal gateway",PayPalゲートウェイからの応答メッセージ
+"The response format was incorrect. Should be valid HTML",応答形式が正しくありませんでした。有効なHTMLでなければなりません。
+"Declined response message from PayPal gateway",PayPalゲートウェイからの拒否応答メッセージ
+"Order Date: %1","注文日: %1"
+"Transaction has been declined.",取引が拒否されました。
+"Your %1 order confirmation",お客様の%1注文確認
+"Update to your %1 credit memo",あなたの%1クレジットメモの更新
+"Credit memo for your %1 order",ご注文の%1のクレジットメモ
+"Update to your %1 invoice","請求書 %1 を更新します。"
+"Invoice for your %1 order",ご注文の%1の請求書
+"Transaction declined.",取引が辞退しました。
+"We can&#039;t find a synonym group to delete.",削除する同義語グループが見つかりません。
+"You can't send messages more than 5 times an hour.",1時間に5回以上メッセージを送信することはできません。
+"Update to your %1 shipment",あなたの%1出荷に更新します。
+"Your %1 order has shipped",あなたの%1の注文は出荷されました
+"Password Reset Confirmation for %1","1 のパスワード・リセット確認"
+"Cannot add product without stock to wishlist.",在庫のない商品をウィッシュリストに追加できません。
+"Invalid URL path: %1","無効な URL パス: %1"
+"'NOTE: Manual static content deployment is not required in ""default"" and ""developer"" modes.' . . 'In ""default"" and ""developer"" modes static contents are being deployed automatically on demand.' . . 'If you still want to deploy in these modes, use -f option: ' . ""'bin/magento setup:static-content:deploy -f'""","'注意: ""default"" および ""developer"" モードでは、手動による静的コンテンツの展開は必要ありません。. . 'default"" および ""developer"" モードでは、要求に応じて静的コンテンツが自動的に展開されます。. . 'これらのモードでもデプロイしたい場合は、-f オプションを使用してください: ' . ""'bin/magento setup:static-content:deploy -f'"""
+"%1 failed. See previous output.","1 に失敗しました。前の出力を参照してください。"
+"The configurable product's SKU pattern must be unique in an attribute set.","構成可能な製品の SKU パターンは、属性セットで一意でなければなりません。"
+"The configurable product config is invalid. Verify the product and try again.",構成可能な製品の構成が無効です。製品を検証してから、もう一度試してください。
+"The amount of images to generate wasn't specified. Enter the amount and try again.",生成する画像の量が指定されていませんでした。量を入力して再度試してください。
+"The amount of images per product wasn't specified. Enter the amount and try again.",商品ごとの画像の量が指定されていませんでした。量を入力して再試行してください。
+"Cannot generate entities - error occurred during template creation: %1","エンティティを生成できません - テンプレート作成中にエラーが発生しました: %1"
+"Cannot save entity. Error occurred: %1",実体を保存できません。エラーが発生しました。%1
+"The entity ID field for the ""%1"" table wasn't found. Verify the field and try again.","""%1"" テーブルのエンティティ ID フィールドが見つかりませんでした。フィールドを検証して、再度試してください。"
+"The primary key for the ""%1"" table wasn't found. Verify the key and try again.","""%1"" テーブルの主キーが見つかりませんでした。キーを検証してから、もう一度試してください。"
+"The ""%1"" path is invalid. Verify the path and try again.","""%1"" パスが無効です。パスを検証してから、もう一度試してください。"
+"Error during compilation",コンパイル中にエラーが発生しました。
+Wholesale,卸売り
+Retailer,小売業者
+". ' Wish List'",". お気に入りリスト'"
+". ' Click <a href=""http://localhost/test"">here</a> to continue shopping.'",". ' <a href=""http://localhost/test"">こちら</a>をクリックしてお買い物を続けてください。"
+"You submitted Return",リターンを提出しました。
+"Unable to send mail",メールが送れない
+"This item needs to be assigned to a store view.
+                Please select a website for this product in ""Product in Websites"".","この商品はストアビューに割り当てる必要があります。
+                ウェブサイトの商品」でこの商品のウェブサイトを選択してください。"
+"Could not find user profile id: %id.","ユーザ・プロファイル ID: %id が見つかりませんでした。"
+"Could not retrieve assets.",アセットを取得できませんでした。
+"Could not delete Adobe Stock asset with id %id","id %id で Adobe Stock アセットを削除できませんでした。"
+"An error occurred during adobe stock asset save.","adobe stock asset の保存中にエラーが発生しました。"
+"Could not delete Adobe Stock asset category with id %id","id %id を持つ Adobe Stock 資産カテゴリを削除できませんでした。"
+"Could not delete Adobe Stock asset creator with id %id","id %id で Adobe Stock 資産作成者を削除できませんでした。"
+"Uploaded Locally",ローカルでアップロード
+"Could not load related assets for asset id: %id","アセット ID: %id の関連資産をロードできませんでした。"
+"Could not save image.",画像を保存できませんでした。
+"Could not save media gallery asset.",メディアギャラリーアセットを保存できませんでした。
+"Could not save image: destination directory is restricted.","画像を保存できませんでした: 保存先のディレクトリが制限されています。"
+"Could not save image: unsupported file type.","画像を保存できませんでした: サポートされていないファイル・タイプです。"
+"Command ""%1"" was not found.","コマンド ""%1"" が見つかりませんでした。"
+"Failed to synchronize data to the Magento Business Intelligence service. ","データを Magento Business Intelligence サービスに同期できませんでした。"
+"Task ""%1"": ","タスク ""%1""。"
+"Invalid security or form key. Please refresh the page.",無効なセキュリティ・キーまたはフォーム・キーです。ページをリフレッシュしてください。
+"Return to ",戻る
+"Privacy Policy",個人情報保護方針
+"Backup functionality is disabled",バックアップ機能が無効
+"Dynamic Block disabled",ダイナミックブロック無効
+"Invalid Request",無効な要求
+"Make sure that dynamic blocks rotator does not reference the dynamic block itself.",ダイナミックブロックローテータがダイナミックブロック自体を参照しないことを確認してください。
+"""option_id"" and ""parent_id"" values should be specified","""option_id"" と ""parent_id"" の値を指定する必要があります。"
+"Value must contain ""model"" property.","値には ""model ""プロパティが含まれている必要があります。"
+"""sku"" value should be specified","""sku"" の値を指定する必要があります。"
+"Authentication Failed. Your card issuer cannot authenticate this card. Please select another card or form of payment to complete your purchase.",認証に失敗しました。お客様のカード発行会社はこのカードを認証できません。別のカードまたは支払い方法を選択して購入を完了してください。
+"Customer with id ""%customer_id"" does not exist.","id ""%customer_id"" を持つ顧客は存在しません。"
+Dayclears,デイクレアーズ
+"Cannot resolve aggregation option type",アグリゲーションオプションのタイプを解決できない
+"Invalid match filter. Minimum length is %1.","無効な一致フィルタです。最小長は %1 です。"
+"CategoryFilterInput type not defined in schema.","スキーマで定義されていない CategoryFilterInput 型です。"
+"Attribute label: ",属性ラベル。
+"Cannot resolve layered filter type",レイヤード・フィルタ・タイプを解決できません。
+"Invalid format provided. Please use 'Y-m-d H:i:s' format.","無効なフォーマットが提供されています。Y-m-d H:i:s' 形式を使用してください。"
+"Cannot resolve type",タイプを解決できません。
+"""path"" value should be specified","""パスの値を指定する必要があります。"
+"Category doesn't exist",カテゴリが存在しない
+"Category image not found.",カテゴリ画像が見つかりません。
+"""image_type"" value should be specified","""image_typeの値を指定してください。"
+"%1 type not defined in schema.","%1 型はスキーマで定義されていません。"
+"Invalid match filter",無効な一致フィルタ
+"Value for 'type' sub attribute in 'custom_options' attribute contains incorrect value, acceptable values are: %1","custom_options' 属性の 'type' サブ属性の値に不正な値が含まれています。%1"
+"Could not parse resource url.","リソースの URL を解析できませんでした。"
+"Import images directory must be writable in order to process remote images.",リモート画像を処理するには、インポート画像ディレクトリが書き込み可能でなければなりません。
+"The requested qty is not available",要求された数量が利用できません
+"Default product collection strategy not found",デフォルトの製品収集戦略が見つかりません
+"Disable Notice",無効化通知
+"Please enter a valid price range.",有効な価格帯を入力してください。
+"Search is not supported in preview mode.",プレビューモードでの検索はサポートされていません。
+"Problem with creating product update.",製品の更新を作成する際の問題。
+"Can not change the visibility of the product with SKU equals ""%1"". URL key ""%2"" for specified store already exists.","SKU が ""%1"" に等しい商品の表示を変更できません。指定されたストアの URL キー ""%2"" が既に存在します。"
+"The default date is invalid.",既定の日付が無効です。
+"Message is added to queue",メッセージがキューに追加されました。
+"Update attributes for ' . . ' selected products",選択した製品の属性を更新します。
+"The attribute couldn't be saved due to an error. Verify your information and try again. If the error persists, please try again later.",エラーが発生したため、属性を保存できませんでした。情報を確認してから再度お試しください。エラーが続く場合は、後でもう一度お試しください。
+"The attribute couldn't be validated due to an error. Verify your information and try again. If the error persists, please try again later.",エラーが発生したため、属性を検証できませんでした。お客様の情報を確認してから、もう一度お試しください。エラーが続く場合は、後でもう一度お試しください。
+"The value of attribute(s) ""%1"" must be unique","属性 ""%1"" の値は一意である必要があります。"
+"Selected layout update is not available",選択したレイアウトの更新ができない
+"Sorry, something went wrong during product attributes update. Please see log for details.",申し訳ありませんが、商品属性の更新中に何か問題が発生しました。詳しくはログをご覧ください。
+"Custom layout update text cannot be changed, only removed",カスタムレイアウトの更新テキストは変更できず、削除のみ
+"Not allowed to edit the category's design attributes",カテゴリのデザイン属性の編集が許可されていない
+"The category doesn't contain the specified products.",カテゴリには指定された製品が含まれていません。
+"Could not save products ""%products"" to category %category","製品 ""%products"" をカテゴリ %category に保存できませんでした。"
+"Tier prices data should be array, but actually other type is received",ティア価格データは配列であるべきだが、実際には他の型を受信している
+"Not allowed to edit the product's design attributes",製品のデザイン属性の編集を許可されていない
+"Full file path is expected.",フル・ファイル・パスが必要です。
+"Price indexer ""%1"" must implement %2 or %3","価格インデクサ ""%1"" は %2 または %3 を実装する必要があります。"
+"%1: Line %2","%1: 行 %2"
+"Please select at least one product to add to cart",カートに追加する商品を1つ以上選択してください。
+"Page Not Found",ページが見つかりません
+"Something went wrong while saving the page. Please refresh the page and try again.",ページの保存中に何か問題が発生しました。ページを更新してから再度お試しください。
+"The shipping information was unable to be saved. Error: ""%message""","配送情報を保存できませんでした。エラーが発生しました。""%message"""
+"""identifiers"" of CMS blocks should be specified","""CMSブロックの「識別子」を指定する必要があります。"
+"""Page id/identifier should be specified","""ページID/識別子を指定してください"
+"Can't create %1 as subdirectory of %2, you might have some permission issue.","%1 を %2 のサブディレクトリとして作成できない、パーミッションの問題があるかもしれません。"
+"You are not allowed to change CMS pages design settings",CMSページのデザイン設定を変更することはできません。
+"Invalid Custom Layout Update selected",無効なカスタムレイアウトの更新が選択されています。
+"Page ""%id"" doesn't have custom layout assigned","ページ ""%id"" にカスタム・レイアウトが割り当てられていません。"
+"Required field ""%1"" is empty.","必須フィールド ""%1"" は空です。"
+"Layout update is invalid",レイアウトの更新は無効です。
+"Custom layout update is invalid",カスタムレイアウトの更新が無効
+"We can't upload the file to current folder right now. Please try another folder.",現在のフォルダにファイルをアップロードすることができません。別のフォルダを試してみてください。
+"Oh no. That isn't right.",あーあ、ダメだ。これは正しくありません。
+"Invalid format",無効な形式です。
+" (disabled)"," 不能"
+" - Duplicated"," - 複製"
+"VAT/TAX ID: ","VAT/TAX ID."
+"Re-seller ID: ",再販売者ID:
+"Could not find specified product.",指定された商品が見つかりませんでした。
+"Required parameter ""cart_id"" is missing","必須パラメータ ""cart_id ""がありません"
+"Required parameter ""cart_items"" is missing","必須パラメータ ""cart_items ""がありません。"
+"The value of attribute """"%1"""" must be unique","属性 """"%1"""" の値は一意でなければなりません。"
+"Please correct the value for file extensions.",ファイル拡張子の値を修正してください。
+"Alphanumeric with spaces",スペースを含む英数字
+"No forms to use in specified to show attribute on a storefront. Please select one at least.","店頭で属性を表示するために指定したフォームで使用するフォームはありません。少なくとも 1 つを選択してください。"
+"Required parameter ""%1"" is missing","必須パラメータ ""%1"" がありません"
+"Please specify a valid customer",有効な顧客を指定してください
+"We refunded %1 to Store Credit",1%をストアクレジットに返金しました。
+"Comma separated. Forbidden file extensions: %1.","カンマで区切られています。禁止されているファイル拡張子: %1。"
+"Attribute code already exists",属性コードは既に存在します。
+"The current customer isn't authorized.",現在の顧客は許可されていません。
+"Required parameters are missing: %1","必要なパラメータが見つかりません: %1"
+"Customer Address %1 is set as default billing address and can not be deleted","顧客アドレス %1 は既定の請求先アドレスとして設定されており、削除できません。"
+"Customer Address %1 is set as default shipping address and can not be deleted","顧客アドレス %1 は既定の配送先住所として設定されており、削除できません。"
+"Could not find a address with ID ""%address_id""","ID ""%address_id"" のアドレスが見つかりませんでした。"
+"Current customer does not have permission to address with ID ""%address_id""","現在の顧客は ID ""%address_id"" でアドレスを許可されていません。"
+"The region_id does not match the selected country or region","region_id が選択した国または地域と一致しません。"
+"A region_id is required for the specified country code",指定した国コードにはregion_idが必要です。
+"The specified region is not a part of the selected country or region",指定された地域は、選択された国や地域の一部ではありません。
+"Provide the current ""password"" to change ""email"".","""電子メール""を変更するための""現在のパスワード""を指定します。"
+"Specify the ""currentPassword"" value.","""currentPassword""の値を指定します。"
+"Specify the ""newPassword"" value.","""newPassword""の値を指定します。"
+"""input"" value should be specified","""input ""の値を指定する"
+"Specify the ""email"" value.","""メール""の値を指定します。"
+"Specify the ""password"" value.","""パスワード""の値を指定します。"
+"Email must be specified",メールアドレスは必ず指定してください。
+"Email is invalid",電子メールが無効です
+"You must specify an email address.",メールアドレスを指定する必要があります。
+"The email address has an invalid format.",メールアドレスの形式が無効です。
+"Cannot reset the customer's password",お客様のパスワードをリセットできない
+"The account is locked",アカウントがロックされている
+"resetPasswordToken must be specified",resetPasswordTokenを指定する必要があります。
+"newPassword must be specified",newPasswordを指定する必要があります。
+"Cannot set the customer's password",お客様のパスワードが設定できない
+"Address ""id"" value must be specified","アドレス ""id""の値を指定する必要があります。"
+"""input"" value must be specified","""入力""の値を指定する必要があります。"
+"Customer not logged in",ログインしていないお客様
+"Last Updated At",最終更新日
+"No files for upload.",アップロードするファイルがありません。
+"There is no address id in setting default billing address.",デフォルトの請求先アドレスの設定にアドレスIDがありません。
+"Default billing address has been changed.",デフォルトの請求先アドレスが変更されました。
+"We can't change default billing address right now.",現在、デフォルトの請求先住所を変更することはできません。
+"There is no address id in setting default shipping address.",デフォルトの配送先住所の設定にアドレスIDがありません。
+"Default shipping address has been changed.",デフォルトの配送先住所が変更されました。
+"We can't change default shipping address right now.",現在、デフォルトの配送先住所を変更することはできません。
+"There is no such address entity to delete.",削除するアドレスの実体がありません。
+"We can't mass delete the addresses right now.",現在、アドレスを大量に削除することはできません。
+"Customer address has been updated.",お客様の住所が更新されました。
+"New customer address has been added.",新しい顧客アドレスが追加されました。
+"There is no customer with such id.",そのようなIDを持つ顧客は存在しません。
+"We can't change customer address right now.",現在、顧客アドレスを変更することはできません。
+"No such entity with rp_token = %value","rp_token = %value を持つそのようなエンティティはありません。"
+EmailNotConfirmedException,EmailNotConfirmedException
+AuthenticationException,AuthenticationException
+UserLockedException,UserLocakedException
+"Set as default billing",デフォルトの課金として設定
+"Set address as default billing",デフォルトの請求先としてアドレスを設定する
+"Are you sure you want to set the address as default billing address?",デフォルトの請求先として設定してもよろしいでしょうか？
+"Set as default shipping",デフォルトの配送先として設定
+"Set address as default shipping",デフォルトの配送先としてアドレスを設定する
+"Are you sure you want to set the address as default shipping address?",住所をデフォルトの配送先に設定してもよろしいでしょうか？
+"Delete address",住所の削除
+"Are you sure you want to delete the address?",アドレスを削除してもよろしいですか？
+"Additional addresses",追加のアドレス
+"Patch %1 has been successfully generated.","パッチ %1 が正常に生成されました。"
+"Template hints are %status","テンプレート・ヒントは %status"
+"Magento was installed with a table prefix. Please re-install without prefix.",Magentoはテーブルのプレフィックスをつけてインストールしていました。プレフィックスを付けずに再インストールしてください。
+"Configuration Exception Message",設定の例外メッセージ
+"The ""%1.xml"" file doesn't exist.","""%1.xml"" ファイルは存在しません。"
+"Currency not allowed for store %1","ストア %1 には通貨が許可されていません。"
+"Please correct the target currency",対象通貨を修正してください
+"Country ""id"" value should be specified","国の ""id ""の値を指定する必要があります。"
+"No API Key was specified or an invalid API Key was specified.",APIキーが指定されていないか、無効なAPIキーが指定されました。
+"Currency rates can't be retrieved.",通貨レートは取得できません。
+"The account this API request is coming from is inactive.","この API 要求が送信されたアカウントはアクティブではありません。"
+"The ""%1"" is not allowed as base currency for your subscription plan.","サブスクリプション プランの基準通貨として ""%1"" は許可されていません。"
+"An invalid base currency has been entered.",無効な基準通貨が入力されました。
+"Wrong product type. Links are available for Downloadable and Virtual product types",製品の種類が間違っています。リンクは、ダウンロード可能な製品タイプと仮想製品タイプに対応しています。
+"Upload type can not be determined.",アップロードタイプが判別できません。
+"File can not be moved from temporary folder to the destination folder.",ファイルを一時フォルダから移動先フォルダに移動できません。
+"Link file not found. Please try again.",リンクファイルが見つかりません。再度お試しください。
+"Link sample file not found. Please try again.",リンク先のサンプルファイルが見つかりません。再度お試しください。
+"The link sample type is invalid. Verify and try again.",リンクサンプルの種類が無効です。確認の上、再度お試しください。
+"Sample file not found. Please try again.",サンプルファイルが見つかりません。再度お試しください。
+"""Entity type should be specified","""エンティティタイプを指定してください"
+"""Attribute code should be specified","""属性コードを指定する必要があります"
+"Cannot resolve EAV type",EAVタイプを解決できない
+"Do not change entity type.",エンティティ・タイプを変更しないでください。
+"The entity supplied to collection is invalid. Verify the entity and try again.",コレクションに供給されたエンティティが無効です。エンティティを検証してから、再度試してください。
+"""%1"" prefix is reserved by the system and cannot be used in attribute code names.","""%1"" 接頭辞はシステムで予約されており、属性コード名には使用できません。"
+"Value for the field ""%1"" was not saved because of the incorrect format.","フィールド ""%1"" の値は、形式が正しくないので保存されませんでした。"
+"Contents of %1 could not be loaded or is empty","%1 の内容をロードできなかったか、空です。"
+"Contents of the specified CSS file could not be loaded or is empty",指定されたCSSファイルの内容が読み込めなかったか、空です。
+expectedResult,期待値
+"Expected Delivery:",期待される配達。
+"Invalid gift card",無効なギフトカード
+"Required parameter '%1' is missing.","必須パラメータ '%1' が見つかりません。"
+"Cannot find the customer to update balance",残高を更新する顧客が見つかりません。
+"Required parameter '%1' is missing","必須パラメータ '%1' が見つかりません。"
+"Required parameter ""gift_card_code"" is missing","必須パラメータ ""gift_card_code ""がありません。"
+"Code Pool used: <b>%1%</b> (free <b>%2</b> of <b>%3</b> total). Generate new code pool <a href=""#"" data-post=""%4"">here</a>.","使用されるコードプール。<b>%1%</b> (<b>%3</b>合計の<b>%2</b>が空いています)。新しいコードプール<a href=""#"" data-post=""%4"">こちら</a>を生成します。"
+"Gift card not found",ギフトカードが見つかりませんでした
+"Gift card account is not redeemable.",ギフトカードのアカウントは換金できません。
+"Requiring a composite gift card account.",複合ギフトカードアカウントが必要です。
+"The gift card code is either incorrect or expired. Verify and try again.",ギフトカードコードが正しくないか、有効期限が切れています。確認してから再度お試しください。
+"Too many attempts, please try again later.",試行回数が多すぎます。
+"Amount can be returned to Store Credit.",金額をストアクレジットに戻すことができます。
+"Amount should be specified or Open Amount should be allowed",金額が指定されているか、または未決済の金額が許可されている必要があります。
+"Mutation requests allowed only for POST requests",変異リクエストはPOSTリクエストのみに許可されます。
+"ContextParametersProcessors must implement %1","ContextParametersProcessors は %1 を実装する必要があります。"
+"-- Not Selected --","-- 選択されていません。"
+"File must be saved in UTF-8 encoding for proper import",ファイルを適切にインポートするためには、UTF-8エンコーディングで保存する必要があります。
+". ', e.g. <i>product_images</i>, <i>import_images/batch1</i>.<br><br>For example, in case <i>product_images</i>, files should be placed into <i>&lt;Magento root directory&gt;/' . . '/product_images</i> folder.' 'i' 'br'",". '、例えば <i>product_images</i>, <i>import_images/batch1</i>.<br><br>例えば <i>product_images</i> の場合、ファイルは <i>&lt;Magentoのルートディレクトリ&gt;/' . '/product_images</i> フォルダに配置します。'i' 'br'"
+"There are no export file with such name %1",このような名前のエクスポート・ファイルはありません。
+"Your export file is ready",エクスポートファイルの準備ができました
+"You can pick up your file at export main page",エクスポートメインページでファイルを拾うことができます。
+"Error during export process occurred",輸出処理中にエラーが発生しました
+"Error during export process occurred. Please check logs for detail",エクスポート処理中にエラーが発生しました。詳細はログをご確認ください。
+"Images file directory is outside required directory",画像ファイルのディレクトリが必要なディレクトリの外にある
+"The file cannot be uploaded.",ファイルをアップロードできません。
+"Entity 1",エンティティ1
+"File Format 1",ファイル形式1
+"Are you sure you wan't to delete a file?",本当にファイルを削除しますか？
+"%status (%count in backlog)","ステータス (バックログの %count)"
+"has been rebuilt successfully in %time","が %time で正常に再構築されました。"
+"exception: %message","例外: %メッセージ"
+"Default Source can not be disabled.",既定のソースを無効にすることはできません。
+"A total of %1 source(s) have been disabled.","合計で %1 のソースが無効になっています。"
+"A total of %1 source(s) already disabled.","合計で %1 のソースが既に無効になっています。"
+"A total of %1 source(s) have been enabled.","合計で %1 のソースが有効になっています。"
+"A total of %1 source(s) already enabled.","合計で %1 ソースが既に有効になっています。"
+"Not able to assign ""%1"" to product ""%2"", as it is part of bundle product <a href=""%3"">""%4""</a> with shipment type ""Ship Together"" and has multiple sources or different source as other bundle selections.","製品 ""%2"" に ""%1"" を割り当てることができません。これは、出荷タイプが ""まとめて出荷"" のバンドル製品 <a href=""%3"">""%4""</a> の一部であり、複数のソースがあるか、他のバンドル選択とは異なるソースがあるためです。"
+"Product ""%1"" cannot be added to bundle product as bundle product has ""Ship Bundle Items Together"" and ""%1"" product assigned to multiple sources or has different source then rest of bundle items","バンドル製品には ""Ship Bundle Items Together ""があり、""%1 ""製品は複数のソースに割り当てられているか、または他のバンドル製品とは異なるソースを持っているため、製品""%1 ""をバンドル製品に追加することはできません。"
+"Source Validator must implement PartialInventoryTransferValidatorInterface.","ソース バリデータは、PartialInventoryTransferValidatorInterface を実装する必要があります。"
+"Transfer validation failed",転送バリデーションに失敗しました。
+"Requested transfer amount for sku %sku is not available","要求された sku %sku の転送量は利用できません。"
+%message,メッセージ
+"Source item for %sku and %sourceCode does not exist","sku および %sourceCode のソース項目は存在しません。"
+"Something went wrong. Export couldn't be executed, See log files for error details",何らかの問題が発生しました。エクスポートが実行できませんでした。エラーの詳細はログファイルを参照してください。
+"Index Strategy not found, please check system settings.",インデックスストラテジーが見つかりませんので、システム設定を確認してください。
+"Condition has to implement IsProductSalableInterface.",IsProductSalableInterfaceを実装していることが条件です。
+"Condition has to implement IsProductSalableForRequestedQtyInterface.",条件はIsProductSalableForRequestedQtyInterfaceを実装していることです。
+"The order doesn't exist.",注文が存在しません。
+"'Validation Failed: ' .","'Validation Failed: ' ."
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price",カタログ入力タイプのYes/No、ドロップダウン、複数選択、価格でのみ使用できます。
+"Can be used only with catalog input type Yes/No, Dropdown, Multiple Select and Price.
+                    <br>Price is not compatible with <b>'Filterable (no results)'</b> option - 
+                     it will make no affect on Price filter.","カタログ入力タイプのYes/No、Dropdown、Multiple Select、Priceでのみ使用できます。
+                    <br>価格は<b>'フィルタリング可能（結果なし）'</b>オプションとは互換性がありません。
+                     これは価格フィルタには影響しません。"
+"store = %1","store = %1"
+"Product sku = %1, qty = %2 has been added to cart for customer id %3, email %4, ","製品の型番 = %1、数量 = %2 が、顧客 ID %3、電子メール %4 のためにカートに追加されました。"
+"Product sku = %1 has been added to wishlist, ","製品番号 = %1 がウィッシュリストに追加されました。"
+"customer id = %1, email = %2, ","顧客 ID = %1、電子メール = %2。"
+"Delete address with id %1 for customer id = %2, email = %3, ","顧客 ID = %2、電子メール = %3 に対して ID %1 のアドレスを削除します。"
+"Order %1 has been placed with products: ","注文 %1 が製品と一緒に発注されました。"
+"sku = %1, ","sku = %1。"
+"Save address for customer id = %1, email = %2, ","顧客 ID = %1、電子メール = %2 のアドレスを保存します。"
+"Logged in as customer: id = %1, email = %2, ","顧客としてログインしました: id = %1、電子メール = %2。"
+"Try to login as customer id = %1, email = %2, ","顧客 ID = %1、電子メール = %2 としてログインしてみてください。"
+"GetContent items must implement %1.","GetContent 項目は %1 を実装する必要があります。"
+"Failed to execute the following content synchronizers: %synchronizers",以下のコンテンツ・シンクロナイザの実行に失敗しました。
+"An error occurred at deleting links between the media asset and media content.",メディア・アセットとメディア・コンテンツ間のリンクの削除でエラーが発生しました。
+"Could not remove media content relations for assets ids: %ids","アセット ID のメディア・コンテンツ・リレーションズを削除できませんでした: %ids"
+"An error occurred at getting asset used in content information.",コンテンツ情報に使用されているアセットの取得でエラーが発生しました。
+"An error occurred at getting media asset to content relation by media asset id.",メディアアセットとコンテンツの関係をメディアアセットIDで取得するとエラーが発生する
+"An error occurred while saving relation between media asset and media content.",メディア・アセットとメディア・コンテンツの関係を保存中にエラーが発生しました。
+"Could not fetch data from %tableName","テーブル名 %tableName からデータを取得できませんでした。"
+"Synchronizer must implement SynchronizeFilesInterface","Synchronizer は SynchronizeFilesInterface を実装する必要があります。"
+"Failed to execute the following synchronizers: %synchronizers","以下の同期化プログラムの実行に失敗しました: %synchronizers"
+"Could not update media assets for files: %files","ファイル: %files のメディア・アセットを更新できませんでした。"
+"Folder paths parameter is required.",フォルダパスパラメータは必須です。
+"You have successfully created the folder.",フォルダの作成に成功しました。
+"An error occurred on attempt to create folder.",フォルダを作成しようとするとエラーが発生しました。
+"Folder path parameter is required.","フォルダ パス パラメータが必要です。"
+"You have successfully removed the folder.",フォルダの削除が正常に行われました。
+"An error occurred on attempt to remove folder.",フォルダを削除しようとするとエラーが発生しました。
+"Retrieving directories list failed.","ディレクトリ リストの取得に失敗しました。"
+"Image ID is required.","画像 ID が必要です。"
+"You have successfully removed the image ""%image""","画像 ""%image"" が正常に削除されました。"
+"Asset ID is required.",アセットIDが必要です。
+"An error occurred on attempt to get image details.",画像の詳細を取得しようとしてエラーが発生しました。
+"The target_folder parameter is required.",target_folderパラメータが必要です。
+"The image was uploaded successfully.",画像は正常にアップロードされました。
+"Could not upload image.",画像をアップロードできませんでした。
+"Used In",使用されている
+"Could not delete image: destination directory is restricted.","イメージを削除できませんでした: 送信先ディレクトリが制限されています。"
+"Directory %1 does not exist in media directory.","ディレクトリ %1 がメディア・ディレクトリに存在しません。"
+"Image Details",画像の詳細
+"Add Image",画像の追加
+"Could not delete media assets by path %path: %error",パスでメディア・アセットを削除できませんでした。
+"Cannot remove assets, the directory path does not exist",アセットを削除できない、ディレクトリパスが存在しない
+"Could not delete media asset with path %path: %error","パス %path を持つメディア・アセットを削除できませんでした: %error。"
+"En error occurred during get media asset data by id %id: %error","id %id でメディア・アセット・データを取得中に、エン・エラーが発生しました。"
+"There is no such media asset with id %id","id %id を持つそのようなメディア・アセットはありません。"
+"En error occurred during initialize media asset with id %id: %error","メディア・アセットを id %id で初期化中にエン・エラーが発生しました: %error。"
+"There is no such media asset with path ""%1""","パス ""%1"" を持つそのようなメディア・アセットはありません。"
+"An error occurred during get media asset list: %1",メディア・アセット・リストの取得中にエラーが発生しました。%1
+"An error occurred during media asset save: %1","メディア・アセットの保存中にエラーが発生しました: %1。"
+"Could not save directories: %paths",ディレクトリを保存できませんでした。
+"Could not delete directories: %paths",ディレクトリを削除できませんでした。
+"An error occurred during get asset keywords: %1",アセット・キーワードの取得中にエラーが発生しました。
+"An error occurred during save asset keyword: %1",アセット・キーワードの保存中にエラーが発生しました。
+"Could not delete media assets by paths: %paths","パスでメディア資産を削除できませんでした: %paths"
+"Could not retrieve media assets",メディアアセットを取得できませんでした。
+"Could not get media assets for paths: %paths","パスのメディア・アセットを取得できませんでした: %paths"
+"Could not retrieve asset keywords.",アセットキーワードを取得できませんでした。
+"Could not save asset keyword links",アセットキーワードのリンクを保存できませんでした。
+"Could not save keywords for asset ids: %ids","アセット ID のキーワードを保存できませんでした。"
+"Could not save the media assets: %assets","メディア資産を保存できませんでした: %assets。"
+"Sorry, something went wrong during image resize. Please see log for details.",画像のリサイズ中に何か問題が発生しました。詳細はログを参照してください。
+"Path ""%value%"" may not include parent directory traversal (""../"", ""..\").","パス ""%value%"" に親ディレクトリ・トラバーサル (""./"", ""..)"
+"Image resize: %1","画像サイズ変更: %1"
+"We are unable to process your request. Please, try again later.",リクエストを処理することができません。後でもう一度お試しください。
+"Quote address for failed order ID ""%1"" not found.",失敗した注文ID「%1」の見積先が見つかりません。
+"FPT (Excl. Tax)",FPT(税抜)
+"FPT (Incl. Tax)",FPT（税込
+"Qty: ",数量
+" - deleted from catalog"," - カタログから削除"
+" - deleted"," - 削除された"
+"Catalog Price: ",カタログ価格。
+"Discount amount: ",割引額
+"Cart Price: ",カート価格。
+"Request Declined. Reason: ",リクエスト断られました。理由。
+" - removed"," - 削除された"
+"Purchase order number is a required field.",発注番号は必須項目です。
+valid_label,有効なラベル
+invalid_label,無効ラベル
+"You must provide a valid <a href='%1' target='_blank'>Google Maps API key</a> to use a map.","マップを使用するには、有効な <a href='%1' target='_blank'>Google Maps API キー</a> を提供する必要があります。"
+"Template successfully deleted.",テンプレートの削除に成功しました。
+"An error occurred while trying to delete this template.",このテンプレートを削除しようとしたときにエラーが発生しました。
+Templates,テンプレート
+"Unable to upload image.",画像をアップロードできません。
+"A required field is missing.",必須フィールドがありません。
+"A template with this name already exists.",この名前のテンプレートが既に存在します。
+"Unable to get properties from image.",画像からプロパティを取得できません。
+"%1 doesn't implement OptionInterface","%1 は OptionInterface を実装していません。"
+"Could not save the template: %1","テンプレートを保存できませんでした: %1。"
+"Template with id ""%1"" does not exist.","ID ""%1"" を持つテンプレートは存在しません。"
+"Could not delete the Template: %1","テンプレートを削除できませんでした: %1"
+"Access List value ""%1"" is not valid. Please use only IP addresses and host names.","アクセス・リスト値 ""%1"" が無効です。IPアドレスとホスト名のみでお願いします。"
+"Please provide payment for the order.",ご注文の際にはお支払いをお願いします。
+"Invalid Url.","無効な URL です。"
+"Could not find payment information for cart.",カートの支払い情報が見つかりませんでした。
+"Required parameter ""cart_id"" is missing.","必須パラメータ ""cart_id"" がありません。"
+"Required parameter ""paypal_payload"" is missing.","必須パラメータ ""paypal_payload"" がありません。"
+"The verification transaction can't be voided. ",検証トランザクションを無効にすることはできません。
+"PayPal gateway has rejected request.",ペイパルゲートウェイがリクエストを拒否しました。
+"Delete image in all store views",すべてのストアビューで画像を削除
+"You don't have permissions to edit this rule. You won't be able to save any change to it.",あなたにはこのルールを編集する権限がありません。変更を保存することはできません。
+"Could not find a product with SKU ""%sku""","SKU ""%sku"" の製品が見つかりませんでした。"
+"Could not add the product with SKU %sku to the shopping cart: %message","SKU %sku の製品をショッピング・カートに追加できませんでした。メッセージ"
+"Cannot add product to cart",カートに商品を追加できません
+"Missed ""sku"" in cart item data","カートの商品データに ""sku ""がない"
+"Missing key ""quantity"" in cart item data",カートのアイテムデータに「数量」というキーがない
+"Guest checkout is not allowed. Register a customer account or login with existing one.",ゲストチェックアウトはできません。顧客アカウントを登録するか、既存のアカウントでログインしてください。
+"Could not find a cart with ID ""%masked_cart_id""","ID ""%masked_cart_id"" のカートが見つかりませんでした。"
+"The cart isn't active.",カートがアクティブではありません。
+"Wrong store code specified for cart ""%masked_cart_id""","カート ""%masked_cart_id"" に指定されたストア・コードが間違っています。"
+"The current user cannot perform operations on cart ""%masked_cart_id""","現在のユーザはカート ""%masked_cart_id"" に対して操作を実行できません。"
+"The shipping address must contain either ""customer_address_id"" or ""address"".",お届け先には、「customer_address_id」または「address」のどちらかが含まれている必要があります。
+"The shipping address cannot contain ""customer_address_id"" and ""address"" at the same time.","配送先住所には、""customer_address_id ""と ""address ""を同時に含めることはできません。"
+"Country is not available",国は利用できません。
+"""Street Address"" cannot contain more than %1 lines.","""Street Address"" には、%1 行以上を含めることはできません。"
+"Region is required.",地域は必須です。
+"Region input is ambiguous. Specify region_id.",地域の入力が曖昧です。region_idを指定してください。
+"Using the ""same_as_shipping"" option with multishipping is not possible.","マルチシッピングで ""same_as_shipping ""オプションを使用することはできません。"
+"The billing address must contain either ""customer_address_id"" or ""address"".","請求先住所には、""customer_address_id ""または ""address ""のいずれかを含める必要があります。"
+"The billing address cannot contain ""customer_address_id"" and ""address"" at the same time.",請求先住所には「customer_address_id」と「address」を同時に含めることはできません。
+"Billing address errors",請求先アドレスのエラー
+"Required parameter ""code"" for ""payment_method"" is missing.",支払方法」の必須パラメータ「code」が欠落しています。
+"You cannot specify multiple shipping addresses.",複数のお届け先を指定することはできません。
+"Shipping address errors",配送先住所のエラー
+"You cannot specify multiple shipping methods.",複数の配送方法を指定することはできません。
+"Required parameter ""carrier_code"" is missing.",必須パラメータ「carrier_code」がありません。
+"Required parameter ""method_code"" is missing.",必須パラメータ「method_code」がありません。
+"Could not update cart item: %message",カート項目を更新できませんでした。メッセージ
+"Could not find cart item with id: %1.","id: %1 のカート項目が見つかりませんでした。"
+"Could not update the product with SKU %sku: %message","SKU %sku: %message で製品を更新できませんでした。"
+"Option type ""%1"" is not supported","オプション・タイプ ""%1"" はサポートされていません。"
+"%1 doesn't implement CustomizableOptionValueInterface","%1 は CustomizableOptionValueInterface を実装していません。"
+"Required parameter ""coupon_code"" is missing","必須パラメータ ""coupon_code ""がありません。"
+"A coupon is already applied to the cart. Please remove it to apply another",すでにカートにクーポンが適用されています。別のクーポンを適用するには削除してください。
+"Missing key ""model"" in cart address data",カートのアドレスデータに「モデル」というキーがない
+"Unsupported cart address type",サポートされていないカートアドレスのタイプ
+"Missing key ""product"" in cart data",カートデータに「商品」というキーがない
+"Missing key ""type_id"" in product data","製品データに ""type_id ""キーが存在しない"
+"Product ""%product_type"" type is not supported","製品 ""%product_type"" タイプはサポートされていません。"
+"Cart ID length should to be 32 symbols.","カート ID の長さは 32 シンボルにしてください。"
+"Cart with ID ""%1"" already exists.","ID ""%1"" のカートはすでに存在します。"
+"The request is allowed for logged in customer",要求はログインしている顧客に許可されています。
+"Current user does not have an active cart.",現在のユーザーはアクティブなカートを持っていません。
+"Required parameter ""source_cart_id"" is missing",必須パラメータ「source_cart_id」がありません。
+"Required parameter ""destination_cart_id"" is missing",必須パラメータ「destination_cart_id」がありません。
+"Guest email for cart is missing.",カート用のゲストメールがありません。
+"Unable to place order: %message",注文できません。メッセージ
+"Required parameter ""cart_item_id"" is missing.",必須パラメータ「cart_item_id」がありません。
+"Required parameter ""billing_address"" is missing","必須パラメータ ""billing_address ""がありません。"
+"Required parameter ""email"" is missing","必須パラメータ ""email ""がありません"
+"Invalid email format",無効なメール形式
+"The request is not allowed for logged in customers",ログインしているお客様にはリクエストは許可されていません。
+"Required parameter ""shipping_addresses"" is missing","必須パラメータ ""sipping_addresses ""がありません。"
+"Required parameter ""shipping_methods"" is missing","必須パラメータ ""sipping_methods"" がありません。"
+"""model"" values should be specified","""model"" の値を指定する必要があります。"
+"Required parameter ""cart_items"" is missing.",必須パラメータ「cart_items」がありません。
+"Required parameter ""cart_item_id"" for ""cart_items"" is missing.",cart_items」に必須のパラメータ「cart_item_id」がありません。
+"Child items may not be updated.",子アイテムが更新されない場合があります。
+"Required parameter ""quantity"" for ""cart_items"" is missing.",cart_items」の必須パラメータ「数量」がありません。
+"'The coupon code couldn't be applied: ' .",'クーポンコードを適用できませんでした。
+"Something went wrong. Please try to place the order again.",何か問題が発生しました。もう一度ご注文をお試しください。
+"Failed address validation:\n%1","Failed address validation: Failed address validation: Failed address validation: Failed address validation: Failed address validation: Failed address validation."
+"Current customer does not have an active cart.",現在のお客様はアクティブなカートを持っていません。
+"Please note, for reCAPTCHA to be enabled,
+        the valid ""Google API Website Key"" and ""Google API Secret Key"" fields are required.","reCAPTCHAを有効にするには、ご注意ください。
+        には、有効な「Google API Website Key」と「Google API Secret Key」のフィールドが必要です。"
+"Can not resolve reCAPTCHA response.","reCAPTCHA レスポンスを解決できません。"
+"Welcome, Recipient",ようこそ、受信者
+"Can not resolve reCAPTCHA parameter.","reCAPTCHA パラメータを解決できません。"
+"UI config provider must implement %1","UI 構成プロバイダは %1 を実装する必要があります。"
+"UI config provider for ""%type"" is not configured.","type"" の UI 構成プロバイダは構成されていません。"
+"Validation config provider must implement %1.","検証構成プロバイダは %1 を実装する必要があります。"
+"Validation config provider for ""%type"" is not configured.","type"" の検証構成プロバイダは構成されていません。"
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""#2"" data-post=""%3"">here</a>.","最終更新日: %1。前日の <a href=""%2"">統計情報</a> を更新するには、<a href=""#2"" data-post=""%3"">こちら</a> をクリックしてください。"
+"System configuration is not found for report event type ""%1""","レポート・イベント・タイプ ""%1"" のシステム構成が見つかりません。"
+"Could not save requisition list. Invalid data provided",依頼リストを保存できませんでした。提供されたデータが無効です。
+"Warning message.",警告メッセージ。
+"Reward points should be a valid integer number.",報酬ポイントは有効な整数値でなければなりません。
+"is undefined",は未定義です。
+"Invalid field",無効なフィールド
+"Order number ""%1"" doesn't belong to the current customer","注文番号 ""%1"" は現在の顧客のものではありません。"
+"Message is added to queue, wait to get your coupons soon",メッセージはキューに追加され、すぐにクーポンを取得するのを待ちます。
+"Too many coupon code requests, please try again later.",クーポンコードのリクエストが多すぎます。
+"Your coupons are ready",クーポンの準備ができました
+"You can check your coupons at sales rule page",クーポンは販売ルールページで確認できます
+"Error during coupons generator process occurred",クーポン生成処理中にエラーが発生
+"Error during coupons generator process occurred. Please check logs for detail",クーポン生成処理中にエラーが発生しました。詳細はログをご確認ください
+"Category (Parent only)",カテゴリ（親のみ
+"Category (Children Only)",カテゴリー（子供のみ
+"(Parent Only)",(親のみ)
+"(Children Only)",(子供のみ)
+"Frontend Label",フロントエンドラベル
+"Error while processing order.",注文処理中にエラーが発生しました。
+"Action ""%1"" is not supported.","アクション ""%1"" はサポートされていません。"
+"The creditmemo contains incorrect product items.",クレジットメモに誤った商品項目が含まれています。
+"You can not refund shipping if there is no shipping amount.",送料がない場合、送料を返金することはできません。
+"Cannot find order number ""%1"" in store ""%2""","注文番号 ""%1"" がストア ""%2"" で見つかりません。"
+"Reorders are not allowed.",再注文はできません。
+"Could not find a product with ID ""%1""","ID ""%1"" の製品が見つかりませんでした。"
+"Could not add the product with SKU ""%1"" to the shopping cart: %2","SKU ""%1"" の製品をショッピング・カートに追加できませんでした。%2"
+"Could not add the product with SKU ""%1"" to the shopping cart","SKU ""%1"" の商品をショッピング・カートに追加できませんでした。"
+"Sample message.",メッセージのサンプルです。
+"Update Totals",合計を更新する
+"URL should be in correct format and must start with HTTPS.",URLは正しい形式で、HTTPSで始まるものでなければなりません。
+"""Email to a Friend"" is not enabled.","""友人へのメール ""は有効になっていません。"
+"Please provide Name for all of recipients.",受信者全員の名前を入力してください。
+"Please provide Email for all of recipients.",受信者全員のEメールを入力してください。
+"Please provide Name of sender.",送信者の名前を入力してください。
+"Please provide Email of sender.",送信者のメールアドレスを入力してください。
+"Please provide Message.",メッセージを入力してください。
+"Preview-Version must be a valid timestamp.",Preview-Versionは有効なタイムスタンプでなければなりません。
+"Preview is not available for mutations.",プレビューは突然変異に対しては利用できません。
+"The current user isn't authorized.",現在のユーザに権限がありません。
+"Preview is not available for this query.",このクエリではプレビューは利用できません。
+"The Future Update Start Time is invalid. It can't be later than current time + %1 years.","将来の更新開始時刻が無効です。現在の時刻 + %1 年より遅くすることはできません。"
+"The Future Update End Time is invalid. It can't be later than current time + %1 years.","将来の更新の終了時刻は無効です。現在の時刻 + %1 年より遅くすることはできません。"
+"Requested store is not found ({$storeCode})","要求されたストアが見つかりません ({$storeCode})"
+"The requested customer does not exist.",要求された顧客は存在しません。
+"There was an error retrieving the customer record.",顧客レコードの取得にエラーが発生しました。
+"The requested store cannot be found. Please check the request and try again.",リクエストされた店舗が見つかりません。リクエストを確認して再度お試しください。
+"The store cannot be switched.",ストアを切り替えることはできません。
+"File %1 is not found.","ファイル %1 が見つかりません。"
+"Unsupported swatch type",サポートされていないスウォッチタイプ
+"Admin is a required field in each row",管理者は各行の必須フィールドです。
+"Country code is invalid: %1","国コードが無効です: %1"
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ",税込価格の割引を適用し、割引後に消費税を適用する場合は、カタログ価格を「税込」に設定してください。
+"With customer tax applied “Before Discount”, the final discount calculation may not match customers’ expectations. ",お客様の税金を「割引前」に適用した状態では、最終的な割引計算がお客様のご希望と異なる場合があります。
+"Your current tax configuration may result in rounding errors. ",現在の税の設定では、四捨五入エラーが発生する可能性があります。
+"The store will not work correctly in the case when cookies are disabled.",クッキーが無効になっている場合、ストアは正常に動作しません。
+translate,翻訳する
+"Are you sure you want to disable all currently active providers?",現在アクティブなプロバイダをすべて無効にしますか？
+Secret,シークレット
+"Unknown user %1","不明なユーザ %1"
+"Google OTP secret has been set",GoogleのOTPの秘密が設定されました
+"Provider code",プロバイダコード
+"Provider %1 has been reset for user %2","プロバイダ %1 がユーザ %2 のためにリセットされました。"
+"At least one two-factor authentication provider must be configured.","少なくとも 1 つの 2 要素認証プロバイダが構成されている必要があります。"
+"Two-Factory Authorization providers have been successfully configured",二要素認証プロバイダが正常に構成されました。
+"Please select valid providers.",有効なプロバイダを選択してください。
+"Internal error accessing 2FA index page",2FAインデックスページにアクセスする内部エラー
+"2FA is already configured for the user.",2FAはすでにユーザーに設定されています。
+"Invalid user",無効なユーザ
+"Unknown provider",不明な提供者
+"Configuration has been reset for this user",このユーザの設定がリセットされました
+"Please ask an administrator with sufficient access to configure 2FA first",まず、2FAの設定を行うには、十分なアクセス権を持つ管理者に依頼してください。
+"Failed to send the message. Please contact the administrator",メッセージの送信に失敗しました。管理者に連絡してください。
+"Invalid API hostname.","無効な API ホスト名です。"
+"You have to select at least one Two-Factor Authorization provider","少なくとも 1 つの二要素認証プロバイダを選択する必要があります。"
+"Missing phone information",欠落している電話情報
+"Onetouch prompt was denied or timed out.","Onetouch プロンプトが拒否されたか、タイムアウトしました。"
+"Missing user information",ユーザー情報の欠落
+"No approval requests for this user",このユーザーに対する承認要求はありません。
+"Invalid approval code",無効な承認コード
+"Unsupported via method",メソッドを介してサポートされていない
+"Invalid code format",無効なコード形式
+"Missing verify request information",検証要求情報の欠落
+"Secret for user with ID#%1 was not found",ID#%1のユーザの秘密が見つかりませんでした。
+"Invalid code.",無効なコードです。
+"Missing registration data",登録データの欠落
+"U2f authentication prompt not sent.",U2f認証のプロンプトが送信されませんでした。
+"Could not determine domain name.",ドメイン名を決定できませんでした。
+"U2f key registration was not started.",U2fキーの登録が開始されませんでした。
+"Invalid U2F key.",無効なU2Fキーです。
+"There was an error during the U2F key process.",U2Fキーの処理中にエラーが発生しました。
+"Invalid U2F key data",U2Fキーのデータが無効です。
+"Unknown provider %1","不明なプロバイダ %1"
+"No such Country",そのような国はありません
+"No such UserConfig","そのような UserConfig はありません。"
+"Unknown or not enabled provider %1 for this user","このユーザのプロバイダ %1 が不明または有効になっていません。"
+"Invalid token.",無効なトークンです。
+"Invalid two-factor authorization token",無効な二要素認証トークン
+"Provider is not allowed.",プロバイダは許可されていません。
+"Provider is already configured.",プロバイダが設定済みです。
+"Provider is not configured.",プロバイダが設定されていません。
+"User is not authorized to edit 2FA configuration",ユーザは2FA設定を編集する権限がありません
+"All currently active providers will not be available",現在アクティブなプロバイダはすべて利用できません。
+"which means all admin users will be required to configure an available method before they can login.",これは、すべての管理者ユーザーがログインする前に利用可能な方法を設定する必要があることを意味します。
+"Please select one or more Two-Factor Authorization providers to be used to authorize admin users",管理者ユーザーを認証するために使用する二要素認証プロバイダを1つ以上選択してください。
+"No providers are available to select, please configure required 2FA provider settings on the server via CLI",選択可能なプロバイダはありませんので、CLI経由でサーバ上で必要な2FAプロバイダの設定を行ってください。
+"Skip this configuration until next login.",次のログインまでこの設定をスキップします。
+"You need to configure Two-Factor Authorization in order to proceed to your store's admin area",ストアの管理領域に進むには、二要素認証を設定する必要があります。
+"An E-mail was sent to you with further instructions",メールで詳細な説明が送られてきました。
+"Failed to get the quote",見積もりに失敗
+"Failed to send the package",パッケージの送信に失敗
+"Failed to send items",アイテムの送信に失敗した
+"""url"" argument should be specified and not empty","""url"" 引数は空ではなく指定してください。"
+"No such entity found with matching URL key: %url","一致する URL キーでそのようなエンティティが見つかりませんでした: %url"
+"Something went wrong while saving the url rewrite.","URL 書き換えを保存している間に何かが間違っていました。"
+"A total of %1 record(s) haven't been deleted.","#%1 つのレコードの合計が削除されていません。"
+"Delete record #%1","レコード #%1 を削除してください。"
+"Are you sure you want to delete a record #%1?",本当にレコード#%1を削除しますか？
+"We can't find a role to delete.",削除するロールが見つかりません。
+"Could not find a token using public hash: %1",パブリック・ハッシュを使用してトークンを見つけられませんでした。%1
+"WebapiAsync config for ""%lookupKey"" does not exist.","""%lookupkey""の WebapiAsync 構成は存在しません。"
+"No widget instance IDs were provided to be deleted.","削除するウィジェット・インスタンス ID は提供されませんでした。"
+"Widget(s) with ID(s) %1 were not found","ID %1 を持つウィジェットが見つかりませんでした。"
+"No such entity with instance_id = %instance_id","instance_id = %instance_id のエンティティはありません。"
+"Missing key ""model"" in Wishlist Item value data","ウィッシュリストのアイテム値データに ""model ""というキーが存在しない"
+"Missing key ""model"" in Wishlist value data","ウィッシュリストの値データに ""model ""というキーが存在しない"
+"The current user cannot perform operations on wishlist",現在のユーザーはウィッシュリストの操作を行うことができません。
+"Maximum of %1 emails can be sent.","最大で %1 のメールを送信できます。"
+"%1 has been removed from your Wish List.",%1がウィッシュリストから削除されました。
+"Validate Credentials",資格情報を検証する
+"Take Payment",お支払い
+"Braintree Virtual Terminal",ブレインツリー仮想端末
+"A payment has been made on the %s card ending %s for %s %s (Braintree Transaction ID: %s)","%s %s (Brainintree Transaction ID: %s) の %s を末尾に持つ %s カードで支払いが行われました。"
+"The response from the Braintree server was incorrect. Please try again.",Braintreeサーバーからの応答が正しくありませんでした。もう一度お試しください。
+"Invalid ENS XML","無効なENS XML"
+"Invalid Merchant ID",無効なマーチャントID
+"No Credit Options available",利用可能なクレジットオプションはありません
+"Your payment could not be taken. Please try again or use a different payment method.",お支払いができませんでした。再度お試しいただくか、別のお支払い方法をご利用ください。
+"Your payment could not be taken. Please try again or use a different payment method. %1",お支払いができませんでした。もう一度お試しいただくか、別のお支払い方法をご利用ください。%1
+"No available payment tokens",利用可能な決済トークンはありません。
+"Failed to create payment token.",支払いトークンの作成に失敗しました。
+"Elektronisches Lastschriftverfahren – German ELV","電子的なラストシフトの法則 - ドイツ語のELV"
+Bancontact,バンコンタクト
+EPS,イーピーエス
+giropay,ジロペイ
+iDeal,アイディール
+"Klarna Pay Now / SOFORT","Klarna Pay Now（クラナ ペイ ナウ） / SOFORT（ソフォート"
+MyBank,マイバンク
+P24,P24
+"SEPA/ELV Direct Debit",SEPA/ELVダイレクトデビット
+"Intent Sale",インテントセール
+"Order declined through Kount, order voided in Magento.",注文はKountを介して拒否され、注文はMagentoで無効になりました。
+"No token returned",トークンが返ってこない
+"'Unable to retrieve PayPal API token. ' .","'Unable to retrieve to PayPal API token. ' ."
+"No financing options available from API",APIから利用可能な融資オプションはありません。
+"No qualifying financing options available",対象となる融資オプションはありません。
+"'No response from request to ' .",'へのリクエストから応答がありません。
+"'Error returned with request to ' . . '. Error: ' .","'へのリクエストで返されたエラーは ' . エラー: ' ."
+"Transaction Amount",トランザクション量
+"Buy now with Google Pay","Google Payで今すぐ購入"
+"Required parameter ""braintree"" for ""payment_method"" is missing.",支払方法」に「braintree」というパラメータが必要です。
+"Required parameter ""braintree_cc_vault"" for ""payment_method"" is missing.",支払方法」に「braintree_cc_vault」というパラメータが必要です。
+"Required parameter ""public_hash"" for ""braintree_cc_vault"" is missing.",braintree_cc_vault」に必要なパラメータ「public_hash」がありません。
+"The Braintree payment method is not active.",Braintreeの支払い方法が有効ではありません。
+"The address is valid",アドレスは有効です。
+"Validate &amp; Save",有効化して保存する
+"Save As Is",そのまま保存
+"Update &amp; Save",更新と保存
+"Field ID",フィールドID
+"Data Source",データソース
+"Delivery Term",配信期間
+"Could not successfully delete record(s)",レコードの削除に失敗しました。
+"Could not convert object to array",オブジェクトを配列に変換できませんでした。
+"Unable to calculate taxes. This could be caused by an invalid address provided in checkout.",税金の計算ができません。これは、チェックアウト時に提供された住所が無効であることが原因である可能性があります。
+"Sales and Use",販売と使用
+"Failed to write crontab expression.",crontab式の書き込みに失敗しました。
+"Vertex Tax Calculation has been automatically disabled. Display prices in Catalog must be set to ""Excluding Tax"" to use Vertex.",バーテックスの税計算が自動的に無効になっています。バーテックスを使用するには、カタログの表示価格を「税抜き」に設定する必要があります。
+"Stores affected: ",影響を受けたストア
+"Store affected: ",影響を受けた店舗。
+"Click here to go to <a href=""%1"">Price Display Settings</a> and change your settings.","ここをクリックして<a href=""%1"">価格表示設定</a>に移動し、設定を変更してください。"
+"%1 - Cost and Freight","%1 - コストと運賃"
+"%1 - Cost Insurance and Freight","%1 - 費用保険・運賃"
+"%1 - Carriage Insurance Paid To","%1 - 支払われる運送保険"
+"%1 - Carriage Paid To","%1 - 運送先に支払われたキャリッジ"
+"%1 - Customer Ships","%1 - 顧客の出荷"
+"%1 - Delivered at Frontier","%1 - フロンティアで納入"
+"%1 - Delivered at Place","%1 - 納入場所"
+"%1 - Delivered at Terminal","%1 - ターミナルでの納入"
+"%1 - Delivery Duty Paid","%1 - 納入された配送料"
+"%1 - Delivery Duty Unpaid","%1 - 納入義務未払い"
+"%1 - Delivered Ex Quay Duty Unpaid","%1 - 納入済岸壁義務未払い"
+"%1 - Ex Works","%1 - Ex Works"
+"%1 - Free Along Side Ship","%1 - 無料のサイドシップ"
+"%1 - Free Carrier","%1 - フリーキャリア"
+"%1 - Free Onboard Vessel","%1 - 無料船舶"
+"%1 - Supplier Ships","%1 - サプライヤー出荷"
+"Export to file and delete",ファイルへのエクスポートと削除
+"Product and Shipping",製品と出荷
+Jurisdiction,管轄
+"Invoice Created",請求書作成
+"Order Status Is Changed",注文状況の変更
+". ' Field #%1'",". ' フィールド #%1'"
+"Provided class name %1 was not located","提供されたクラス名 %1 が見つかりませんでした。"
+"Middle Name",ミドルネーム
+Birthdate,生年月日
+"Attribute code %1 is not available or the attributes array from its processor is not properly indexed by attribute code","属性コード %1 が使用できないか、そのプロセッサからの属性配列が属性コードによって適切にインデックス化されていません。"
+"Processor for attribute code %1 not found","属性コード %1 のプロセッサが見つかりません。"
+"Attribute code %1 not found ","属性コード %1 が見つかりません。"
+"Product Type",製品タイプ
+"Store ID",ストアID
+"Cannot write log entry because no export file is open.",エクスポートファイルが開かれていないため、ログエントリを書き込むことができません。
+"Could not save Custom Option Flexible Field Mapping",カスタムオプションのフレキシブルフィールドマッピングを保存できませんでした。
+"Could not delete Custom Option Flexible Field Mapping",カスタムオプションのフレキシブルフィールドマッピングを削除できませんでした。
+"Unable to save Customer Code",顧客コードを保存できません
+"Unable to delete Customer Code",顧客コードの削除ができません
+"Unable to save Invoice Sent status",請求書送信ステータスの保存ができない
+"Unable to delete Invoice Sent status",請求書送信ステータスの削除ができない
+"Could not save Log Entry",ログエントリを保存できませんでした。
+"Could not delete log entry",ログエントリを削除できませんでした。
+"Could not delete log entries",ログエントリを削除できませんでした。
+"Unable to save Order Invoice Sent status",オーダーインボイスの送信ステータスを保存できない
+"Unable to delete Order Invoice Sent status",オーダーインボイス送信ステータスの削除ができない
+"%1 could not delete log entries",%1はログ・エントリを削除できませんでした。
+"Could not submit invoice to Vertex.","Vertex に請求書を提出できませんでした。"
+"Could not submit refund to Vertex.","Vertex に返金を送信できませんでした。"
+"Could not save Vertex invoice refund comment","Vertex の請求書の返金コメントを保存できませんでした。"
+"%1 Please verify your configured Company Code and Trusted ID are correct.","%1 構成された会社コードと Trusted ID が正しいことを確認してください。"
+"%1 Vertex could not be reached. Please verify your configuration.","%1 Vertex にアクセスできませんでした。構成を確認してください。"
+"%1 Error has been logged.","%1 エラーが記録されました。"
+"The Vertex invoice has been refunded.","Vertex の請求書が返金されました。"
+"The Vertex invoice has been sent.","Vertex の請求書が送信されました。"
+"No Such Entity",このようなエンティティはありません。
+"Custom Options may only be mapped to Vertex Flexible Fields configured with a source of ""Custom Options""","カスタムオプションは、""カスタムオプション ""のソースで構成されたVertex Flexible Fieldsにのみマッピングできます。"
+"Vertex Flexible Field",頂点フレキシブルフィールド
+Unmapped,マップされていない
+"Avg. Star Rating","平均 スター評価"
+"Collected Reviews",収集されたレビュー
+"Collected Photos",収集した写真
+"Published Reviews",公開されたレビュー
+"Engagement Rate",エンゲージメント率
+"Get Started",始める
+"Launch Yotpo",Yotpoを起動します。
+"Yotpo Reviews",よっぽんさんのレビュー
+"Please make sure the APP KEY and SECRET you've entered are correct","入力したAPP KEYとSECRETが正しいことを確認してください。"
+"""Request to API failed! "" .","""APIへのリクエストに失敗しました! "" ."
+"The APP KEY you've entered is already in use by another store on this system. Note that Yotpo requires a unique set of APP KEY & SECRET for each store.","入力したAPP KEYは、このシステム上の他のストアで既に使用されています。Yotpoは各店舗ごとにAPP KEY & SECRETのユニークなセットを必要とすることに注意してください。"
+"Collect and leverage customer reviews, ratings, and Q&A",カスタマーレビュー、評価、Q&Aを収集して活用する
+"with Yotpo's AI-powered tools and on-site widgets.",YotpoのAIを搭載したツールとオンサイトウィジェットで。
+"Already have an account?",すでにアカウントをお持ちですか？
+"Connect Yotpo",Yotpoを接続する
+"Time Period",期間
+"Yotpo at a glance",よっぽーが一目でわかる
+"User-generated content metrics gathered from your Yotpo dashboards.",ユーザーが生成したコンテンツのメトリクスは、Yotpoのダッシュボードから収集されます。
+"Yotpo Settings",Yotpoの設定
+"Great brands are built<br>on happy customers",優れたブランドは、幸せな顧客の上に築かれています。
+"Yotpo is already installed in your Magento store!<br>Connect your Yotpo account to your store to accelerate growth<br>with a full suite of solutions for customer reviews and visual marketing.",YotpoはすでにあなたのMagentoストアにインストールされています！<br>あなたのYotpoアカウントをあなたのストアに接続して、成長を加速させましょう<br>カスタマーレビューとビジュアルマーケティングのためのソリューションの完全なスイートがあります。
+"Reviews & Ratings",レビューと評価
+"Turn customer content into sales by collecting and leveraging reviews, ratings, and Q&A with Yotpo’s AI-powered solutions.",YotpoのAIを活用したソリューションでレビュー、評価、Q&Aを収集して活用することで、顧客コンテンツを売上に変える。
+"Visual Marketing",ビジュアルマーケティング
+"Collect, curate, and showcase customer photos and videos in fully customizable shoppable galleries across your site.",顧客の写真やビデオを収集し、キュレーションし、サイト全体でカスタマイズ可能なショッピング可能なギャラリーに展示します。
+"Consumer Insights",消費者の洞察
+"Understand what customers are saying about your brand and products and make data-driven business decisions with actionable insights.",顧客がブランドや製品について何を言っているかを理解し、実用的なインサイトでデータに基づいたビジネス上の意思決定を行いましょう。
+"Yotpo can only be connected, enabled, or disabled via the Store View menu.",Yotpoは、ストアビューメニューからのみ接続、有効化、無効化が可能です。
+"To connect your App Key and API secret, first select the relevant Store View.",アプリキーとAPIシークレットを接続するには、まず該当するストアビューを選択してください。
+"Need help?",ヘルプが必要ですか？
+"Setup Guide",セットアップガイド
+"Sync progress: %1",同期の進行状況。%1
+"Last sync date: %1","最後の同期日: %1"
+"Total orders synced with Yotpo: %1","Yotpoと同期した総注文数: %1"
+"Valued customer",大切にされているお客様
+"Unfortunately Amazon Pay declined the payment for your order in our online shop %storeName. Please contact us.","申し訳ありませんが、Amazon Payではオンラインショップ%storeNameでのご注文の支払いが拒否されました。お手数ですが、お問い合わせください。"
+"Kind regards",よろしくお願いします。
+"Thank you very much for your order at %storeName",storeNameでのご注文ありがとうございました。
+"Amazon Pay was not able to process your payment","Amazon Payでお支払いを処理できませんでした。"
+"Please go to <a href=""%amazonAccountUrl"">%amazonAccountUrl</a> and update the payment information for your order","<a href=""%amazonAccountUrl"">%amazonAccountUrl</a> にアクセスして、ご注文のお支払い情報を更新してください。"
+"Afterwards we will automatically request payment again from Amazon Pay and you will receive a confirmation email","その後、再度Amazon Payから自動で支払いを依頼しますので、確認のメールが届きます。"
+"Or continue below to pay with a credit card",またはクレジットカードでのお支払いは以下の通りです。
+"Return to standard checkout",標準チェックアウトに戻る
+"Simulate Payment Scenarios",支払いシナリオのシミュレーション
+"foo %bar",フーバー
+"Your company has been allocated a credit of %available_credit.
+    You can now use the Payment On Account method to place you orders.","あなたの会社には %available_credit のクレジットが割り当てられました。
+    これで、注文を行うために口座払いの方法を使用できるようになりました。"
+"Your credit limit has been updated and is now %available_credit.
+    Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","与信限度額が更新され、現在は %available_credit となっています。
+    あなたの残高は現在、合計で %outstanding_balance となっています。あなたは %exceed_limit で与信限度額を超えています。"
+"Available Credit ",利用可能なクレジット
+"Company credit account will be charged: ",会社のクレジット口座に請求されます。
+"You've been added to the <a href=%customer_url>%company_name</a> as the company member.
+    Once you enter your account,
+    the company's shared resources will be available for you.","<a href=%customer_url>%company_name</a>に法人会員として追加されました。
+    アカウントを入力したら
+    の共有リソースが利用できるようになります。"
+"If this is a mistake,
+    please contact the company Admin at %company_admin_email.","これが間違いであれば
+    会社の管理者（%company_admin_email）に連絡してください。"
+"The status of your company <strong>%company_name</strong>
+    is now <strong>Active</strong>.
+    Once you login, you will be able to place orders on behalf of your company
+    and use other B2B features.","あなたの会社のステータス <strong>%company_name</strong>
+    が<strong>Active</strong>になりました。
+    ログインすると、あなたの会社に代わって注文ができるようになります。
+    を使用して、他の B2B 機能を使用することができます。"
+"Allocated Sources",割り当てられたソース
+"Show More",もっと見る
+"New quote ",新しい見積もり
+" submitted by buyer"," 買い手提出"
+"Your quote ",あなたの引用
+" has been declined by the seller."," は出品者によって辞退されました。"
+" expires on "," の有効期限は"
+" after which time you can’t order the items in the quote. After the expiration,
+    you’ll have to negotiate the price with the seller again.","を過ぎてしまうと、見積書に記載されている商品を注文することができなくなります。
+その場合は、再度売主と価格交渉をする必要があります。"
+"The quote ",その際の見積書の
+" after which time it will be reset to its default expiration period. To extend the
+    lifetime of the quote, update its expiration date."," をクリックすると、デフォルトの有効期限にリセットされます。
+    見積書の有効期限を更新します。"
+"Expiration date for the Quote %quoteName has been reset so you can keep working on the quote.
+    You can set a new expiration date if you wish.","見積書 %quoteName の有効期限がリセットされたので、見積書の作業を続けることができます。
+    必要に応じて新しい有効期限を設定することができます。"
+"Quote ",見積もり
+" updated by buyer"," 買い替え"
+"The seller responded to your quote ",売り手がお見積りに応じてくれた
+"The Quote expires after ",見積もりの有効期限は、次のとおりです。
+"If you have any questions, please feel free to contact us at <a href=""mailto:%support_email"">%support_email</a> or by phone at <a href=""tel:%store_phone"">%store_phone</a>","ご不明な点がございましたら、<a href=""mailto:%support_email"">%support_email</a> または、<a href=""tel:%store_phone"">%store_phone</a>までお気軽にお問い合わせください。"
+"2FA configuration required for %name","2FA 構成が %name に必要です。"
+"You are required to configure website-wide and personal Two-Factor Authorization in order to login to %store",storeにログインするには、Webサイト全体と個人の二重認証を構成する必要があります。
+"To do that please <a href=""%url"">Click here</a>","それを行うには、<a href=""%url"">ここをクリックしてください</a>。"
+"You are required to configure personal Two-Factor Authorization in order to login to %store",storeにログインするには、個人的な二重認証を構成する必要があります。
+"Thank you, %store",ありがとうございます、%store
+"This element contains invalid data. Please resolve this before saving.",この要素には無効なデータが含まれています。保存する前に解決してください。
+Tooltip,ツールチップ
+"New admin user '%user_name' created","新しい管理者ユーザ '%user_name' が作成されました。"
+"A new admin account was created for %first_name, %last_name using %email.","新しい管理者アカウントが %email を使用して %first_name、%last_name に作成されました。"
+"From only",のみから
+"per month",つきあたり
+Months,月間
+"Monthly Payment:",毎月の支払い。
+"Instalment Rate:",分割払い率。
+"Cost of purchase:",購入費用。
+"Total inc. interest:",利息の合計。
+"If you are approved for a credit limit with PayPal Credit and use it for future purchases, the APR for those purchases won’t be more than 19.9% and may be even lower.",あなたがPayPalクレジットで与信限度額の承認を受け、今後の購入に使用する場合、それらの購入のためのAPRは19.9％以上にはなりませんし、さらに低くなる可能性があります。
+"Representative Example:",代表的な例。
+"Purchase Rate: 19.9% p.a. (variable)","購入率。19.9% p.a. (可変)"
+"Representative: 19.9% APR (variable)",代表者：19.9％のAPR（変動あり
+"Assumed Credit Limit: £1,200","想定クレジット限度額：1,200ポンド"
+"Subject to status. Terms and Conditions apply.",ステータスの対象となります。利用規約が適用されます。
+"Routing Number",ルーティング番号
+"Account Type",口座の種類
+"Ownership Type",所有形態
+"Business Name",事業名
+"Proof of Authorization",認可の証明
+"Pay with ACH",ACHでのお支払い
+"Pay with Venmo",Venmoでのお支払い
+"Invalid JSON credentials entered, please try again.","無効な JSON クレデンシャルが入力されました。"
+"Credential fields successfully updated and being saved.",クレデンシャルフィールドが正常に更新され、保存されています。
+"Your Amazon session has expired.  Please sign in again by clicking the Amazon Pay Button.","お客様のAmazonセッションは有効期限が切れています。 Amazon Payボタンをクリックして再度サインインしてください。"
+"Your API credentials are not set. Please make sure that you have a valid Engagement Cloud account.","お客様のAPI認証情報が設定されていません。有効なEngagement Cloudアカウントがあることを確認してください。"
+Copied!,コピーしました!
+"Click to copy URL",クリックしてURLをコピー
+"You are about to allow dotdigital to import customers that haven't explicitly opted into your emails. This means Customers and Guests address book will contain contacts that you might not be able to reach out, depending on the applicable regulations. Do you wish to continue?",あなたは、ドットデジタルがあなたの電子メールに明示的にオプトインしていない顧客をインポートできるようにしようとしています。これは、顧客とゲストのアドレス帳には、適用される規則に応じて、あなたが連絡を取ることができない可能性のある連絡先が含まれていることを意味します。続けますか？
+"You are about to enable this feature for customers that haven't explicitly opted into your emails. Do you wish to continue?",お客様のメールに明示的にオプトインしていないお客様のために、この機能を有効にしようとしています。続けますか？
+"An unknown error occurred. Please try another payment method",不明なエラーが発生しました。別のお支払い方法をお試しください
+"The widget %1 is no longer available. Select a different widget.","ウィジェット %1 は使用できなくなりました。別のウィジェットを選択してください。"
+"Please enter a number greater 0 in this field.",このフィールドには0以上の数字を入力してください。
+"Please select one of each ratings above.",上記の各評価を1つ選択してください。
+"Please specify Url.","Url を指定してください。"
+"All %1","すべての %1"
+"Please remove invalid characters: {0}.",無効な文字を削除してください。{0}.
+"Forbidden extensions has been used. Avoid usage of ",禁止されている拡張機能が使用されています。の使用を避けてください。
+"Please select one of the options above.",上記のいずれかを選択してください。
+"Please select a file.",ファイルを選択してください。
+"Card type does not match credit card number.",カードの種類とクレジットカード番号が一致しません。
+"Credit card number does not match credit card type.",クレジットカード番号とクレジットカードの種類が一致しません。
+"Incorrect credit card expiration date.",クレジットカードの有効期限が間違っています。
+"Please enter less or equal than %1 symbols.",記号を%1以下で入力してください。
+"Please enter more or equal than %1 symbols.",記号を%1以上入力してください。
+"Please enter a valid value from list",リストから有効な値を入力してください
+"Please enter valid SKU key.",有効なSKUキーを入力してください。
+"Please enter a valid number.",有効な番号を入力してください。
+"This is required field",これは必須項目です
+"Admin is a required field in each row.",管理者は各行の必須項目です。
+"Please fix this field.",このフィールドを修正してください。
+"Please enter a valid URL.",有効なURLを入力してください。
+"Please enter a valid date (ISO).",有効な日付（ISO）を入力してください。
+"Please enter only digits.",数字のみ入力してください。
+"Please enter no more than {0} characters.",{0}文字以内で入力してください。
+"Please enter at least {0} characters.",{0}文字以上で入力してください。
+"Please enter a value between {0} and {1} characters long.",{0}～{1}文字の間で入力してください。
+"Please enter a value between {0} and {1}.",{0}から{1}の間の値を入力してください。
+pname,pname
+partUids,PartUids
+dom,dom
+eventOrder,eventOrder
+"Could not fetch licensing information.",ライセンス情報を取得できませんでした。
+"The image has been licensed.",画像はライセンスされています。
+"Authentication Failed. Please try again with another form of payment.",認証に失敗しました。別の支払い方法で再度お試しください。
+"Something went wrong with your request. Please try again later.",リクエストに何か問題が発生しました。後でもう一度お試しください。
+"Please specify a regionId in shipping address.",配送先住所にregionIdを指定してください。
+"Gift Card %1 was removed.","ギフトカード %1 が削除されました。"
+"Gift Card %1 was added.","ギフトカード %1 が追加されました。"
+"Are you sure you want to delete ""%s"" image?","本当に ""%s"" 画像を削除してよろしいですか?"
+"There was an error on attempt to delete the image.",画像を削除しようとしてエラーが発生しました。
+"You have successfully removed the image.",画像の削除に成功しました。
+"Could not retrieve image details.",画像の詳細を取得できませんでした。
+"Could not create the directory.",ディレクトリを作成できませんでした。
+"Could not delete the directory.",ディレクトリを削除できませんでした。
+"The following folder is going to be deleted: %1",以下のフォルダが削除されます。
+"Cannot upload <b>",<b>をアップロードできません。
+"Successfully uploaded ",正常にアップロードされました
+"Edit wish list",希望のリストを編集する
+"Maximum length of the message is ",メッセージの最大長は
+"Please enter the location name.",地名を入力してください。
+"Enter latitude",緯度を入力してください
+"Enter longitude",経度を入力します。
+"Please enter a number between -85 and 85",85から85の間の数字を入力してください
+"Please enter a number between -180 and 180",180～180の間の数字を入力してください。
+"Please enter a valid video URL. Valid URLs have a video file extension (.mp4, .webm, .ogv) or links to videos on YouTube or Vimeo.","有効な動画のURLを入力してください。有効な URL には、動画ファイルの拡張子 (.mp4, .webm, .ogv) または YouTube または Vimeo の動画へのリンクが含まれています。"
+"Please enter a valid CSS class.",有効なCSSクラスを入力してください。
+"Adding link in both content and outer element is not allowed.",コンテンツと外部要素の両方にリンクを追加することはできません。
+"Please enter a valid number or calculation: Valid numbers must have an extension (px, %, pt, vh). Calculations must have white space around the + and - operators and cannot divide by zero.","有効な数値または計算を入力してください。有効な数値には拡張子（px, %, pt, vh）を付ける必要があります。計算は、+演算子と-演算子の周りに空白を入れ、0で割ることはできません。"
+"Apply Template",テンプレートの適用
+"Are you sure you want to apply this template? This will overwrite any existing content.",このテンプレートを適用してもよろしいでしょうか？既存のコンテンツが上書きされます。
+"Template Preview",テンプレートプレビュー
+"Google Maps Style JSON is invalid. Please paste the valid JSON style.",GoogleマップのスタイルJSONが無効です。有効なJSONスタイルを貼り付けてください。
+"Please enter a number 2 or greater in this field.",このフィールドには2以上の数字を入力してください。
+"Default grid size must be less than the maximum grid size.",デフォルトのグリッドサイズは最大グリッドサイズ以下である必要があります。
+" product(s) require(s) your attention."," 製品はあなたの注意を必要としています。"
+"Get available payment methods",利用可能な支払い方法を取得
+"Your request has been expired",リクエストの期限が切れました
+"Your request has been rejected",リクエストは拒否されました
+"Invalid key or key is not registered.",無効なキーまたはキーが登録されていません。
+"Unable to register your device",デバイスの登録ができない
+"There was an error processing your key.",キーの処理にエラーが発生しました。
+"Please enter a valid percentage discount value greater than 0.",有効な割引率を0以上で入力してください。
+"Please use only lowercase letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",このフィールドには小文字(a-z)、数字(0-9)、アンダースコア(_)のみを使用してください。
+"4111 1111 1111 1111","4111 1111 1111 1111"
+"Please enter a card number, expiration date and CVV",カード番号、有効期限、CVVを入力してください。
+"Please correct the problems with the Credit Card fields.",クレジットカード欄の問題を修正してください。
+"The payment method used, already exists in the user's vault. Please use the vault option instead.",使用されている支払い方法は、すでにユーザーの保管場所に存在しています。代わりに金庫オプションを使用してください。
+"CVV did not pass verification",CVVは検証を通過しませんでした
+"There was an issue tokenizing the card. Please check the card is valid.",カードのトークン化に問題がありました。カードが有効であることを確認してください。
+"There was an error connecting to Braintree. Please try again.",ブレインツリーへの接続にエラーが発生しました。再度お試しください。
+"There was an issue processing the payment. Please try again.",支払いの処理に問題がありました。再度お試しください。
+"Please select an Environment",環境を選択してください
+"Please enter a Merchant ID",マーチャントIDを入力してください
+"Please enter a Public Key",公開鍵を入力してください
+"Please enter a Private Key",秘密鍵を入力してください
+"Braintree Credential Validation Failed",ブレインツリーのクレデンシャルの検証に失敗しました。
+"We're validating your credentials...",あなたの資格情報を確認しています...
+"Your credentials are valid.",あなたの資格情報は有効です。
+"Your Braintree Credentials could not be validated. Please ensure you have selected the correct environment and entered a valid Merchant ID, Public Key and Private Key.",Braintreeの資格情報を検証できませんでした。正しい環境を選択し、有効なマーチャントID、公開鍵、秘密鍵を入力してください。
+"There are no shipping methods available for you right now. Please try again or use an alternative payment method.",現在ご利用いただける配送方法はありません。再度お試しいただくか、別のお支払い方法をご利用ください。
+"We're unable to fetch the cart totals for you. Please try an alternative payment method.",カートの合計を取得することができません。別のお支払い方法をお試しください。
+"We're unable to find any shipping methods for you. Please try an alternative payment method.",あなたのための配送方法を見つけることができません。別のお支払い方法をお試しください。
+"We're unable to take your payment through Apple Pay. Please try an again or use an alternative payment method.","Apple Payでのお支払いができません。再度お試しいただくか、別のお支払い方法をご利用ください。"
+"Pay with Apple Pay","Apple Payでのお支払い"
+"We're unable to take payments through Apple Pay at the moment. Please try an alternative payment method.","現在、Apple Payでのお支払いができません。別のお支払い方法をお試しください。"
+"Buy with Google Pay","Google Payで購入する"
+"Braintree hosted fields could not be initialized. Please contact the store owner.",ブレインツリーでホストされているフィールドを初期化できませんでした。ストアオーナーにお問い合わせください。
+"PayPal Checkout could not be initialized. Please contact the store owner.",PayPalのチェックアウトを初期化できませんでした。店舗のオーナーに連絡してください。
+"There was an error with the provided bank details. Please check and try again.",提供された銀行の詳細にエラーが発生しました。ご確認の上、再度お試しください。
+"Unable to initialize Braintree Client.",Braintreeクライアントを初期化できません。
+"Error initializing ACH: %1","ACH の初期化エラー: %1"
+MM/YYYY,MM/YYYY
+"Local Payment popup was closed unexpectedly.",ローカル決済ポップアップが予期せず閉じられました。
+"Local Payment popup failed to open.",ローカル決済ポップアップを開くことができませんでした。
+"Local Payment popup was closed. Payment cancelled.",ローカル決済ポップアップが閉じられました。お支払いはキャンセルされました。
+"Venmo not initialized, please try reloading.",Venmoが初期化されていません。
+"Venmo app is not available or the payment flow was cancelled.",Venmoアプリが使用できないか、支払いフローがキャンセルされました。
+"Venmo payment flow cancelled.","Venmo 支払いフローがキャンセルされました。"
+"Error initializing Venmo: %1","Venmo の初期化エラー: %1"
+"Browser does not support Venmo.",ブラウザはVenmoをサポートしていません。
+"We did not find a valid address",有効なアドレスが見つかりませんでした
+"The address is not valid",アドレスは有効ではありません
+"The address was updated",アドレスを更新しました
+"<div class=""amazon-payment-logo""></div><div class=""amazon-payment-byline"">The convenient, trusted way to pay.<br/>Let your customers check out in just a few clicks or taps using the shipping and payment info already stored in their Amazon account.</div>","<br/> <br/>Amazonアカウントに保存されている配送情報や支払い情報を使って、数回クリックするかタップするだけでチェックアウトできるようになります。"
+Credentials,証明書
+"Merchant Id",商人ID
+"Access Key Id",アクセスキーID
+"Secret Access Key",秘密アクセスキー
+"Client Id",クライアントID
+"<input type=""checkbox"" name=""amazon_test_creds"" id=""amazon_test_creds"" value=""1""><label for=""amazon_test_creds"">Test Credentials</label>","<input type=""checkbox"" name=""amazon_test_creds"" id=""amazon_test_creds"" value=""1""><label for ""amazon_test_creds"">テストの資格情報</label>。"
+"Credentials JSON","クレデンシャル JSON"
+"Payment Region",支払地域
+Sandbox,サンドボックス
+"Allowed Javascript Origins",許可されたJavascriptの起源
+"Allowed Return URLs",許可されたリターンURL
+"IPN URL",アイピーエヌユーエルエル
+"Enable Amazon Pay","Amazon Payを有効にする"
+"Enable Login with Amazon",Amazonでのログインを有効にする
+"Authorization Mode",認可モード
+"Update Mechanism",更新の仕組み
+Frontend,フロントエンド
+"Button Display Language",ボタン表示言語
+"Controls button and widget language. The default is your shop's locale. Available options can be found <a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">here</a>. Applies only to UK and DE Amazon Merchant Accounts.","ボタンとウィジェットの言語をコントロールします。デフォルトはお店のロケールです。利用可能なオプションは、<a href=""https://payments.amazon.co.uk/developer/documentation/lpwa/201953980#ENTER_LANGUAGE_PARAMETER"">こちら</a>をご覧ください。UKとDEのAmazonマーチャントアカウントにのみ適用されます。"
+"Button Color",ボタンの色
+"Button Size",ボタンサイズ
+"Show Amazon Pay button on product page","商品ページにAmazon Payボタンを表示"
+"Show Amazon Pay button in minicart","ミニカートにAmazon Payボタンを表示"
+"Show Amazon Pay in payment methods","支払い方法にAmazon Payを表示する"
+"If enabled, Amazon Pay is presented as an option in the list of available payment methods during the final step of checkout.","有効にした場合、Amazon Payは、チェックアウトの最終段階で利用可能な支払い方法のリストのオプションとして表示されます。"
+"Sales Options",販売オプション
+"Use Multi-currency",マルチカレンシーを使用する
+"Developer Options",デベロッパーオプション
+"Allowed IPs",許可されたIP
+"Comma separated. The ""Login with Amazon"" and ""Amazon Pay"" buttons will <em>only</em> be rendered for clients having the above IPs.
+                            If the field is empty, the buttons will be visible to all clients.","コンマで区切られています。Amazonへのログイン」と「Amazon Pay」ボタンは、上記のIPを持つクライアントにのみ表示されます。
+                            フィールドが空の場合、ボタンはすべてのクライアントに表示されます。"
+"Developer Logs",開発者ログ
+"Unfortunately it is not possible to use Amazon Pay for this order, please choose another payment method.","残念ながら、この注文にはAmazon Payを使用することはできません。"
+"Processing Failure - unable to authorize transaction.","処理の失敗 - トランザクションを承認できません。"
+"Unable to authorize transaction.",取引を承認することができませんでした。
+"Buyer did not specify valid Amazon Wallet payment method.",購入者が有効なAmazonウォレットの支払い方法を指定していません。
+"Duplicate reference or payment amount already authorized.",参照先が重複しているか、すでに承認されている支払い金額です。
+"Invalid values passed in request.",リクエストで渡された値が無効です。
+"You have attempted to create more than the maximum allowed limit of one Order Reference object on a Billing Agreement object that is in the Draft State.","ドラフト状態にある請求契約オブジェクト上で、1 つのオーダー参照オブジェクトの最大許容数を超えて作成しようとしました。"
+"Number of authorizations, captures or refunds has exceeded allowed limits.",許可数、キャプチャ数、または返金数が許可された上限を超えています。
+"Invalid operation for sandbox environment.",サンドボックス環境での操作が無効です。
+"Request has an invalid signature.",リクエストの署名が無効です。
+"Order reference ID is invalid.","オーダー参照 ID が無効です。"
+"Invalid transaction identifier.",トランザクション識別子が無効です。
+"Specified seller account is not authorized to execute this request.",指定された販売者アカウントは、このリクエストの実行を許可されていません。
+"Order Reference submitted in this request has constraints and cannot be confirmed.",このリクエストで送信された注文参照には制約があり、確認できません。
+"Billing Agreement object cannot be modified.","Billing Agreement オブジェクトは変更できません。"
+"Capture not refundable.",キャプチャは返金できません。
+"You have attempted to capture or close an authorization for an Authorization object that is in a state where a capture or close is not allowed.",キャプチャまたはクローズが許可されていない状態にある認可オブジェクトの認可をキャプチャまたはクローズしようとしました。
+"Billing Agreement object cannot closed or canceled.",請求契約オブジェクトはクローズまたはキャンセルできません。
+"You have attempted to call an operation on an Order Reference object that is in a state where that operation is not allowed.",その操作が許可されていない状態にあるオーダー参照オブジェクトに対して操作を呼び出そうとしました。
+"There was an unknown error in the service.",サービスに不明なエラーが発生しました。
+"Request rejected because request rate is higher than allocated throttling limits.",要求率が割り当てられたスロットリング制限よりも高いため、要求が拒否されました。
+"The service is temporarily unavailable. Please try again later.",サービスは一時的に利用できません。後ほど再度お試しください。
+"Invalid payment method - please select a different payment method.","無効な支払い方法です - 別の支払い方法を選択してください。"
+"Show Login with Amazon in authentication popup",認証ポップアップでAmazonにログインする
+"Displays Login with Amazon Pay option in Magento's account login popup.","MagentoのアカウントログインポップアップにAmazon Payオプションでのログインを表示します。"
+"B2B Data",B2Bデータ
+B2B,Ｂ２Ｂ
+"Company Status",会社の状況
+"Sales Representative Email",営業担当者メール
+"Shared Catalog Name",共有カタログ名
+"Reset B2B Quotes",B2Bの引用符をリセットする
+"Are you sure to delete?",必ず削除していますか？
+"Quote Id",引用元
+"Quote Imported","引用元: 輸入された"
+"Chat Settings",チャット設定
+"Configure Chat Widget",チャットウィジェットの設定
+"Configure Chat Teams",チャットチームの設定
+"Enterprise Data",エンタープライズデータ
+"Reward Amount",報酬額
+"Last Used Date",最終使用日
+DOTDIGITAL,ドットデジタル
+Accounts,アカウント
+"Data Mapping",データマッピング
+"Data Fields Mapping",データフィールドのマッピング
+Firstname,ファーストネーム
+Lastname,ラストネーム
+D.O.B,D.O.B
+"Last Logged In Date",最終ログイン日
+"Review Count",レビュー回数
+"Last Review Date",最終レビュー日
+"Subscriber Status",加入者の状況
+"Billing Address Line 1",請求先住所1行目
+"Billing Address Line 2",請求先住所2行目
+"Billing City",請求先都市
+"Billing State",課金状態
+"Billing Country",課金国
+"Billing Postcode",請求先郵便番号
+"Billing Telephone",課金電話
+"Billing Company",請求書発行会社
+"Delivery Address 1",お届け先1
+"Delivery Address 2",お届け先2
+"Delivery City",配送先都市
+"Delivery State",配信状態
+"Delivery Country",配達国
+"Delivery Postcode",配達郵便番号
+"Delivery Telephone",宅配電話
+"Delivery Company",配送会社
+"Total Number of Orders",総受注数
+"Average Order Value",平均注文金額
+"Total Spend",総支出
+"Last Purchase Date",最終購入日
+"Last Increment ID",最終インクリメントID
+"Most Purchased Category",最も購入されたカテゴリ
+"Most Purchased Brand",最も多く購入されたブランド
+"Most Frequent Day Of Purchase",購入頻度の高い日
+"Most Frequent Month Of Purchase",購入頻度の高い月
+"First Category Purchased",最初に購入したカテゴリー
+"Last Category Purchased",最後に購入したカテゴリー
+"First Brand Purchased",最初に購入したブランド
+"Last Brand Purchased",最後に購入したブランド
+"System Values",システム値
+"Website Name",ウェブサイト名
+"Store View Name",ストアビュー名
+"Last Order ID",ラストオーダーID
+"Last Quote ID",最後の引用ID
+"Abandoned Product Name",放棄された商品名
+"Custom Attributes",カスタム属性
+"Manage custom attributes",カスタム属性の管理
+"Create Data Field",データフィールドの作成
+"Data Field Name",データフィールド名
+"Data Field Type",データフィールドの種類
+"When sending a campaign that uses template personalisation, a default value ensures that a value is always displayed even if a data field is blank.",テンプレートパーソナライゼーションを使用したキャンペーンを送信する場合、デフォルト値を設定することで、データフィールドが空欄であっても常に値が表示されるようになります。
+"Make the field public if you want to allow your contacts to view and amend the data you hold on them in this field.",このフィールドで連絡先に保持しているデータの閲覧や修正を許可したい場合は、フィールドを公開してください。
+"Create New Data Field",新しいデータフィールドの作成
+"Sync Settings",同期設定
+"Address Book Mapping",アドレス帳のマッピング
+"Allow non-subscribed contacts to be imported",非購読の連絡先のインポートを許可する
+"Add Customers To",顧客を追加する
+"Add Subscribers To",購読者を追加する
+"Add Guests To",ゲストを追加
+Sync,同期
+"Create Address Book",アドレス帳の作成
+"Create New Address Book",新しいアドレス帳の作成
+"Abandoned Cart Program",放置されたカートプログラム
+"Enrol abandoned cart to",放置されたカートを登録する
+"Enrol abandoned cart after",放置されたカートを後に登録
+"Customers Email Series",お客様へのメールシリーズ
+"Abandoned Cart 1",放置されたカート1
+"Enabled\Disabled",EnabledDisabled
+"Send After (min)",送信後(分)
+"Campaign to Send",送付キャンペーン
+"Abandoned Cart 2",放置されたカート2
+"Send After",送信後
+"Abandoned Cart 3",放置されたカート3
+"Guests Email Series",ゲストメールシリーズ
+"Visitor action automation enrolment",訪問者のアクション自動化登録
+"New Subscriber",新規契約者
+"First Customer Order",最初のお客様のご注文
+"Customer Order",お客様のご注文
+"Guest Order",ゲストオーダー
+"Approved Review",承認されたレビュー
+"New Wishlist",新しい欲しい物リスト
+"Order Status Automation Enrolment",注文状況の自動化登録
+"Review Settings",設定の見直し
+"Allow review reminder for non-subscribed contacts",未加入の連絡先のレビューリマインダーを許可する
+"The system will send the reminder the selected number of days after order creation, if the order status matches.",注文状況が一致した場合、注文作成後、選択した日数分のリマインダーを送信します。
+"Delay Period (Days)",遅延期間(日)
+"Campaign to send",送付キャンペーン
+"Please provide the anchor used on product pages for reviews e.g. #reviews",レビューのために商品ページで使用されているアンカーを提供してください。
+"Reviews Anchor","レビュー アンカー"
+"Feefo Feedback Engine",Feefoフィードバックエンジン
+"This is what you provided Feefo during account setup and is usually your website domain name.",アカウント設定時にFeefoに提供したもので、通常はWebサイトのドメイン名です。
+"Feefo Logon",Feefoログオン
+"Number of reviews to display per product.",商品ごとに表示するレビュー数
+"Reviews Per Product",商品ごとのレビュー
+"Enter name of logo template.",ロゴテンプレートの名前を入力してください。
+"Logo Template (Optional)",ロゴテンプレート（オプション
+"Service Score URL",サービススコアURL
+"Enter Feefo logon above before using this URL.",このURLを使用する前に上記のFeefoログオンを入力してください。
+"Product Reviews URL",商品レビューURL
+"Dynamic Content",動的コンテンツ
+"External Dynamic URLs",外部ダイナミックURL
+"Secure code for dynamic URLs",動的URLのための安全なコード
+Passcode,パスコード
+"Recommended: Set a passcode so that basket contents and coupon codes can only be viewed if the following passcode is sent with the request.",おすすめです。リクエストと一緒に以下のパスコードを送信した場合にのみ、バスケットの内容やクーポンコードを閲覧できるようにパスコードを設定します。
+"Abandoned Carts (Deprecated)",放置されたカート（非推奨
+"Use the <a href=""https://support.dotdigital.com/hc/en-gb/articles/360000419160-Creating-an-abandoned-cart-email"">abandoned cart block</a> functionality from EasyEditor.","EasyEditor の <a href=""https://support.dotdigital.com/hc/en-gb/articles/360000419160-Creating-an-abandoned-cart-email"">カートブロック</a> の機能を使用します。"
+"Cart Content URL",カートのコンテンツURL
+"Review Contents URL",レビューコンテンツURL
+"Coupon Codes (Deprecated)",クーポンコード（非推奨
+"We recommend using the 'dotdigital Coupon URL Builder' in Marketing > Promotions > Cart Price Rules.",マーケティング＞プロモーション＞カート価格ルールの「dotdigitalクーポンURLビルダー」の利用をおすすめします。
+"Order Recommendation (Deprecated)",注文推奨（非推奨
+"Use dotdigital Engagement Cloud's built-in product recommendation functionality. <a href=""https://support.dotdigital.com/hc/en-gb/articles/360000110040-Product-recommendations-an-overview"">Learn more</a>","dotdigital Engagement Cloudに内蔵されている製品レコメンド機能を使用します。<a href=""https://support.dotdigital.com/hc/en-gb/articles/360000110040-Product-recommendations-an-overview"">詳細はこちら</a>。"
+"Related Products URL",関連商品URL
+"Upsell Products URL",アップセル製品URL
+"Crosssell Products URL",クロスセル製品URL
+"Cart Recommendation (Deprecated)","カート推奨 (非推奨)"
+"Product Recommendation (Deprecated)",製品推奨（非推奨
+"Best Sellers URL",ベストセラーズURL
+"Add category_id/@CATEGORY_ID@ at the end of url to filter most viewed by category",カテゴリによって最も閲覧されたものをフィルタリングするためにURLの最後にカテゴリID/@CATEGORY_ID@を追加します。
+"Most Viewed URL",最も閲覧されたURL
+"Product Push URL",製品プッシュURL
+"Wishlist Content",欲しい物リストの内容
+"Wishlist Related URL",欲しい物リスト関連URL
+"Wishlist Upsell Products URL",アップセル製品のURL
+"Wishlist Crosssell Products URL","欲しい物リスト クロスセル商品URL"
+"Dynamic Products",ダイナミックな製品
+"Items To Display",表示する項目
+"Upsell Products",アップセル製品
+"Crosssell Products",クロスセル製品
+"Best Sellers",ベストセラー
+"Manual Product Push",マニュアル製品プッシュ
+"Fallback Products",フォールバック製品
+"Comma Separated Product Id's",コンマで区切られた製品ID
+"DDG Transactional","DDG トランザクション"
+"Send Mode",送信モード
+Port,ポート
+"New Account Confirmation Key",新規アカウント確認キー
+"New Account Confirmation",新規アカウントの確認
+"Remind Password",リマインドパスワード
+"Forgot Admin Password",管理者パスワードを忘れた
+"Subscription Confirmation",購読の確認
+"Unsubscribe Success",配信停止の成功
+"New Order Confirmation",新秩序の確認
+"New Order Confirmation For Guest",ゲストへの新規注文確認
+"Order Update",注文の更新
+"Order Update For Guest",ゲストのための注文更新
+"New Shipment For Guest",ゲスト向け新入荷
+"Shipment Update",出荷状況の更新
+"New Invoice Guest",新規請求書ゲスト
+"Invoice Update",請求書の更新
+"Invoice Update Guest",請求書更新ゲスト
+"New Credit Credit Memo",新クレジットメモ
+"New Credit Credit Memo Guest","新品クレカメモ ゲスト"
+"Credit Memo Update",クレジットメモ更新
+"Credit Memo Update Guest",クレジットメモ更新ゲスト
+Contact,連絡先
+"New Contact Form",新しいお問い合わせフォーム
+"Send Product To Friend",友達に製品を送る
+"Stock Alert",ストックアラート
+"Product Price Alert",製品価格アラート
+"Additional Templates",追加テンプレート
+"Sync additional campaigns as templates",テンプレートとして追加のキャンペーンを同期
+"Data Fields",データフィールド
+"Select multiple statuses by pressing Ctrl button while selecting",選択中にCtrlボタンを押して複数のステータスを選択する
+"Data fields calculation with status",ステータスでデータフィールドの計算
+"Select your brand attribute. By default, the 'Manufacturer' attribute will be used.",ブランド属性を選択します。デフォルトでは、'Manufacturer'属性が使用されます。
+"Brand Attribute",ブランド属性
+Tracking,トラッキング
+"ROI Tracking",ROIトラッキング
+"Page Tracking",ページトラッキング
+"Script version",スクリプトバージョン
+"Web Behavior Tracking Profile Id",ウェブ行動追跡プロファイルID
+Consent,同意
+"Enable this is you want to import consent insight data when customers subscribe via the newsletter signup form, registration form or during checkout.",これを有効にすると、顧客がニュースレターのサインアップフォーム、登録フォーム、またはチェックアウト時に購読した際の同意インサイトデータをインポートすることができます。
+"Import subscribers with their consent information",同意情報を持つ購読者をインポートする
+"Please provide the consent text that is currently displayed to your customers when they subscribe to your newsletter (i.e. via the newsletter signup form)",お客様がニュースレターに登録した際に表示される同意文を入力してください。
+"Consent text provided to your subscribers above the newsletter signup form",ニュースレターのサインアップフォームの上の購読者に提供された同意のテキスト
+"If different from above, provide the text that is displayed on your registration and checkout form to get consent from your customers and guests. If provided, this text will also be displayed in the customer's newsletter subscription page.",上記と異なる場合は、お客様やゲストから同意を得るための登録フォームやチェックアウトフォームに表示されるテキストを提供してください。提供された場合、このテキストは顧客のニュースレター購読ページにも表示されます。
+"Consent text provided on registration, account dashboard and checkout",登録、アカウントダッシュボード、チェックアウトで提供される同意のテキスト
+"Transactional Data",トランザクションデータ
+"Import Order With Status",ステータスのあるインポートオーダー
+"Select custom order attributes that you want to import with your order data. Select multiple by pressing Ctrl button while selecting.",注文データと一緒にインポートするカスタム注文属性を選択します。選択中にCtrlボタンを押して複数選択します。
+"Order Custom Attributes",注文カスタム属性
+"Selected product attribute(s) will be imported in order and catalog syncs.",選択した製品属性は、注文とカタログの同期でインポートされます。
+"Include Product Custom Options In Order Sync",注文同期に製品カスタムオプションを含める
+"Enable this if you have a checkout process that allows the visitor to
+                            enter their email address during the checkout, but it does not update quote table instantly.","チェックアウトプロセスで、訪問者が次のようなことができるようにする場合に有効にします。
+                            チェックアウト時にメールアドレスを入力しても、即座に見積表を更新することはできません。"
+"Easy Email Capture (Checkout)",簡単メールキャプチャ(チェックアウト)
+"Easy Email Capture (Newsletter)",簡単メールキャプチャ（ニュースレター
+"Allow abandoned cart for non-subscribed contacts",購読していない連絡先のためにカートを放棄することを許可する
+"Abandoned Cart Limit",放置されたカートの制限
+"Link To Cart Enabled",カートへのリンクを有効にする
+"Please provide the link text. If no text provided then default text ""Take Me To My Basket"" will be used.","リンクのテキストを入力してください。テキストが提供されていない場合は、デフォルトのテキスト ""Take Me To My Basket ""が使用されます。"
+"Please provide the cart url. If no url provided then default cart url checkout/cart will be used. Only enter the url after base url. For example for http://www.localhost.com/checkout/cart only enter checkout/cart","カートのURLを入力してください。URLが提供されていない場合は、デフォルトのカートのURLチェックアウト/カートが使用されます。ベースURLの後にのみURLを入力してください。例えば、http://www.localhost.com/checkout/cart の場合のみ、checkout/cart を入力してください。"
+"Cart URL",カートのURL
+"Please provide the customer login url. If no url provided then default login url customer/account/login will be used. Only enter the url after base url. For example for http://www.localhost.com/customer/account/login only enter customer/account/login","顧客のログインURLを提供してください。提供されたURLがない場合は、デフォルトのログインURL customer/account/loginが使用されます。ベースのURLの後にのみURLを入力してください。たとえば、http://www.localhost.com/customer/account/login のためだけに customer/account/login を入力してください。"
+"Customer Login URL",顧客ログインURL
+"The number of hours to wait before expiring an abandoned cart when a contact is pending opt in",コンタクトがオプトインを保留している場合に、放棄されたカートの有効期限が切れるまでに待機する時間数
+"Expire Time",期限切れ時間
+"Dynamic Content Styling",動的コンテンツのスタイリング
+"Styling entered here will apply to all dynamic content areas pulled from Magento. Classes References Used : 'product-table', 'product-name', 'product-price', 'product-url', 'other-text'","ここで入力されたスタイリングは、Magento から引き出されたすべての動的コンテンツエリアに適用されます。使用されるクラス リファレンス : 'product-table'、'product-name'、'product-price'、'product-url'、'other-text'"
+"Dynamic Styling",ダイナミックスタイリング
+"Font Color",フォントの色
+"Font Size",文字サイズ
+Style,スタイル
+"Price Color","価格 カラー"
+"Font Style",フォントスタイル
+"Product Link",製品リンク
+"Applies To Whole Document",ドキュメント全体に適用
+"Other Text (Will Apply To Other Remaining Text)",その他のテキスト（他の残りのテキストにも適用されます
+"Please provide the link text. If no text provided then default text will be used.",リンクのテキストを入力してください。テキストが入力されていない場合は、デフォルトのテキストが使用されます。
+"Product Link Text",製品リンクテキスト
+"Disable Newsletter Success",ニュースレターを無効にする
+"Disable Customer Success",顧客の成功を無効にする
+"Catalog Sync Settings",カタログ同期設定
+"Catalog Values",カタログ値
+"Catalog Visibility",カタログの視認性
+"Catalog Type",カタログタイプ
+"Customer Preference",お客様の好み
+"Show Preferences to Customer",顧客に環境設定を表示する
+"Show Addressbooks to Customer",お客様に住所録を見せる
+"Choose additional address books to show in addition to the Magento General Subscription list.","Magento の一般購読リストに加えて、表示するアドレス帳を選択します。"
+"Addressbooks to Show",表示する住所録
+"Show Data Fields To Customer?",データフィールドを顧客に表示しますか？
+"Only data fields with visibility public can be shown to customers. You can create more data fields within the Data Mapping section.",可視性が公開されているデータフィールドのみを顧客に表示することができます。データマッピングセクション内でさらに多くのデータフィールドを作成することができます。
+"Data Fields To Show",表示するデータフィールド
+"Contact Sync Size",コンタクト同期サイズ
+"Transactional Data Sync Size",トランザクションデータの同期サイズ
+"Remove /pub directory from URLs",URLから/pubディレクトリを削除
+"Admin Task",管理者タスク
+"Map Magento data to Engagement Cloud data fields, including customer, address and sales information.","Magentoのデータを、顧客、住所、販売情報などのEngagement Cloudのデータフィールドにマッピングします。"
+"Automap Data Fields",オートマップのデータフィールド
+"Delete All Contact Ids",すべての連絡先IDを削除
+"Manually Run Sync",手動で同期を実行
+"Contact Sync",コンタクトシンク
+"Subscriber Sync",加入者同期
+"Order Sync",オーダーシンク
+"Wishlist Sync",同期したい物リスト
+"Review Sync",レビュー同期
+"Catalog Sync",カタログ同期
+"Importer Sync",インポーター同期
+"Template Sync",テンプレート同期
+"Reset Sync Options",同期オプションのリセット
+"Reset Customers",顧客をリセットする
+"Reset Subscribers",購読者のリセット
+"Reset Order Data",注文データのリセット
+"Reset Review Data",レビューデータのリセット
+"Reset Wishlist Data",ウィッシュリストデータのリセット
+"Reset Catalog Data",カタログデータのリセット
+"Set the number in seconds that api calls greater will be logged.",これ以上のAPIコールがログに記録される秒数を設定します。
+"Debug Api Calls Time",デバッグAPIコールの時間
+"OAUTH Credentials",OAUTH資格情報
+"Client Secret Key",クライアントシークレットキー
+Connection,接続
+"Enter the custom domain for authorization. Make sure that base URL ends with '/' (slash), e.g. http://yourdomain/magento/","認証用のカスタムドメインを入力します。ベースの URL が '/' (スラッシュ) で終わることを確認してください。"
+"Custom OAUTH Domain","カスタム OAUTH ドメイン"
+"Custom Authorization URI",カスタム認可URI
+"Dynamic Pages IP Restriction",ダイナミックページのIP制限
+"Manage Cron Timings",クロンのタイミングを管理する
+"Review And Wishlist",レビューと欲しい物リスト
+"Contact Status",連絡先の状況
+"Quote Updated At",見積もり更新日
+"Abandoned Cart Number",放置されたカート番号
+"Item Count",アイテム数
+"Item Ids",アイテム名
+"Program Id",プログラムID
+"Automation Type",自動化タイプ
+"Enrolment Status",登録状況
+"Campaign Id",キャンペーンID
+"Order Increment Id",オーダーインクリメントID
+"Checkout Method",チェックアウト方法
+"Send Id",IDを送る
+"Send Status",ステータスを送信
+"Last imported at",最後にインポートされたのは
+"Contact Id",お問い合わせ先
+"Subscriber Imported",購読者が輸入した
+Suppressed,抑制された
+Messages,メッセージ
+"Import Id",インポートID
+"Import Type",インポートタイプ
+"Import Mode",インポートモード
+"Import Status",輸入状況
+"Started At",スタート
+"Updated Date",更新日
+"Order Id",オーダーID
+"Email Imported",インポートされたメール
+"Email Modified",メール修正
+"Review Imported",レビュー輸入
+"Wishlist Id","欲しい物リスト Id"
+"Wishlist Imported",輸入された欲しい物リスト
+"API Configuration",API設定
+Endpoint,終点
+"Should not be enabled in production. Sensitive information is logged.",本番環境では有効にしないでください。機密情報はログに記録されます。
+"Klarna Payments",クラーナペイメント
+"Allowed Countries",許可されている国
+"If set to specific, guest customers will not have a billing country and may not be able to checkout.",特定に設定した場合、ゲストのお客様は請求国がなく、チェックアウトできない場合があります。
+"Payment from Specific countries",特定の国からのお支払い
+"Enable B2B",B2Bを有効にする
+"Allow B2B payments (Not available in all markets. Must be setup in your contract with Klarna)","B2B決済を許可する（すべての市場では利用できません。 Klarnaとの契約で設定する必要があります。"
+"Enable Data sharing",データ共有を有効にする
+"Allow customer data to be shared with Klarna before customer places the order. (Enabling this option has an effect in the US only)",顧客が注文する前に顧客データをKlarnaと共有できるようにします。(このオプションを有効にすると、米国でのみ効果があります)
+"Enable Data sharing on load",負荷時のデータ共有を有効にする
+"If this is disabled, it will mean that Klarna will not receive the consumers billing and shipping
+                            addresses until ""authorize"" is called. If there are any errors with the address, the authorization will fail and the user
+                            will be instructed to return to a previous step to fix the issue.","この機能を無効にすると、クラーナは消費者からの請求書や配送料を受け取ることができなくなります。
+                            アドレスを使用しています。アドレスにエラーがあった場合、認可は失敗し、ユーザの
+                            は、問題を修正するために前のステップに戻るように指示されます。"
+"Details color",詳細カラー
+"Example: #0072CC","例 #0072CC"
+"Border color",ボーダーカラー
+"Selected border color",選択された境界線の色
+"Text color",テキストの色
+"Example: 5px",例です。5px
+"Klarna Payments (North America)",クラーナ・ペイメント（北米
+"Klarna Payments (Europe)",クラーナ・ペイメント（ヨーロッパ
+"Klarna Payments (Oceania)",クラーナ・ペイメント（オセアニア
+"Klarna On-Site Messaging",クラーナのオンサイトメッセージング
+"Data client ID",データクライアントID
+"Design theme",デザインテーマ
+"Enable on product",製品で有効にする
+"Product placement",製品の配置
+"Product placement ID",製品配置ID
+"Enable on cart",カートで有効にする
+"Cart placement",カートの配置
+"Cart placement ID",カート配置ID
+"Test Adapter",テストアダプタ
+"Product name 1","製品名 1"
+"Option One",オプション1
+"Option Two",オプション2
+"Option Three",オプション3
+az-value,方位値
+"Test di text",テキストのテスト
+string,弦
+"Translate Label",ラベルを翻訳する
+false,虚しい
+"Comment from new line.",改行からのコメントです。
+"Admin Usage Notification",管理者利用通知
+"Allow admin usage data collection",管理者の使用データ収集を許可する
+"Don't Allow",許してはいけない
+"
+                        <p>Help us improve Magento Admin by allowing us to collect usage data.</p>
+                        <p>All usage data that we collect for this purpose cannot be used to individually identify you and is used only to improve the Magento Admin and related products and services.</p>
+                        <p>You can learn more and opt out at any time by following the instructions in <a href=""https://docs.magento.com/m2/ce/user_guide/stores/admin.html"" target=""_blank"" tabindex=""0"">merchant documentation</a>.</p>
+","
+                        <p>使用データを収集できるようにすることで、Magento Admin を改善するのを手伝ってください。
+                        <p>この目的のために収集したすべての利用データは、個人を特定するために使用することはできず、Magento Admin と関連する製品やサービスを改善するためにのみ使用されます。
+                        <a href=""https://docs.magento.com/m2/ce/user_guide/stores/admin.html"" target=""_blank"" tabindex=""0"">マーチャント ドキュメント</a>.</p>に記載されている指示に従うことで、いつでも詳細を確認し、オプトアウトすることができます。"
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","
+このサービスは、お客様のビジネスに関する豊富な洞察力を備えたダイナミックなレポートを提供します。
+                レポートは、管理パネルの外にあるパーソナライズされたダッシュボード上で、次のようにクリックすることで安全にアクセスできます。
+                ""高度なレポートへ移動"" リンクをクリックしてください。</br> 詳細については、<a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">を参照してください。
+               条件</a>."
+"Industry Data",業界データ
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magentoのビジネスインテリジェンスは、シンプルで明確なパスを提供します。
+                    </br> <a target=""_blank"" の詳細については、<a href = ""/stock/stock_detail.html?
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials および BI Pro</a> の各ティア。"
+"<strong class=""colorRed"">Warning!</strong> Enabling this feature is not recommended on production environments because it represents a potential security risk.","<strong class=""colorRed"">警告！</strong> この機能を有効にすることは、潜在的なセキュリティ リスクを示すため、本番環境では推奨されません。"
+"When the adapter was changed, please flush Catalog Images Cache.","アダプタを変更した場合は、Catalog Images Cacheをフラッシュしてください。"
+"Images Upload Configuration",画像アップロードの設定
+"Enable Frontend Resize",フロントエンドのサイズ変更を有効にする
+"Maximum Width",最大幅
+"Maximum allowed width for uploaded image.",アップロードされた画像の最大許容幅。
+"Maximum Height",最大高さ
+"Maximum allowed height for uploaded image.",アップロードされる画像の最大許容高さ。
+"See <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a> page for details.","詳細は <a href=""https://cheatsheetseries.owasp.org/cheatsheets/HTTP_Strict_Transport_Security_Cheat_Sheet.html"" target=""_blank"">HTTP Strict Transport Security</a> ページを参照してください。"
+"See <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> page for details.","詳細は <a href=""http://www.w3.org/TR/upgrade-insecure-requests/"" target=""_blank"">Upgrade Insecure Requests</a> ページを参照してください。"
+"Backup Settings",バックアップの設定
+"Enable Backup",バックアップを有効にする
+"Select Dynamic Block",ダイナミックブロックを選択
+"Please visit <a href=""https://www.cardinalcommerce.com/"" target=""_blank"">www.cardinalcommerce.com</a> to get the CardinalCommerce credentials and find out more details about PSD2 SCA requirements. For support contact <a href=""mailto:support@cardinalcommerce.com"">support@cardinalcommerce.com</a>.","<a href=""https://www.cardinalcommerce.com/"" target=""_blank"">https://www.cardinalcommerce.com/</a> にアクセスして、CardinalCommerce の資格情報を取得し、PSD2 SCA の要件についての詳細を確認してください。サポートについては、<a href=""mailto:support@cardinalcommerce.com"">support@cardinalcommerce.com</a>までお問い合わせください。"
+"<strong class=""warning-enable-permissions"">Warning!</strong> By default this feature restricts all categories.","<strong class=""warning-enable-permissions"">警告！</strong> デフォルトでは、この機能はすべてのカテゴリを制限します。"
+"Custom Layout Update",カスタムレイアウトの更新
+"
+                    Time in seconds between the widget updates.
+                    <br/>If not set, equals to 86400 seconds (24 hours). To update widget instantly, go to Cache Management and clear Blocks HTML Output cache.
+                    <br/>Widget will not show products that begin to match the specified conditions until cache is refreshed.
+                ","
+                    ウィジェットが更新されるまでの時間を秒単位で指定します。
+                    <br/>設定されていない場合は86400秒(24時間)に相当します。ウィジェットを瞬時に更新するには、キャッシュ管理に移動し、ブロックHTML出力キャッシュをクリアします。
+                    <br/>ウィジェットは、キャッシュがリフレッシュされるまで、指定した条件に一致し始めた商品を表示しません。
+"
+"Date and Time",日付と時間
+"
+                        List of layout files with an update handle ""selectable""
+                        matching *PageIdentifier*_*UpdateID*.
+                        <br/>
+                        See Magento documentation for more information
+                    ","
+                        更新ハンドルが ""選択可能 ""なレイアウトファイルの一覧
+                        にマッチしています。
+                        <br/>
+                        詳細は Magento のドキュメントを参照してください。
+"
+"
+                            Limit one PO number per reimburse transaction
+                        ","
+                            1回の払い戻しにつき、1つのPO番号を制限
+"
+"
+                                Maximum 255 characters are allowed.
+                        ","
+                                最大255文字が許可されています。
+"
+"As low as: ",できるだけ低くしてください。
+"Reset password",パスワードをリセット
+"Invalidate tokens",トークンの無効化
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","このメールは、パスワードなしで作成された場合、デフォルトのウェルカムメールの代わりに送信されます。<br /><br />
+                       メールテンプレートは、「デフォルト」オプションが選択されている場合、テーマのフォールバックに基づいて選択されます。"
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","このメールは、アカウント確認後、デフォルトのウェルカムメールの代わりに送信されます。<br /><br />
+                        デフォルト」オプションが選択されている場合、テーマのフォールバックに基づいて選択されたメールテンプレート"
+"Update Address",アドレスの更新
+"Name Prefix",名前のプレフィックス
+"Name Suffix",名前の接尾辞
+"Are you sure to delete selected address?",選択したアドレスを削除しても大丈夫ですか？
+"Are you sure you want to delete the selected customers?",選択したお客様を削除しても大丈夫ですか？
+"Are you sure you want to unsubscribe the selected customers from the newsletter?",選択した顧客をニュースレターから解除してもよろしいですか？
+"The customer does not have default billing address",顧客はデフォルトの請求先アドレスを持っていません
+"The customer does not have default shipping address",顧客はデフォルトの配送先住所を持っていない
+"Ready time",準備時間
+"Gift Wrapping for Order",ご注文時のギフトラッピング
+"File name",ファイル名
+"Schedule Status",スケジュール状況
+"Enable selected sources ?",選択したソースを有効にするか？
+"Disable selected sources ?",選択したソースを無効にするには？
+"Aggregated inventory available to purchase for a stock. The amount aggregates assigned source's Quantity subtracting the Out-of-Stock Threshold (or MinQty).",在庫のために購入可能な在庫を集計します。量は、割り当てられたソースの数量から在庫切れしきい値（またはMinQty）を差し引いたものを集計します。
+"Can be used only with catalog input type Yes/No (Boolean), Dropdown, Multiple Select and Price.","カタログ入力タイプのYes/No (ブール値)、ドロップダウン、複数選択、価格でのみ使用できます。"
+"Save Customer Address",顧客アドレスの保存
+"Delete Customer Address",顧客アドレスの削除
+"Find Partners & Extensions",パートナーと拡張機能を探す
+"Send Adminhtml and Frontend as Separate Apps",AdminhtmlとFrontendを別々のアプリとして送信する
+"In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","メインアプリ（PHPの実行をすべて含む）に加えて、adminhtml用とフロントエンド用の別々のアプリが作成されます。New Relicのアプリケーション名が設定されている必要があります。"
+Inline,インライン
+Stacked,積層された
+"Product Grid",製品グリッド
+"Product Carousel",製品カルーセル
+Continuous,連続的
+"Enter API key to use the Map content type. <a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">Get API Key</a>.","Mapコンテンツタイプを使用するためのAPIキーを入力します。<a href=""https://developers.google.com/maps/documentation/javascript/get-api-key"" target=""_blank"">APIキーを取得</a>。"
+"Paste the Google Maps style JSON code here to change the look and feel of the Map content type. <a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">Create Map Style</a>.","ここにGoogle MapsスタイルのJSONコードを貼り付けて、Mapコンテンツタイプの外観を変更します。<a href=""https://mapstyle.withgoogle.com/"" target=""_blank"">マップスタイルを作成</a>。"
+"Grid size determines the default number of columns available.",グリッドサイズは、利用可能なデフォルトの列数を決定します。
+"Maximum grid size determines the maximum amount of columns available.",最大グリッドサイズは、利用可能なカラムの最大量を決定します。
+"Minimum height can be a single number with any valid CSS unit (50px, 50%, 50em, 50vh) or a calculation (50% + 50px).","最小高さは、任意の有効なCSS単位（50px、50%、50em、50vh）または計算（50% + 50px）で1つの数値を指定することができます。"
+"Top Left",左上
+"Top Center",トップセンター
+"Top Right",右上
+"Center Left",中央左
+"Center Right",中央右
+"Bottom Left",左下
+"Bottom Center",ボトムセンター
+"Bottom Right",右下
+"Background Type",背景の種類
+"Video URLs can be links to videos on YouTube or Vimeo, or HTTP(S) links to files with valid video extensions (we recommend .mp4)",動画URLは、YouTubeやVimeoの動画へのリンク、または有効な動画拡張子を持つファイルへのHTTP(S)リンクになります（.mp4を推奨します）。
+"Lazy Load",怠惰な負荷
+"Preload video only when it is visible on the screen.",画面に表示されているときだけ動画をプリロードします。
+"Play Only When Visible",可視時のみ再生
+"Video will play only when it is visible on the screen.",動画は画面に表示されている場合のみ再生されます。
+"Fallback Image",フォールバック画像
+"Fallback images appear on the screen before a video loads. When the video loads, it replaces the fallback image. If the video does not load for some reason, the fallback image remains on the screen in place of the video.",予備画像は、ビデオがロードされる前に画面に表示されます。ビデオがロードされると、フォールバック画像が置き換えられます。何らかの理由でビデオがロードされない場合、フォールバック画像はビデオの代わりに画面上に残ります。
+"Select Block",ブロック
+"All Buttons are same size",すべてのボタンは同じサイズ
+"px or %",ピーエックスまたはパーセント
+"Example: 50px or 100%",例。50pxまたは100%の場合
+"Enter HTML, CSS or JavaScript code",HTML、CSSまたはJavaScriptのコードを入力してください。
+"HTML code must be valid, all CSS & JavaScript must be wrapped in their HTML elements.","HTML コードは有効である必要があり、すべての CSS と JavaScript はそれらの HTML 要素でラップされている必要があります。"
+"You must provide a valid <a href=""%s"" target=""_blank"">Google Maps API key</a> to use a map.","マップを使用するには、有効な <a href=""%s"" target=""_blank"">Google Maps API キー</a> を提供する必要があります。"
+"Add Location",位置情報の追加
+"Carousel Settings",カルーセルの設定
+"Carousel Mode",カルーセルモード
+"Select Products By",商品を選ぶ
+"Product SKUs",製品SKU
+"
+                            
+                                <p>The products displayed may vary from this total due to several factors, including but not limited to:</p>
+                                <ul>
+                                    <li>Disabled status</li>
+                                    <li>Visibility configuration (not visible in catalog)</li>
+                                    <li>Stock availability (out of stock)</li>
+                                    <li>Website assignment</li>
+                                </ul>
+                            
+                        ","
+
+                                <p>表示されている製品は、次のようないくつかの要因により、この合計とは異なる場合があります:</p>
+                                <ul>
+                                    <li>無効化された状態</li>
+                                    <li>可視性の設定（カタログには表示されない）</li>
+                                    <li>在庫の有無（在庫切れ）</li> 
+                                    <li>ウェブサイトの割り当て</li>
+                                </ul>
+
+"
+"
+                        
+                        <p>Parallax Speed controls how the background will behave when page is scrolled.</p>
+                        <p>Negative values will make the background scroll in the reverse direction.</p>
+                        <p>Values from 0 to 1 will cause the scroll to be slower than the scroll speed of the window, values from 1 to 2 will be faster.</p>
+                        <p>0 - Fixes the background to the window (e.g. no scrolling).</p>
+                        <p>1 - Background will scroll at the same speed as the window.</p>
+                        
+                    ","
+
+                        <p>視差速度は、ページがスクロールされたときに背景がどのように動作するかを制御します。</p>
+                        <p>負の値を設定すると、背景が逆方向にスクロールします。</p>
+                        <p>0 から 1 の値は、ウィンドウのスクロール速度よりもスクロールが遅くなり、1 から 2 の値は速くなります。</p>
+                        <p>0 - ウィンドウの背景を修正します (例: スクロールしない)。</p>
+                        <p>1 - 背景はウィンドウと同じ速度でスクロールします。</p>
+
+"
+"Slider Settings",スライダーの設定
+"Created For",のために作成されました。
+"Export Configuration",エクスポート設定
+"See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","PayPal機能サポートの詳細とサポート地域のリストを参照してください。
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">こちら</a>。"
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","PayPal Express Checkoutを使用すると、顧客にPayPal Creditを通じて資金調達へのアクセス権を与えることができます。
+                        顧客が支払うためのより多くの時間を持っているにもかかわらず、あなたは、前払いで支払われます。事前に統合された支払いボタンにより、顧客はPayPal Credit&#174;で迅速に支払うことができます。
+                        <a href=""https://www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">詳細はこちら</a>"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？
+                        <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+                        PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                        PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                        PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+                        またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong class=""colorRed"">https</strong> is highly encouraged.","チェックアウトページの左上の画像。最大サイズは750×90ピクセル。<strong class=""colorRed"">https</strong>を強く推奨します。"
+"PayPal will automatically display each enabled funding option to eligible buyers.
+                                For example, PayPal Credit is only shown to buyers in countries where PayPal Credit is
+                                offered and the currency offered by the merchant is USD.","PayPalは、資格のある購入者に対して、有効になっている各資金調達オプションを自動的に表示します。
+                                たとえば、PayPalクレジットは、PayPalクレジットが利用可能な国のバイヤーにのみ表示されます。
+                                を提供し、商人が提供する通貨は米ドルです。"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？
+                                            <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+                                            PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                                            PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                                            PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+                                            またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？
+                            <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+                            PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                            PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                            PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+                            またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">なぜ融資を広告するのか？
+                                <あなたがfinance.</strong><br/>PayPalは、資金調達とバイヤーにブラウザを回すのに役立ちます。
+                                PayPalクレジットから。あなたの顧客は支払いまでの時間が増え、あなたは前払いで支払いを受けることができます - あなたの追加費用はかかりません。
+                                PayPalの無料バナー広告を使用して、顧客がPayPalでチェックアウトした際の支払いオプションとしてPayPal Credit&#174;の資金調達を宣伝しましょう。
+                                PayPalの広告プログラムは、追加購入を生成するだけでなく、15％の消費者の平均購入サイズを増加させることが示されている
+                                またはそれ以上を参照してください。<a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">詳細を見る</a>。"
+"Please check the shipping address information.",お届け先情報をご確認ください。
+"Please check the billing address information.",請求先情報をご確認ください。
+reCAPTCHA,reCAPTCHA
+"Invalid JSON received.",無効なJSONを受信しました。
+"Could not connect to service.",サービスに接続できませんでした。
+"Did not receive a 200 from the service.",サービスから200を受信しませんでした。
+"Not a success, but no error codes received!",成功ではありませんが、エラーコードは受信しませんでした
+"ReCAPTCHA response not provided.",ReCAPTCHA応答が提供されませんでした。
+"Expected hostname did not match.",期待されるホスト名が一致しませんでした。
+"Expected APK package name did not match.",期待されるAPKパッケージ名が一致しませんでした。
+"Expected action did not match.",期待されるアクションが一致しませんでした。
+"Score threshold not met.",スコアのしきい値に達しませんでした。
+"Challenge timeout.",チャレンジがタイムアウトしました。
+"The secret parameter is missing.",シークレットパラメータがありません。
+"The secret parameter is invalid or malformed.",シークレットパラメータが無効または不正な形式です。
+"The response parameter is invalid or malformed.",応答パラメータが無効または不正な形式です。
+"The request is invalid or malformed.",リクエストが無効または不正な形式です。
+"The response is no longer valid: either is too old or has been used previously.",応答はもはや有効ではありません。
+"Optional. Forces the widget to render in a specific language. Auto-detects the user's language if unspecified. See
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">supported Language Codes</a>.","オプションです。ウィジェットを特定の言語でレンダリングするように強制します。指定されていない場合、ユーザの言語を自動検出します。以下の項目を参照してください。
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/language"">対応言語コード</a>。"
+Normal,通常の
+Compact,コンパクト
+"Light Theme",ライトテーマ
+"Dark Theme",暗いテーマ
+"From 0.0 to 1.0, where 1.0 is very likely a good interaction, and 0.0 is very likely a bot.<br />
+                        For more details, see the official documentation
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">Interpreting the score</a>.","0.0から1.0まで、1.0は良い相互作用の可能性が非常に高く、0.0はボットの可能性が非常に高いです。
+                        詳細については、公式ドキュメントを参照してください。
+                        <a target=""_blank"" href=""https://developers.google.com/recaptcha/docs/v3#interpreting_the_score"">スコアの解釈</a>"
+"
+                        <p>We’ll try to show it again the next time you sign in to Magento Admin.</p>
+                        <p>To learn more about new features, see our latest Release Notes in
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocs' Release Information</a>.
+                        </p>","
+                        <p>次回、Magento Admin.</p>にサインインした時に再度表示してみます。
+                        <p>新機能の詳細については、最新のリリースノートを参照してください。
+                        <a href=""https://devdocs.magento.com/magento-release-information.html""
+                        target=""_blank"">DevDocsのリリース情報</a>。
+                        </p>"
+"Requisition List Section",請求書リストセクション
+"Send this invitation now and earn %1 when your invitee signs up on our site.",今すぐこの招待状を送信して、招待者が当サイトにサインアップした時に1%を獲得しましょう。
+"You can reward up to %1 invitee registration(s).",招待者の登録で最大1%の報酬を得ることができます。
+"Earn %1 for purchases your invitees make.",招待者が購入すると、1%を獲得できます。
+"You can reward up to %1 invitee purchase(s).",あなたは招待者の購入に対して最大1%の報酬を得ることができます。
+"To select No, please <a href=""%1"">create</a> the Public Catalog first.","いいえ」を選択する場合は、<a href=""%1"">公開カタログを作成してから</a>ください。"
+"<strong class=""colorRed"">Warning!</strong> Be sure that you have critical.css file for your theme. Other CSS files will be loaded asynchronously.","<strong class=""colorRed"">Warning! 他のCSSファイルは非同期で読み込まれます。"
+"Translate Title",タイトルを翻訳する
+"Two Factor Auth",二因子認証
+"Braintree Payments (by <a href=""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENE Commerce</a>)","ブレインツリーペイメント (<a href = ""https://www.gene.co.uk/braintree-payments/"" target=""_blank"" rel=""noopener noreferrer"">GENEコマース</a>)"
+"Accept credit/debit cards and PayPal in your Magento store.<br />No setup or monthly fees and your customers never leave your store to complete the purchase.","<br />クレジットカードやデビットカード、PayPalでのお支払いが可能です。"
+"Enable Card Payments",カード決済を有効にする
+"Enable PayPal Credit through Braintree",ブレインツリー経由でPayPalクレジットを有効にする
+"Enable Vault for Card Payments",カード決済のためにVaultを有効にする
+"Enable Vault CVV Re-verification","有効なボールト CVV 再検証"
+"Kount Settings",カウントの設定
+"ENS URL",ＥＮＳＵＲＬ
+"Skip Fraud Checks on Admin Orders",管理者注文の不正チェックをスキップ
+"ENS Allowed IPs","ENS 許可 IP"
+"Bypass Fraud Protection Threshold",バイパス不正防止閾値
+"ACH through Braintree",ブレインツリー経由のACH
+"Enable ACH Direct Debit","ACH ダイレクトデビットを有効にする"
+"Apple Pay through Braintree","ブレインツリー経由のApple Pay"
+"Enable ApplePay through Braintree",ブレインツリー経由でApplePayを有効にする
+"Merchant Name",商人名
+"Local Payment Methods",現地でのお支払い方法
+"Enable Local Payment Methods",ローカルの支払い方法を有効にする
+"Allowed Payment Methods",許可された支払い方法
+"GooglePay through Braintree",ブレインツリー経由のGooglePay
+"Enable GooglePay through Braintree",ブレインツリー経由でGooglePayを有効にする
+"Accepted Cards",利用可能なカード
+"Venmo through Braintree",ブレインツリー経由のVenmo
+"Enable Venmo through Braintree",ブレインツリー経由でVenmoを有効にする
+"Mini-Cart and Cart Page",ミニカートとカートのページ
+"Customise Button",ボタンのカスタマイズ
+"Enable PayPal Buy Now button on the product page",製品ページのPayPal購入ボタンを有効にする
+"PayPal Credit through Braintree",ブレインツリー経由のPayPalクレジット
+"PayPal REST Client ID","PayPal RESTクライアントID"
+"PayPal REST Secret","PayPal RESTシークレット"
+"Activation Code",アクティベーションコード
+"Merchant Name on the FCA Register",FCA登録のマーチャント名
+"Braintree Transaction Source",ブレインツリーのトランザクションソース
+"Address Cleansing",アドレスクレンジング
+"Integrated Address Cleansing",統合アドレスクレンジング
+"<p>Ensure every transaction has the proper tax jurisdiction assignment to trigger the accurate tax calculation rules. Each new address entered is automatically cleansed for errors and the full 9-digit zip code assigned.</p>","<p>正確な税金計算ルールを起動するために、すべてのトランザクションに適切な税務管轄権が割り当てられていることを確認してください。入力された各新しい住所は、エラーがないように自動的にクレンジングされ、9 桁の郵便番号が完全に割り当てられます。"
+"Connection Settings",接続設定
+"Vertex Address Cleansing",頂点アドレスクレンジング
+"Cleanse US addresses entered by customers",顧客が入力した米国のアドレスをクリーンアップ
+"Address Validation API URL","アドレス検証API URL"
+"This configuration value is shared with Vertex Tax settings.","この構成値は、Vertex Tax の設定と共有されます。"
+"Trusted ID",トラステッドID
+"Confirmation Message When No Action Is Needed",アクションが不要な場合の確認メッセージ
+"Vertex Settings",頂点の設定
+"Streamline, automate and standardize taxability and calculation on every sales and purchase transaction",すべての売買取引における課税性と計算を合理化、自動化、標準化します。
+"Vertex Tax Links",バーテックスタックスリンク
+"API Status",APIステータス
+"Calculation API URL","計算API URL"
+"Integration Settings",統合設定
+"Vertex Tax Calculation",頂点の税額計算
+"Commit To Tax Journal When",税務日誌にコミットするとき
+"Invoice When Order Status Is",注文ステータスが
+"Countries from which orders should be processed through Vertex. Use the shipping country, or if none the billing country.",注文がVertexを通じて処理されるべき国。発送国を使用するか、またはない場合は請求国を使用してください。
+"Summarize Tax By",税金を要約する
+"Please select how Tax should be summarized",税金のまとめ方を選択してください
+"Flexible Fields",柔軟な分野
+"Use optional Flexible Fields to identify taxability decisions based on Magento information beyond the standard customer and product taxability drivers defined by Vertex.","オプションのフレキシブルフィールドを使用して、Vertex によって定義された標準的な顧客および製品の課税対象ドライバーを超えて、Magento の情報に基づいて課税対象の決定を識別することができます。"
+"Code Fields",コードフィールド
+"Numeric Fields",数値フィールド
+"Date Fields",日付フィールド
+"Delivery Terms",配信条件
+"Global Delivery Term",グローバル配送期間
+"Delivery Term Override",配信期間の上書き
+"Override the Global Delivery Term based on the country being shipped to",出荷先の国に基づいたグローバル配送期間を上書きする
+"Seller Details",販売者の詳細
+"Company Code",会社コード
+"The Vertex TaxCentral user interface is used to set up any taxability rules that apply at this level.
+                    This should be a parameter that is configurable to data from the host system based on an individual company's legal and tax requirements.","Vertex TaxCentral ユーザー インターフェイスは、このレベルで適用されるすべての課税ルールを設定するために使用されます。
+                    これは、個々の企業の法的および税務要件に基づいてホストシステムからのデータに設定可能なパラメータである必要があります。"
+"Location Code",場所コード
+"The locationCode attribute on the line item represents the store location code that is used for returns filing","行項目の locationCode 属性は、リターン・ファイリングに使用される店舗のロケーション・コードを表します。"
+"Use Shipping Origin as Source",出荷元をソースとして使用する
+"Use the address information defined in Sales &gt; Shipping &gt; Origin.  Selecting No allows you to configure the Vertex Seller address separately from the shipping origin.","Sales &gt; Shipping &gt; Origin で定義されたアドレス情報を使用します。 いいえを選択すると、出荷元とは別にVertex販売店の住所を設定することができます。"
+"The first line of the street address.","通りの住所の 1 行目。"
+"The first second of the street address.",ストリートアドレスの最初の2番目の行。
+"The proper name of the city used to determine Tax Jurisdiction(s)",課税管轄地の決定に使用される都市の適切な名前。
+"The country used to determine the Tax Jurisdiction(s)",課税管轄地を決定するために使用された国
+"The proper name or the postal abbreviation of the state, province, or territory used to determine Tax Jurisdiction(s)",課税管轄権を決定するために使用される州、州、地域の固有名詞または郵便番号の略語。
+"Postal Code",郵便番号
+"The postal code used to determine Tax Jurisdiction(s)",課税管轄を決定するために使用される郵便番号
+"Vertex Request Logging",頂点リクエストロギング
+"When enabled, all API requests are tracked.",有効にすると、すべてのAPIリクエストが追跡されます。
+"Log Rotation",ログの回転
+"Perform an action on logs over a certain age at a regular interval",一定年齢以上のログに対して、一定の間隔でアクションを実行します。
+"Rotation Action",回転動作
+"When exported, entries are stored at <strong>var/vertexlog_Y-m-d.csv</strong>",エクスポートされると、エントリは<strong>var/vertexlog_Y-m-d.csv</strong>に格納されます。
+"Log Entry Lifetime (days)",ログエントリの寿命（日
+"How long a log should exist before it is eligible to be rotated. A value of 0 will mark all logs as eligible",ローテーションの対象となるまでのログの存在時間を指定します。値が0の場合、すべてのログが対象となります。
+"Rotation Frequency",回転数
+"How often the Rotation Action should be applied to the logs",ローテーションアクションは、ログにどのくらいの頻度で適用されるべきか
+"Rotation Time",回転時間
+"Developer &amp; Support Information",デベロッパー＆サポート情報
+"Connector Version",コネクタバージョン
+"Shipping Product Codes",出荷製品コード
+"Default Customer Code",デフォルトの顧客コード
+"Refund Adjustments Class",払い戻し調整クラス
+"Adjustment Fee Code",調整費コード
+"Adjustment Refund Code",調整リファンドコード
+"Gift Wrap For Order Class",オーダークラス用ギフトラップ
+"Gift Wrap For Order Code",オーダーコードのギフトラップ
+"Gift Wrap Class For Single Product",単品用ギフトラッピングクラス
+"Gift Wrap Code Prefix For Single Product",シングル製品のギフトラップコードプレフィックス
+"Item Line Class For Printed Gift Card","印刷されたギフト カードのための項目ライン クラス"
+"Item Line Code For Printed Gift Card",印刷されたギフトカードのアイテムラインコード
+"Class For Reward Points Discount Line Item",ご褒美ポイント割引ラインのクラス
+"Product Code For Reward Points Discount Line Item",ポイント割引ラインの商品コード
+"Vertex FPT Invoice Code Prefix",バーテックスFPTインボイスコードプレフィックス
+"Vertex Custom FPT Tax Class",バーテックスカスタムFPT税クラス
+"Vertex Tax Class for FPT",FPTの頂点税クラス
+Vertex,頂点
+"Vertex tax calculation data",頂点の税金計算データ
+"Vertex Customer Code",バーテックス顧客コード
+"Vertex Messages",頂点メッセージ
+Yotpo,よっぽ
+"Product Reviews Settings",製品レビュー設定
+"Yotpo Analytics",Yotpoアナリティクス
+"Reviews and Visual Marketing",レビューとビジュアルマーケティング
+Setup,セットアップ
+"Enable Yotpo",Yotpoを有効にする
+"To connect Yotpo to your store, enter your <a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a> in the fields below and save your configuration.","Yotpoをストアに接続するには、<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" title=""App Key and API Secret"" target=""_blank"" style=""color:#2b7dbd"">App Key and API Secret</a>を以下のフィールドに入力し、設定を保存します。"
+"App Key",アプリキー
+"Note: Additional stores must be connected to their own App Key via Store View settings.","注：追加のストアは、ストアビューの設定で独自のApp Keyに接続する必要があります。"
+"API Secret",APIシークレット
+"<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_blank"" title=""I can't find my API Secret"" style=""color:#2b7dbd"">I can't find my API Secret</a>","<a href=""https://docs.magento.com/m2/ee/user_guide/marketing/yotpo-connect.html#enable-yotpo-and-connect-your-magento-store"" target=""_blank"" title=""APIシークレットが見つかりません"" style=""color:#2b7dbd"">APIシークレットが見つかりません</a>。"
+"Module Version",モジュールバージョン
+"Widget Settings",ウィジェットの設定
+"Show Reviews Widget",レビューウィジェットを表示
+"Show star rating on category pages",カテゴリページに星の評価を表示
+"Show star rating on product pages",製品ページに星の評価を表示
+"Show Q&A Bottom-line","ショーQ&A ボトムライン"
+"Hide Magento Reviews",Magentoのレビューを隠す
+"Enable Debug Mode",デバッグモードを有効にする
+"Enable in order to log all Yotpo processes when Magento debug mode enabled.",Magentoのデバッグモードが有効になっているときに、すべてのYotpoプロセスをログに記録するために有効にします。
+"Sync Status",ステータスの同期
+"Orders Sync From Date",注文の同期日
+"Orders Sync Limit",注文同期制限
+"Note: Setting a high sync limit (or no limit) may result in a high server load (0=no limit).","注: 同期リミットを高く設定する（またはリミットなし）と、サーバーの負荷が高くなることがあります（0=リミットなし）。"
+"Orders Sync Statuses",注文の同期ステータス
+"Customize the order status that will trigger the order export after purchase. You can choose multiple statuses by holding ctrl button.",購入後にエクスポートされる注文のステータスをカスタマイズします。ctrlボタンを押しながら複数のステータスを選択することができます。
