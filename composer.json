@@ -1,6 +1,6 @@
 {
     "name": "mason-test/ee-language-ja_jp",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "type": "magento2-language",
     "description": "ja_JP language package.",
     "license": [
